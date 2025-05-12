@@ -34,16 +34,16 @@
      <!-- Lives -->
     <div class="lives">
         {#if game.lives == 3}
-        <img class="life" src="static/heart-svgrepo-com.svg" alt="life" />
-		<img class="life" src="static/heart-svgrepo-com.svg" alt="life" />
-		<img class="life" src="static/heart-svgrepo-com.svg" alt="life" />
+        <img class="life" src="heart-svgrepo-com.svg" alt="life" />
+		<img class="life" src="heart-svgrepo-com.svg" alt="life" />
+		<img class="life" src="heart-svgrepo-com.svg" alt="life" />
         {/if}
         {#if game.lives == 2}
-		<img class="life" src="static/heart-svgrepo-com.svg" alt="life" />
-		<img class="life" src="static/heart-svgrepo-com.svg" alt="life" />
+		<img class="life" src="heart-svgrepo-com.svg" alt="life" />
+		<img class="life" src="heart-svgrepo-com.svg" alt="life" />
         {/if}
         {#if game.lives == 1}
-		<img class="life" src="static/heart-svgrepo-com.svg" alt="life" />
+		<img class="life" src="heart-svgrepo-com.svg" alt="life" />
         {/if}
     </div>
 

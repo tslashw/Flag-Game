@@ -83,7 +83,7 @@ export class GameRunner {
         this.countries = this.shuffleArray(this.countries);
 
         // Setup round object:
-        this.round.currentFlagPath = `static/flags/SVG/${this.countries[0].code2l}.svg`;
+        this.round.currentFlagPath = `flags/SVG/${this.countries[0].code2l}.svg`;
         this.round.answer = this.countries[0].name;
         this.round.options = this.shuffleArray([this.countries[0].name, this.countries[1].name, this.countries[2].name]);
 
