@@ -103,10 +103,6 @@
 		/* border-radius: 25px; */
 	}
 
-	.answer-button:hover {
-		background-color: orange;
-	}
-
     .score-wrapper {
         text-align: center;
         size: 200%;
