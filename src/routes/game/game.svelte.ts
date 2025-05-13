@@ -109,7 +109,7 @@ export class GameRunner {
 
     checkAnswer = (submission:string) => {
         if (this.round.answer == submission) {
-            alert("Correct!");
+            alert(`Correct!\nFun Facts:\nCapital City: ${this.countries[0]["capital"]}`);
             this.score ++;
         }
         else {
