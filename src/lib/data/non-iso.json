@@ -1,0 +1,172 @@
+[
+    {
+        "capital": "Georgetown",
+        "code": "sh-ac",
+        "continent": "Africa",
+        "flag_1x1": "flags/1x1/sh-ac.svg",
+        "flag_4x3": "flags/4x3/sh-ac.svg",
+        "iso": false,
+        "name": "Ascension Island"
+    },
+    {
+        "code": "asean",
+        "flag_1x1": "flags/1x1/asean.svg",
+        "flag_4x3": "flags/4x3/asean.svg",
+        "iso": false,
+        "name": "Association of Southeast Asian Nations"
+    },
+    {
+        "code": "es-pv",
+        "flag_1x1": "flags/1x1/es-pv.svg",
+        "flag_4x3": "flags/4x3/es-pv.svg",
+        "iso": false,
+        "name": "Basque Country"
+    },
+    {
+        "code": "ic",
+        "flag_1x1": "flags/1x1/ic.svg",
+        "flag_4x3": "flags/4x3/ic.svg",
+        "iso": false,
+        "name": "Canary Islands"
+    },
+    {
+        "code": "es-ct",
+        "flag_1x1": "flags/1x1/es-ct.svg",
+        "flag_4x3": "flags/4x3/es-ct.svg",
+        "iso": false,
+        "name": "Catalonia"
+    },
+    {
+        "code": "cefta",
+        "flag_1x1": "flags/1x1/cefta.svg",
+        "flag_4x3": "flags/4x3/cefta.svg",
+        "iso": false,
+        "name": "Central European Free Trade Agreement"
+    },
+    {
+        "code": "cp",
+        "flag_1x1": "flags/1x1/cp.svg",
+        "flag_4x3": "flags/4x3/cp.svg",
+        "iso": false,
+        "name": "Clipperton Island"
+    },
+    {
+        "code": "dg",
+        "flag_1x1": "flags/1x1/dg.svg",
+        "flag_4x3": "flags/4x3/dg.svg",
+        "iso": false,
+        "name": "Diego Garcia"
+    },
+    {
+        "code": "eac",
+        "flag_1x1": "flags/1x1/eac.svg",
+        "flag_4x3": "flags/4x3/eac.svg",
+        "iso": false,
+        "name": "East African Community"
+    },
+    {
+        "capital": "London",
+        "code": "gb-eng",
+        "continent": "Europe",
+        "flag_1x1": "flags/1x1/gb-eng.svg",
+        "flag_4x3": "flags/4x3/gb-eng.svg",
+        "iso": false,
+        "name": "England"
+    },
+    {
+        "code": "eu",
+        "flag_1x1": "flags/1x1/eu.svg",
+        "flag_4x3": "flags/4x3/eu.svg",
+        "iso": false,
+        "name": "Europe"
+    },
+    {
+        "code": "es-ga",
+        "flag_1x1": "flags/1x1/es-ga.svg",
+        "flag_4x3": "flags/4x3/es-ga.svg",
+        "iso": false,
+        "name": "Galicia"
+    },
+    {
+        "capital": "Pristina",
+        "code": "xk",
+        "continent": "Europe",
+        "flag_1x1": "flags/1x1/xk.svg",
+        "flag_4x3": "flags/4x3/xk.svg",
+        "iso": false,
+        "name": "Kosovo"
+    },
+    {
+        "code": "arab",
+        "flag_1x1": "flags/1x1/arab.svg",
+        "flag_4x3": "flags/4x3/arab.svg",
+        "iso": false,
+        "name": "League of Arab States"
+    },
+    {
+        "capital": "Belfast",
+        "code": "gb-nir",
+        "continent": "Europe",
+        "flag_1x1": "flags/1x1/gb-nir.svg",
+        "flag_4x3": "flags/4x3/gb-nir.svg",
+        "iso": false,
+        "name": "Northern Ireland"
+    },
+    {
+        "code": "pc",
+        "flag_1x1": "flags/1x1/pc.svg",
+        "flag_4x3": "flags/4x3/pc.svg",
+        "iso": false,
+        "name": "Pacific Community"
+    },
+    {
+        "capital": "Jamestown",
+        "code": "sh-hl",
+        "continent": "Africa",
+        "flag_1x1": "flags/1x1/sh-hl.svg",
+        "flag_4x3": "flags/4x3/sh-hl.svg",
+        "iso": false,
+        "name": "Saint Helena"
+    },
+    {
+        "capital": "Edinburgh",
+        "code": "gb-sct",
+        "continent": "Europe",
+        "flag_1x1": "flags/1x1/gb-sct.svg",
+        "flag_4x3": "flags/4x3/gb-sct.svg",
+        "iso": false,
+        "name": "Scotland"
+    },
+    {
+        "capital": "Edinburgh of the Seven Seas",
+        "code": "sh-ta",
+        "continent": "Africa",
+        "flag_1x1": "flags/1x1/sh-ta.svg",
+        "flag_4x3": "flags/4x3/sh-ta.svg",
+        "iso": false,
+        "name": "Tristan da Cunha"
+    },
+    {
+        "code": "un",
+        "flag_1x1": "flags/1x1/un.svg",
+        "flag_4x3": "flags/4x3/un.svg",
+        "iso": false,
+        "name": "United Nations"
+    },
+    {
+        "code": "xx",
+        "flag_1x1": "flags/1x1/xx.svg",
+        "flag_4x3": "flags/4x3/xx.svg",
+        "iso": false,
+        "name": "Unknown"
+    },
+    {
+        "capital": "Cardiff",
+        "code": "gb-wls",
+        "continent": "Europe",
+        "flag_1x1": "flags/1x1/gb-wls.svg",
+        "flag_4x3": "flags/4x3/gb-wls.svg",
+        "iso": false,
+        "name": "Wales"
+    }
+]

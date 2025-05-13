@@ -1,0 +1,6695 @@
+[
+    {
+        "code": "AF",
+        "cca3": "AFG",
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "prs": "Dari",
+            "pus": "Pashto",
+            "tuk": "Turkmen"
+        },
+        "currencies": {
+            "AFN": {
+                "name": "Afghan afghani",
+                "symbol": "\\u060b"
+            }
+        },
+        "center": {
+            "latitude": "33.98299275",
+            "longitude": "66.39159363",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/af.svg",
+        "flag_4x3": "flags/4x3/af.svg"
+    },
+    {
+        "code": "AX",
+        "cca3": "ALA",
+        "name": "Aland Islands",
+        "capital": "Mariehamn",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "swe": "Swedish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "60.25403213",
+            "longitude": "20.35918350",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ax.svg",
+        "flag_4x3": "flags/4x3/ax.svg"
+    },
+    {
+        "code": "AL",
+        "cca3": "ALB",
+        "name": "Albania",
+        "capital": "Tirana",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "sqi": "Albanian"
+        },
+        "currencies": {
+            "ALL": {
+                "name": "Albanian lek",
+                "symbol": "L"
+            }
+        },
+        "center": {
+            "latitude": "41.00017358",
+            "longitude": "19.87170014",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/al.svg",
+        "flag_4x3": "flags/4x3/al.svg"
+    },
+    {
+        "code": "DZ",
+        "cca3": "DZA",
+        "name": "Algeria",
+        "capital": "Algiers",
+        "continent": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "DZD": {
+                "name": "Algerian dinar",
+                "symbol": "\\u062f.\\u062c"
+            }
+        },
+        "center": {
+            "latitude": "27.89861690",
+            "longitude": "3.19771194",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/dz.svg",
+        "flag_4x3": "flags/4x3/dz.svg"
+    },
+    {
+        "code": "AS",
+        "cca3": "ASM",
+        "name": "American Samoa",
+        "capital": "Pago Pago",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-14.30634641",
+            "longitude": "-170.69501750",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/as.svg",
+        "flag_4x3": "flags/4x3/as.svg"
+    },
+    {
+        "code": "AD",
+        "cca3": "AND",
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "cat": "Catalan"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "42.54057088",
+            "longitude": "1.55201340",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ad.svg",
+        "flag_4x3": "flags/4x3/ad.svg"
+    },
+    {
+        "code": "AO",
+        "cca3": "AGO",
+        "name": "Angola",
+        "capital": "Luanda",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "AOA": {
+                "name": "Angolan kwanza",
+                "symbol": "Kz"
+            }
+        },
+        "center": {
+            "latitude": "-12.16469683",
+            "longitude": "16.70933622",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ao.svg",
+        "flag_4x3": "flags/4x3/ao.svg"
+    },
+    {
+        "code": "AI",
+        "cca3": "AIA",
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.22053521",
+            "longitude": "-63.06861300",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ai.svg",
+        "flag_4x3": "flags/4x3/ai.svg"
+    },
+    {
+        "code": "AQ",
+        "cca3": "ATA",
+        "name": "Antarctica",
+        "capital": "None",
+        "continent": "Antarctica",
+        "subregion": "",
+        "languages": {},
+        "currencies": {},
+        "center": {
+            "latitude": "-45.13806295",
+            "longitude": "10.48095703",
+            "zoom": "2"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/aq.svg",
+        "flag_4x3": "flags/4x3/aq.svg"
+    },
+    {
+        "code": "AG",
+        "cca3": "ATG",
+        "name": "Antigua and Barbuda",
+        "capital": "St. John's",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "17.48060423",
+            "longitude": "-61.42014426",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ag.svg",
+        "flag_4x3": "flags/4x3/ag.svg"
+    },
+    {
+        "code": "AR",
+        "cca3": "ARG",
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaran\\u00ed",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "ARS": {
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-38.01529308",
+            "longitude": "-64.97897469",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ar.svg",
+        "flag_4x3": "flags/4x3/ar.svg"
+    },
+    {
+        "code": "AM",
+        "cca3": "ARM",
+        "name": "Armenia",
+        "capital": "Yerevan",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "hye": "Armenian"
+        },
+        "currencies": {
+            "AMD": {
+                "name": "Armenian dram",
+                "symbol": "\\u058f"
+            }
+        },
+        "center": {
+            "latitude": "40.13475528",
+            "longitude": "45.01072318",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/am.svg",
+        "flag_4x3": "flags/4x3/am.svg"
+    },
+    {
+        "code": "AW",
+        "cca3": "ABW",
+        "name": "Aruba",
+        "capital": "Oranjestad",
+        "continent": "South America",
+        "subregion": "Caribbean",
+        "languages": {
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "currencies": {
+            "AWG": {
+                "name": "Aruban florin",
+                "symbol": "\\u0192"
+            }
+        },
+        "center": {
+            "latitude": "12.52109661",
+            "longitude": "-69.96833800",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/aw.svg",
+        "flag_4x3": "flags/4x3/aw.svg"
+    },
+    {
+        "code": "AU",
+        "cca3": "AUS",
+        "name": "Australia",
+        "capital": "Canberra",
+        "continent": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-26.29594646",
+            "longitude": "133.55540944",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/au.svg",
+        "flag_4x3": "flags/4x3/au.svg"
+    },
+    {
+        "code": "AT",
+        "cca3": "AUT",
+        "name": "Austria",
+        "capital": "Vienna",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "bar": "Austro-Bavarian German"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "47.63125476",
+            "longitude": "13.18776731",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/at.svg",
+        "flag_4x3": "flags/4x3/at.svg"
+    },
+    {
+        "code": "AZ",
+        "cca3": "AZE",
+        "name": "Azerbaijan",
+        "capital": "Baku",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "aze": "Azerbaijani",
+            "rus": "Russian"
+        },
+        "currencies": {
+            "AZN": {
+                "name": "Azerbaijani manat",
+                "symbol": "\\u20bc"
+            }
+        },
+        "center": {
+            "latitude": "40.35321757",
+            "longitude": "47.46706372",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/az.svg",
+        "flag_4x3": "flags/4x3/az.svg"
+    },
+    {
+        "code": "BS",
+        "cca3": "BHS",
+        "name": "Bahamas",
+        "capital": "Nassau",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "BSD": {
+                "name": "Bahamian dollar",
+                "symbol": "$"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "24.45991732",
+            "longitude": "-77.68192453",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bs.svg",
+        "flag_4x3": "flags/4x3/bs.svg"
+    },
+    {
+        "code": "BH",
+        "cca3": "BHR",
+        "name": "Bahrain",
+        "capital": "Manama",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "BHD": {
+                "name": "Bahraini dinar",
+                "symbol": ".\\u062f.\\u0628"
+            }
+        },
+        "center": {
+            "latitude": "25.90740996",
+            "longitude": "50.65932354",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bh.svg",
+        "flag_4x3": "flags/4x3/bh.svg"
+    },
+    {
+        "code": "BD",
+        "cca3": "BGD",
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "ben": "Bengali"
+        },
+        "currencies": {
+            "BDT": {
+                "name": "Bangladeshi taka",
+                "symbol": "\\u09f3"
+            }
+        },
+        "center": {
+            "latitude": "24.08273251",
+            "longitude": "90.49915527",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bd.svg",
+        "flag_4x3": "flags/4x3/bd.svg"
+    },
+    {
+        "code": "BB",
+        "cca3": "BRB",
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "BBD": {
+                "name": "Barbadian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.19383077",
+            "longitude": "-59.54319600",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bb.svg",
+        "flag_4x3": "flags/4x3/bb.svg"
+    },
+    {
+        "code": "BY",
+        "cca3": "BLR",
+        "name": "Belarus",
+        "capital": "Minsk",
+        "continent": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "bel": "Belarusian",
+            "rus": "Russian"
+        },
+        "currencies": {
+            "BYN": {
+                "name": "Belarusian ruble",
+                "symbol": "Br"
+            }
+        },
+        "center": {
+            "latitude": "53.58628747",
+            "longitude": "27.95338900",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/by.svg",
+        "flag_4x3": "flags/4x3/by.svg"
+    },
+    {
+        "code": "BE",
+        "cca3": "BEL",
+        "name": "Belgium",
+        "capital": "Brussels",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "50.49593874",
+            "longitude": "4.46993600",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/be.svg",
+        "flag_4x3": "flags/4x3/be.svg"
+    },
+    {
+        "code": "BZ",
+        "cca3": "BLZ",
+        "name": "Belize",
+        "capital": "Belmopan",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "bjz": "Belizean Creole",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "BZD": {
+                "name": "Belize dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "17.21153631",
+            "longitude": "-88.01424956",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bz.svg",
+        "flag_4x3": "flags/4x3/bz.svg"
+    },
+    {
+        "code": "BJ",
+        "cca3": "BEN",
+        "name": "Benin",
+        "capital": "Porto-Novo",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "9.37180859",
+            "longitude": "2.29386134",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bj.svg",
+        "flag_4x3": "flags/4x3/bj.svg"
+    },
+    {
+        "code": "BM",
+        "cca3": "BMU",
+        "name": "Bermuda",
+        "capital": "Hamilton",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "BMD": {
+                "name": "Bermudian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "32.31995785",
+            "longitude": "-64.76182765",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/bm.svg",
+        "flag_4x3": "flags/4x3/bm.svg"
+    },
+    {
+        "code": "BT",
+        "cca3": "BTN",
+        "name": "Bhutan",
+        "capital": "Thimphu",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "dzo": "Dzongkha"
+        },
+        "currencies": {
+            "BTN": {
+                "name": "Bhutanese ngultrum",
+                "symbol": "Nu."
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\\u20b9"
+            }
+        },
+        "center": {
+            "latitude": "27.50752756",
+            "longitude": "90.43360300",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bt.svg",
+        "flag_4x3": "flags/4x3/bt.svg"
+    },
+    {
+        "code": "BO",
+        "cca3": "BOL",
+        "name": "Bolivia",
+        "capital": "Sucre",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "grn": "Guaran\\u00ed",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "BOB": {
+                "name": "Bolivian boliviano",
+                "symbol": "Bs."
+            }
+        },
+        "center": {
+            "latitude": "-16.74518128",
+            "longitude": "-65.19265691",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bo.svg",
+        "flag_4x3": "flags/4x3/bo.svg"
+    },
+    {
+        "code": "BQ",
+        "cca3": "BES",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "capital": "Kralendijk",
+        "continent": "South America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "12.17229702",
+            "longitude": "-68.28831170",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/bq.svg",
+        "flag_4x3": "flags/4x3/bq.svg"
+    },
+    {
+        "code": "BA",
+        "cca3": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "bos": "Bosnian",
+            "hrv": "Croatian",
+            "srp": "Serbian"
+        },
+        "currencies": {
+            "BAM": {
+                "name": "Bosnia and Herzegovina convertible mark",
+                "symbol": "KM"
+            }
+        },
+        "center": {
+            "latitude": "44.00040856",
+            "longitude": "17.81640910",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ba.svg",
+        "flag_4x3": "flags/4x3/ba.svg"
+    },
+    {
+        "code": "BW",
+        "cca3": "BWA",
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "continent": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "eng": "English",
+            "tsn": "Tswana"
+        },
+        "currencies": {
+            "BWP": {
+                "name": "Botswana pula",
+                "symbol": "P"
+            }
+        },
+        "center": {
+            "latitude": "-22.18279485",
+            "longitude": "24.22344422",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bw.svg",
+        "flag_4x3": "flags/4x3/bw.svg"
+    },
+    {
+        "code": "BR",
+        "cca3": "BRA",
+        "name": "Brazil",
+        "capital": "Bras\\u00edlia",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "BRL": {
+                "name": "Brazilian real",
+                "symbol": "R$"
+            }
+        },
+        "center": {
+            "latitude": "-11.80965046",
+            "longitude": "-53.33152600",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/br.svg",
+        "flag_4x3": "flags/4x3/br.svg"
+    },
+    {
+        "code": "IO",
+        "cca3": "IOT",
+        "name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "continent": "Asia",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-7.33461519",
+            "longitude": "72.42425280",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/io.svg",
+        "flag_4x3": "flags/4x3/io.svg"
+    },
+    {
+        "code": "BN",
+        "cca3": "BRN",
+        "name": "Brunei Darussalam",
+        "capital": "Bandar Seri Begawan",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "msa": "Malay"
+        },
+        "currencies": {
+            "BND": {
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "4.54189364",
+            "longitude": "114.60132823",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bn.svg",
+        "flag_4x3": "flags/4x3/bn.svg"
+    },
+    {
+        "code": "BG",
+        "cca3": "BGR",
+        "name": "Bulgaria",
+        "capital": "Sofia",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "bul": "Bulgarian"
+        },
+        "currencies": {
+            "BGN": {
+                "name": "Bulgarian lev",
+                "symbol": "\\u043b\\u0432"
+            }
+        },
+        "center": {
+            "latitude": "42.70160678",
+            "longitude": "25.48583200",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bg.svg",
+        "flag_4x3": "flags/4x3/bg.svg"
+    },
+    {
+        "code": "BF",
+        "cca3": "BFA",
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "12.22492458",
+            "longitude": "-1.56159100",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bf.svg",
+        "flag_4x3": "flags/4x3/bf.svg"
+    },
+    {
+        "code": "BI",
+        "cca3": "BDI",
+        "name": "Burundi",
+        "capital": "Bujumbura",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "fra": "French",
+            "run": "Kirundi"
+        },
+        "currencies": {
+            "BIF": {
+                "name": "Burundian franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "-3.40499707",
+            "longitude": "29.88592902",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bi.svg",
+        "flag_4x3": "flags/4x3/bi.svg"
+    },
+    {
+        "code": "CV",
+        "cca3": "CPV",
+        "name": "Cabo Verde",
+        "capital": "Praia",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "CVE": {
+                "name": "Cape Verdean escudo",
+                "symbol": "Esc"
+            }
+        },
+        "center": {
+            "latitude": "15.11988711",
+            "longitude": "-23.60517010",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cv.svg",
+        "flag_4x3": "flags/4x3/cv.svg"
+    },
+    {
+        "code": "KH",
+        "cca3": "KHM",
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "khm": "Khmer"
+        },
+        "currencies": {
+            "KHR": {
+                "name": "Cambodian riel",
+                "symbol": "\\u17db"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "12.83288883",
+            "longitude": "104.84814273",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kh.svg",
+        "flag_4x3": "flags/4x3/kh.svg"
+    },
+    {
+        "code": "CM",
+        "cca3": "CMR",
+        "name": "Cameroon",
+        "capital": "Yaound\\u00e9",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "7.38622543",
+            "longitude": "12.72825915",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cm.svg",
+        "flag_4x3": "flags/4x3/cm.svg"
+    },
+    {
+        "code": "CA",
+        "cca3": "CAN",
+        "name": "Canada",
+        "capital": "Ottawa",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "currencies": {
+            "CAD": {
+                "name": "Canadian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "60.36196817",
+            "longitude": "-106.69833150",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ca.svg",
+        "flag_4x3": "flags/4x3/ca.svg"
+    },
+    {
+        "code": "KY",
+        "cca3": "CYM",
+        "name": "Cayman Islands",
+        "capital": "George Town",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "KYD": {
+                "name": "Cayman Islands dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "19.31322102",
+            "longitude": "-81.25459800",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ky.svg",
+        "flag_4x3": "flags/4x3/ky.svg"
+    },
+    {
+        "code": "CF",
+        "cca3": "CAF",
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "sag": "Sango"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "6.82541830",
+            "longitude": "20.64281514",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cf.svg",
+        "flag_4x3": "flags/4x3/cf.svg"
+    },
+    {
+        "code": "TD",
+        "cca3": "TCD",
+        "name": "Chad",
+        "capital": "N'Djamena",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "14.80342407",
+            "longitude": "18.78714064",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/td.svg",
+        "flag_4x3": "flags/4x3/td.svg"
+    },
+    {
+        "code": "CL",
+        "cca3": "CHL",
+        "name": "Chile",
+        "capital": "Santiago",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "CLP": {
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-38.01760790",
+            "longitude": "-71.40014474",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cl.svg",
+        "flag_4x3": "flags/4x3/cl.svg"
+    },
+    {
+        "code": "CN",
+        "cca3": "CHN",
+        "name": "China",
+        "capital": "Beijing",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "\\u00a5"
+            }
+        },
+        "center": {
+            "latitude": "36.71457440",
+            "longitude": "103.55819197",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cn.svg",
+        "flag_4x3": "flags/4x3/cn.svg"
+    },
+    {
+        "code": "CX",
+        "cca3": "CXR",
+        "name": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "continent": "Asia",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-10.49170619",
+            "longitude": "105.68083796",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/cx.svg",
+        "flag_4x3": "flags/4x3/cx.svg"
+    },
+    {
+        "code": "CC",
+        "cca3": "CCK",
+        "name": "Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "continent": "Asia",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-12.12890685",
+            "longitude": "96.84689104",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/cc.svg",
+        "flag_4x3": "flags/4x3/cc.svg"
+    },
+    {
+        "code": "CO",
+        "cca3": "COL",
+        "name": "Colombia",
+        "capital": "Bogot\\u00e1",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "COP": {
+                "name": "Colombian peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "3.68182320",
+            "longitude": "-73.53927436",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/co.svg",
+        "flag_4x3": "flags/4x3/co.svg"
+    },
+    {
+        "code": "KM",
+        "cca3": "COM",
+        "name": "Comoros",
+        "capital": "Moroni",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French",
+            "zdj": "Comorian"
+        },
+        "currencies": {
+            "KMF": {
+                "name": "Comorian franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "-11.64529989",
+            "longitude": "43.33330200",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/km.svg",
+        "flag_4x3": "flags/4x3/km.svg"
+    },
+    {
+        "code": "CK",
+        "cca3": "COK",
+        "name": "Cook Islands",
+        "capital": "Avarua",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "rar": "Cook Islands M\\u0101ori"
+        },
+        "currencies": {
+            "CKD": {
+                "name": "Cook Islands dollar",
+                "symbol": "$"
+            },
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-21.23673066",
+            "longitude": "-159.77766900",
+            "zoom": "13"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ck.svg",
+        "flag_4x3": "flags/4x3/ck.svg"
+    },
+    {
+        "code": "CR",
+        "cca3": "CRI",
+        "name": "Costa Rica",
+        "capital": "San Jos\\u00e9",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican col\\u00f3n",
+                "symbol": "\\u20a1"
+            }
+        },
+        "center": {
+            "latitude": "9.98427463",
+            "longitude": "-84.09949534",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cr.svg",
+        "flag_4x3": "flags/4x3/cr.svg"
+    },
+    {
+        "code": "HR",
+        "cca3": "HRV",
+        "name": "Croatia",
+        "capital": "Zagreb",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "hrv": "Croatian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "44.81372482",
+            "longitude": "16.29039507",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/hr.svg",
+        "flag_4x3": "flags/4x3/hr.svg"
+    },
+    {
+        "code": "CU",
+        "cca3": "CUB",
+        "name": "Cuba",
+        "capital": "Havana",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "CUC": {
+                "name": "Cuban convertible peso",
+                "symbol": "$"
+            },
+            "CUP": {
+                "name": "Cuban peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "21.54513189",
+            "longitude": "-79.00064743",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cu.svg",
+        "flag_4x3": "flags/4x3/cu.svg"
+    },
+    {
+        "code": "CW",
+        "cca3": "CUW",
+        "name": "Cura\\u00e7ao",
+        "capital": "Willemstad",
+        "continent": "South America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "\\u0192"
+            }
+        },
+        "center": {
+            "latitude": "12.20710309",
+            "longitude": "-69.02160369",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/cw.svg",
+        "flag_4x3": "flags/4x3/cw.svg"
+    },
+    {
+        "code": "CY",
+        "cca3": "CYP",
+        "name": "Cyprus",
+        "capital": "Nicosia",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ell": "Greek",
+            "tur": "Turkish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "35.12450768",
+            "longitude": "33.42986100",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cy.svg",
+        "flag_4x3": "flags/4x3/cy.svg"
+    },
+    {
+        "code": "CZ",
+        "cca3": "CZE",
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "ces": "Czech",
+            "slk": "Slovak"
+        },
+        "currencies": {
+            "CZK": {
+                "name": "Czech koruna",
+                "symbol": "K\\u010d"
+            }
+        },
+        "center": {
+            "latitude": "49.76026136",
+            "longitude": "15.53888197",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cz.svg",
+        "flag_4x3": "flags/4x3/cz.svg"
+    },
+    {
+        "code": "CI",
+        "cca3": "CIV",
+        "name": "C\\u00f4te d'Ivoire",
+        "capital": "Yamoussoukro",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "7.59684148",
+            "longitude": "-5.49214636",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ci.svg",
+        "flag_4x3": "flags/4x3/ci.svg"
+    },
+    {
+        "code": "CD",
+        "cca3": "COD",
+        "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "kon": "Kikongo",
+            "lin": "Lingala",
+            "lua": "Tshiluba",
+            "swa": "Swahili"
+        },
+        "currencies": {
+            "CDF": {
+                "name": "Congolese franc",
+                "symbol": "FC"
+            }
+        },
+        "center": {
+            "latitude": "-4.05373938",
+            "longitude": "23.01110741",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cd.svg",
+        "flag_4x3": "flags/4x3/cd.svg"
+    },
+    {
+        "code": "DK",
+        "cca3": "DNK",
+        "name": "Denmark",
+        "capital": "Copenhagen",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "dan": "Danish"
+        },
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "54.71794021",
+            "longitude": "9.41938953",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/dk.svg",
+        "flag_4x3": "flags/4x3/dk.svg"
+    },
+    {
+        "code": "DJ",
+        "cca3": "DJI",
+        "name": "Djibouti",
+        "capital": "Djibouti",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "currencies": {
+            "DJF": {
+                "name": "Djiboutian franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "11.75959257",
+            "longitude": "42.65344839",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/dj.svg",
+        "flag_4x3": "flags/4x3/dj.svg"
+    },
+    {
+        "code": "DM",
+        "cca3": "DMA",
+        "name": "Dominica",
+        "capital": "Roseau",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "15.41473963",
+            "longitude": "-61.37097400",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/dm.svg",
+        "flag_4x3": "flags/4x3/dm.svg"
+    },
+    {
+        "code": "DO",
+        "cca3": "DOM",
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "DOP": {
+                "name": "Dominican peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.73076761",
+            "longitude": "-70.16264900",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/do.svg",
+        "flag_4x3": "flags/4x3/do.svg"
+    },
+    {
+        "code": "EC",
+        "cca3": "ECU",
+        "name": "Ecuador",
+        "capital": "Quito",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-1.22919037",
+            "longitude": "-78.55693916",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ec.svg",
+        "flag_4x3": "flags/4x3/ec.svg"
+    },
+    {
+        "code": "EG",
+        "cca3": "EGY",
+        "name": "Egypt",
+        "capital": "Cairo",
+        "continent": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "26.71650873",
+            "longitude": "30.80250000",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/eg.svg",
+        "flag_4x3": "flags/4x3/eg.svg"
+    },
+    {
+        "code": "SV",
+        "cca3": "SLV",
+        "name": "El Salvador",
+        "capital": "San Salvador",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.79043561",
+            "longitude": "-88.89652800",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sv.svg",
+        "flag_4x3": "flags/4x3/sv.svg"
+    },
+    {
+        "code": "GQ",
+        "cca3": "GNQ",
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "por": "Portuguese",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "1.65068442",
+            "longitude": "10.26789700",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gq.svg",
+        "flag_4x3": "flags/4x3/gq.svg"
+    },
+    {
+        "code": "ER",
+        "cca3": "ERI",
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "eng": "English",
+            "tir": "Tigrinya"
+        },
+        "currencies": {
+            "ERN": {
+                "name": "Eritrean nakfa",
+                "symbol": "Nfk"
+            }
+        },
+        "center": {
+            "latitude": "15.21227764",
+            "longitude": "39.61204792",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/er.svg",
+        "flag_4x3": "flags/4x3/er.svg"
+    },
+    {
+        "code": "EE",
+        "cca3": "EST",
+        "name": "Estonia",
+        "capital": "Tallinn",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "est": "Estonian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "58.74041141",
+            "longitude": "25.38165099",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ee.svg",
+        "flag_4x3": "flags/4x3/ee.svg"
+    },
+    {
+        "code": "SZ",
+        "cca3": "SWZ",
+        "name": "Eswatini",
+        "capital": "Lobamba, Mbabane",
+        "continent": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "eng": "English",
+            "ssw": "Swazi"
+        },
+        "currencies": {
+            "SZL": {
+                "name": "Swazi lilangeni",
+                "symbol": "L"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
+        "center": {
+            "latitude": "-26.53892570",
+            "longitude": "31.47960891",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sz.svg",
+        "flag_4x3": "flags/4x3/sz.svg"
+    },
+    {
+        "code": "ET",
+        "cca3": "ETH",
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "amh": "Amharic"
+        },
+        "currencies": {
+            "ETB": {
+                "name": "Ethiopian birr",
+                "symbol": "Br"
+            }
+        },
+        "center": {
+            "latitude": "9.10727589",
+            "longitude": "39.84148164",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/et.svg",
+        "flag_4x3": "flags/4x3/et.svg"
+    },
+    {
+        "code": "FK",
+        "cca3": "FLK",
+        "name": "Falkland Islands",
+        "capital": "Stanley",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "FKP": {
+                "name": "Falkland Islands pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "-51.78838251",
+            "longitude": "-59.52361100",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/fk.svg",
+        "flag_4x3": "flags/4x3/fk.svg"
+    },
+    {
+        "code": "FO",
+        "cca3": "FRO",
+        "name": "Faroe Islands",
+        "capital": "T\\u00f3rshavn",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "dan": "Danish",
+            "fao": "Faroese"
+        },
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            },
+            "FOK": {
+                "name": "Faroese kr\\u00f3na",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "61.88590482",
+            "longitude": "-6.91180400",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/fo.svg",
+        "flag_4x3": "flags/4x3/fo.svg"
+    },
+    {
+        "code": "FM",
+        "cca3": "FSM",
+        "name": "Federated States of Micronesia",
+        "capital": "Palikir",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "6.88747377",
+            "longitude": "158.21507170",
+            "zoom": "12"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fm.svg",
+        "flag_4x3": "flags/4x3/fm.svg"
+    },
+    {
+        "code": "FJ",
+        "cca3": "FJI",
+        "name": "Fiji",
+        "capital": "Suva",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English",
+            "fij": "Fijian",
+            "hif": "Fiji Hindi"
+        },
+        "currencies": {
+            "FJD": {
+                "name": "Fijian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-17.71219757",
+            "longitude": "178.06503600",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fj.svg",
+        "flag_4x3": "flags/4x3/fj.svg"
+    },
+    {
+        "code": "FI",
+        "cca3": "FIN",
+        "name": "Finland",
+        "capital": "Helsinki",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "fin": "Finnish",
+            "swe": "Swedish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "64.69610892",
+            "longitude": "26.36339137",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fi.svg",
+        "flag_4x3": "flags/4x3/fi.svg"
+    },
+    {
+        "code": "FR",
+        "cca3": "FRA",
+        "name": "France",
+        "capital": "Paris",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "46.48372145",
+            "longitude": "2.60926281",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fr.svg",
+        "flag_4x3": "flags/4x3/fr.svg"
+    },
+    {
+        "code": "GF",
+        "cca3": "GUF",
+        "name": "French Guiana",
+        "capital": "Cayenne",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "4.01114381",
+            "longitude": "-52.97746057",
+            "zoom": "7"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gf.svg",
+        "flag_4x3": "flags/4x3/gf.svg"
+    },
+    {
+        "code": "PF",
+        "cca3": "PYF",
+        "name": "French Polynesia",
+        "capital": "Papeete",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\\u20a3"
+            }
+        },
+        "center": {
+            "latitude": "-17.66243898",
+            "longitude": "-149.40683900",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/pf.svg",
+        "flag_4x3": "flags/4x3/pf.svg"
+    },
+    {
+        "code": "TF",
+        "cca3": "ATF",
+        "name": "French Southern Territories",
+        "capital": "Saint-Pierre, R\\u00e9union",
+        "continent": "Africa",
+        "subregion": "",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "-49.27235903",
+            "longitude": "69.34856300",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/tf.svg",
+        "flag_4x3": "flags/4x3/tf.svg"
+    },
+    {
+        "code": "GA",
+        "cca3": "GAB",
+        "name": "Gabon",
+        "capital": "Libreville",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "-0.43426435",
+            "longitude": "11.43916591",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ga.svg",
+        "flag_4x3": "flags/4x3/ga.svg"
+    },
+    {
+        "code": "GM",
+        "cca3": "GMB",
+        "name": "Gambia",
+        "capital": "Banjul",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GMD": {
+                "name": "dalasi",
+                "symbol": "D"
+            }
+        },
+        "center": {
+            "latitude": "13.15921146",
+            "longitude": "-15.35956748",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gm.svg",
+        "flag_4x3": "flags/4x3/gm.svg"
+    },
+    {
+        "code": "GE",
+        "cca3": "GEO",
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "kat": "Georgian"
+        },
+        "currencies": {
+            "GEL": {
+                "name": "lari",
+                "symbol": "\\u20be"
+            }
+        },
+        "center": {
+            "latitude": "41.82754301",
+            "longitude": "44.17329916",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ge.svg",
+        "flag_4x3": "flags/4x3/ge.svg"
+    },
+    {
+        "code": "DE",
+        "cca3": "DEU",
+        "name": "Germany",
+        "capital": "Berlin",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "50.82871201",
+            "longitude": "10.97887975",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/de.svg",
+        "flag_4x3": "flags/4x3/de.svg"
+    },
+    {
+        "code": "GH",
+        "cca3": "GHA",
+        "name": "Ghana",
+        "capital": "Accra",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GHS": {
+                "name": "Ghanaian cedi",
+                "symbol": "\\u20b5"
+            }
+        },
+        "center": {
+            "latitude": "7.69154199",
+            "longitude": "-1.29234904",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gh.svg",
+        "flag_4x3": "flags/4x3/gh.svg"
+    },
+    {
+        "code": "GI",
+        "cca3": "GIB",
+        "name": "Gibraltar",
+        "capital": "Gibraltar",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GIP": {
+                "name": "Gibraltar pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "36.14864641",
+            "longitude": "-5.34404779",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gi.svg",
+        "flag_4x3": "flags/4x3/gi.svg"
+    },
+    {
+        "code": "GR",
+        "cca3": "GRC",
+        "name": "Greece",
+        "capital": "Athens",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ell": "Greek"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "38.52254746",
+            "longitude": "24.53794505",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gr.svg",
+        "flag_4x3": "flags/4x3/gr.svg"
+    },
+    {
+        "code": "GL",
+        "cca3": "GRL",
+        "name": "Greenland",
+        "capital": "Nuuk",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "kal": "Greenlandic"
+        },
+        "currencies": {
+            "DKK": {
+                "name": "krone",
+                "symbol": "kr."
+            }
+        },
+        "center": {
+            "latitude": "71.42932629",
+            "longitude": "-34.38651956",
+            "zoom": "3"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gl.svg",
+        "flag_4x3": "flags/4x3/gl.svg"
+    },
+    {
+        "code": "GD",
+        "cca3": "GRD",
+        "name": "Grenada",
+        "capital": "St. George's",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "12.11644807",
+            "longitude": "-61.67899400",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gd.svg",
+        "flag_4x3": "flags/4x3/gd.svg"
+    },
+    {
+        "code": "GP",
+        "cca3": "GLP",
+        "name": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "16.26472785",
+            "longitude": "-61.55099400",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gp.svg",
+        "flag_4x3": "flags/4x3/gp.svg"
+    },
+    {
+        "code": "GU",
+        "cca3": "GUM",
+        "name": "Guam",
+        "capital": "Hag\\u00e5t\\u00f1a",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "cha": "Chamorro",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.44410137",
+            "longitude": "144.80747791",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gu.svg",
+        "flag_4x3": "flags/4x3/gu.svg"
+    },
+    {
+        "code": "GT",
+        "cca3": "GTM",
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "GTQ": {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q"
+            }
+        },
+        "center": {
+            "latitude": "15.72598421",
+            "longitude": "-89.96707712",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gt.svg",
+        "flag_4x3": "flags/4x3/gt.svg"
+    },
+    {
+        "code": "GG",
+        "cca3": "GGY",
+        "name": "Guernsey",
+        "capital": "Saint Peter Port",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nfr": "Guern\\u00e9siais"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            },
+            "GGP": {
+                "name": "Guernsey pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "49.46565975",
+            "longitude": "-2.58527200",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gg.svg",
+        "flag_4x3": "flags/4x3/gg.svg"
+    },
+    {
+        "code": "GN",
+        "cca3": "GIN",
+        "name": "Guinea",
+        "capital": "Conakry",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "GNF": {
+                "name": "Guinean franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "9.94301472",
+            "longitude": "-11.31711839",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gn.svg",
+        "flag_4x3": "flags/4x3/gn.svg"
+    },
+    {
+        "code": "GW",
+        "cca3": "GNB",
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "por": "Portuguese",
+            "pov": "Upper Guinea Creole"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "11.80050682",
+            "longitude": "-15.18040700",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gw.svg",
+        "flag_4x3": "flags/4x3/gw.svg"
+    },
+    {
+        "code": "GY",
+        "cca3": "GUY",
+        "name": "Guyana",
+        "capital": "Georgetown",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GYD": {
+                "name": "Guyanese dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "4.47957059",
+            "longitude": "-58.72692293",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gy.svg",
+        "flag_4x3": "flags/4x3/gy.svg"
+    },
+    {
+        "code": "HT",
+        "cca3": "HTI",
+        "name": "Haiti",
+        "capital": "Port-au-Prince",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French",
+            "hat": "Haitian Creole"
+        },
+        "currencies": {
+            "HTG": {
+                "name": "Haitian gourde",
+                "symbol": "G"
+            }
+        },
+        "center": {
+            "latitude": "19.07430861",
+            "longitude": "-72.79607526",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ht.svg",
+        "flag_4x3": "flags/4x3/ht.svg"
+    },
+    {
+        "code": "VA",
+        "cca3": "VAT",
+        "name": "Holy See",
+        "capital": "Vatican City",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian",
+            "lat": "Latin"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "41.90377810",
+            "longitude": "12.45340142",
+            "zoom": "16"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/va.svg",
+        "flag_4x3": "flags/4x3/va.svg"
+    },
+    {
+        "code": "HN",
+        "cca3": "HND",
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "HNL": {
+                "name": "Honduran lempira",
+                "symbol": "L"
+            }
+        },
+        "center": {
+            "latitude": "14.64994423",
+            "longitude": "-87.01643713",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/hn.svg",
+        "flag_4x3": "flags/4x3/hn.svg"
+    },
+    {
+        "code": "HK",
+        "cca3": "HKG",
+        "name": "Hong Kong",
+        "capital": "Hong Kong",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "HKD": {
+                "name": "Hong Kong dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "22.33728531",
+            "longitude": "114.14657786",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/hk.svg",
+        "flag_4x3": "flags/4x3/hk.svg"
+    },
+    {
+        "code": "HU",
+        "cca3": "HUN",
+        "name": "Hungary",
+        "capital": "Budapest",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "hun": "Hungarian"
+        },
+        "currencies": {
+            "HUF": {
+                "name": "Hungarian forint",
+                "symbol": "Ft"
+            }
+        },
+        "center": {
+            "latitude": "46.97670384",
+            "longitude": "19.35499657",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/hu.svg",
+        "flag_4x3": "flags/4x3/hu.svg"
+    },
+    {
+        "code": "IS",
+        "cca3": "ISL",
+        "name": "Iceland",
+        "capital": "Reykjavik",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "isl": "Icelandic"
+        },
+        "currencies": {
+            "ISK": {
+                "name": "Icelandic kr\\u00f3na",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "64.99294495",
+            "longitude": "-18.57038755",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/is.svg",
+        "flag_4x3": "flags/4x3/is.svg"
+    },
+    {
+        "code": "IN",
+        "cca3": "IND",
+        "name": "India",
+        "capital": "New Delhi",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "eng": "English",
+            "hin": "Hindi",
+            "tam": "Tamil"
+        },
+        "currencies": {
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\\u20b9"
+            }
+        },
+        "center": {
+            "latitude": "20.46549519",
+            "longitude": "78.50146222",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/in.svg",
+        "flag_4x3": "flags/4x3/in.svg"
+    },
+    {
+        "code": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "ind": "Indonesian"
+        },
+        "currencies": {
+            "IDR": {
+                "name": "Indonesian rupiah",
+                "symbol": "Rp"
+            }
+        },
+        "center": {
+            "latitude": "-2.46229680",
+            "longitude": "121.18329789",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/id.svg",
+        "flag_4x3": "flags/4x3/id.svg"
+    },
+    {
+        "code": "IR",
+        "cca3": "IRN",
+        "name": "Iran",
+        "capital": "Tehran",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "fas": "Persian (Farsi)"
+        },
+        "currencies": {
+            "IRR": {
+                "name": "Iranian rial",
+                "symbol": "\\ufdfc"
+            }
+        },
+        "center": {
+            "latitude": "31.40240324",
+            "longitude": "51.28204814",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ir.svg",
+        "flag_4x3": "flags/4x3/ir.svg"
+    },
+    {
+        "code": "IQ",
+        "cca3": "IRQ",
+        "name": "Iraq",
+        "capital": "Baghdad",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "arc": "Aramaic",
+            "ckb": "Sorani"
+        },
+        "currencies": {
+            "IQD": {
+                "name": "Iraqi dinar",
+                "symbol": "\\u0639.\\u062f"
+            }
+        },
+        "center": {
+            "latitude": "32.90170182",
+            "longitude": "43.19590056",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/iq.svg",
+        "flag_4x3": "flags/4x3/iq.svg"
+    },
+    {
+        "code": "IE",
+        "cca3": "IRL",
+        "name": "Ireland",
+        "capital": "Dublin",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "53.10101628",
+            "longitude": "-8.21092302",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ie.svg",
+        "flag_4x3": "flags/4x3/ie.svg"
+    },
+    {
+        "code": "IM",
+        "cca3": "IMN",
+        "name": "Isle of Man",
+        "capital": "Douglas",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "glv": "Manx"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            },
+            "IMP": {
+                "name": "Manx pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "54.23562697",
+            "longitude": "-4.54805400",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/im.svg",
+        "flag_4x3": "flags/4x3/im.svg"
+    },
+    {
+        "code": "IL",
+        "cca3": "ISR",
+        "name": "Israel",
+        "capital": "Jerusalem",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "heb": "Hebrew"
+        },
+        "currencies": {
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\\u20aa"
+            }
+        },
+        "center": {
+            "latitude": "30.85883075",
+            "longitude": "34.91753797",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/il.svg",
+        "flag_4x3": "flags/4x3/il.svg"
+    },
+    {
+        "code": "IT",
+        "cca3": "ITA",
+        "name": "Italy",
+        "capital": "Rome",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "41.77810840",
+            "longitude": "12.67725128",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/it.svg",
+        "flag_4x3": "flags/4x3/it.svg"
+    },
+    {
+        "code": "JM",
+        "cca3": "JAM",
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "jam": "Jamaican Patois"
+        },
+        "currencies": {
+            "JMD": {
+                "name": "Jamaican dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.10838487",
+            "longitude": "-77.29750600",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/jm.svg",
+        "flag_4x3": "flags/4x3/jm.svg"
+    },
+    {
+        "code": "JP",
+        "cca3": "JPN",
+        "name": "Japan",
+        "capital": "Tokyo",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "jpn": "Japanese"
+        },
+        "currencies": {
+            "JPY": {
+                "name": "Japanese yen",
+                "symbol": "\\u00a5"
+            }
+        },
+        "center": {
+            "latitude": "37.51848822",
+            "longitude": "137.67066061",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/jp.svg",
+        "flag_4x3": "flags/4x3/jp.svg"
+    },
+    {
+        "code": "JE",
+        "cca3": "JEY",
+        "name": "Jersey",
+        "capital": "Saint Helier",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nrf": "J\\u00e8rriais"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            },
+            "JEP": {
+                "name": "Jersey pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "49.21440771",
+            "longitude": "-2.13124600",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/je.svg",
+        "flag_4x3": "flags/4x3/je.svg"
+    },
+    {
+        "code": "JO",
+        "cca3": "JOR",
+        "name": "Jordan",
+        "capital": "Amman",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "\\u062f.\\u0627"
+            }
+        },
+        "center": {
+            "latitude": "31.31616588",
+            "longitude": "36.37575510",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/jo.svg",
+        "flag_4x3": "flags/4x3/jo.svg"
+    },
+    {
+        "code": "KZ",
+        "cca3": "KAZ",
+        "name": "Kazakhstan",
+        "capital": "Astana",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "kaz": "Kazakh",
+            "rus": "Russian"
+        },
+        "currencies": {
+            "KZT": {
+                "name": "Kazakhstani tenge",
+                "symbol": "\\u20b8"
+            }
+        },
+        "center": {
+            "latitude": "45.38592596",
+            "longitude": "68.81334444",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kz.svg",
+        "flag_4x3": "flags/4x3/kz.svg"
+    },
+    {
+        "code": "KE",
+        "cca3": "KEN",
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "currencies": {
+            "KES": {
+                "name": "Kenyan shilling",
+                "symbol": "Sh"
+            }
+        },
+        "center": {
+            "latitude": "0.19582452",
+            "longitude": "37.97212297",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ke.svg",
+        "flag_4x3": "flags/4x3/ke.svg"
+    },
+    {
+        "code": "KI",
+        "cca3": "KIR",
+        "name": "Kiribati",
+        "capital": "South Tarawa",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "gil": "Gilbertese"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "KID": {
+                "name": "Kiribati dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "1.87085244",
+            "longitude": "-157.36259310",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ki.svg",
+        "flag_4x3": "flags/4x3/ki.svg"
+    },
+    {
+        "code": "KW",
+        "cca3": "KWT",
+        "name": "Kuwait",
+        "capital": "Kuwait City",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "KWD": {
+                "name": "Kuwaiti dinar",
+                "symbol": "\\u062f.\\u0643"
+            }
+        },
+        "center": {
+            "latitude": "29.43253341",
+            "longitude": "47.71798405",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kw.svg",
+        "flag_4x3": "flags/4x3/kw.svg"
+    },
+    {
+        "code": "KG",
+        "cca3": "KGZ",
+        "name": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "kir": "Kyrgyz",
+            "rus": "Russian"
+        },
+        "currencies": {
+            "KGS": {
+                "name": "Kyrgyzstani som",
+                "symbol": "\\u0441"
+            }
+        },
+        "center": {
+            "latitude": "41.11509878",
+            "longitude": "74.25524574",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kg.svg",
+        "flag_4x3": "flags/4x3/kg.svg"
+    },
+    {
+        "code": "LA",
+        "cca3": "LAO",
+        "name": "Laos",
+        "capital": "Vientiane",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "lao": "Lao"
+        },
+        "currencies": {
+            "LAK": {
+                "name": "Lao kip",
+                "symbol": "\\u20ad"
+            }
+        },
+        "center": {
+            "latitude": "17.76075593",
+            "longitude": "103.61611347",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/la.svg",
+        "flag_4x3": "flags/4x3/la.svg"
+    },
+    {
+        "code": "LV",
+        "cca3": "LVA",
+        "name": "Latvia",
+        "capital": "Riga",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "lav": "Latvian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "56.86697515",
+            "longitude": "24.54826936",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lv.svg",
+        "flag_4x3": "flags/4x3/lv.svg"
+    },
+    {
+        "code": "LB",
+        "cca3": "LBN",
+        "name": "Lebanon",
+        "capital": "Beirut",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "currencies": {
+            "LBP": {
+                "name": "Lebanese pound",
+                "symbol": "\\u0644.\\u0644"
+            }
+        },
+        "center": {
+            "latitude": "34.08249284",
+            "longitude": "35.66454309",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lb.svg",
+        "flag_4x3": "flags/4x3/lb.svg"
+    },
+    {
+        "code": "LS",
+        "cca3": "LSO",
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "continent": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "eng": "English",
+            "sot": "Sotho"
+        },
+        "currencies": {
+            "LSL": {
+                "name": "Lesotho loti",
+                "symbol": "L"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
+        "center": {
+            "latitude": "-29.60303205",
+            "longitude": "28.23361200",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ls.svg",
+        "flag_4x3": "flags/4x3/ls.svg"
+    },
+    {
+        "code": "LR",
+        "cca3": "LBR",
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "LRD": {
+                "name": "Liberian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "6.44154681",
+            "longitude": "-9.39103485",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lr.svg",
+        "flag_4x3": "flags/4x3/lr.svg"
+    },
+    {
+        "code": "LY",
+        "cca3": "LBY",
+        "name": "Libya",
+        "capital": "Tripoli",
+        "continent": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "LYD": {
+                "name": "Libyan dinar",
+                "symbol": "\\u0644.\\u062f"
+            }
+        },
+        "center": {
+            "latitude": "27.06902914",
+            "longitude": "18.19513987",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ly.svg",
+        "flag_4x3": "flags/4x3/ly.svg"
+    },
+    {
+        "code": "LI",
+        "cca3": "LIE",
+        "name": "Liechtenstein",
+        "capital": "Vaduz",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German"
+        },
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "47.16587383",
+            "longitude": "9.55537700",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/li.svg",
+        "flag_4x3": "flags/4x3/li.svg"
+    },
+    {
+        "code": "LT",
+        "cca3": "LTU",
+        "name": "Lithuania",
+        "capital": "Vilnius",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "lit": "Lithuanian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "55.25095948",
+            "longitude": "23.80987587",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lt.svg",
+        "flag_4x3": "flags/4x3/lt.svg"
+    },
+    {
+        "code": "LU",
+        "cca3": "LUX",
+        "name": "Luxembourg",
+        "capital": "Luxembourg City",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "ltz": "Luxembourgish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "49.81327712",
+            "longitude": "6.12958700",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lu.svg",
+        "flag_4x3": "flags/4x3/lu.svg"
+    },
+    {
+        "code": "MO",
+        "cca3": "MAC",
+        "name": "Macau",
+        "capital": "Macau",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "por": "Portuguese",
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "MOP": {
+                "name": "Macanese pataca",
+                "symbol": "P"
+            }
+        },
+        "center": {
+            "latitude": "22.19872287",
+            "longitude": "113.54387700",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/mo.svg",
+        "flag_4x3": "flags/4x3/mo.svg"
+    },
+    {
+        "code": "MG",
+        "cca3": "MDG",
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "fra": "French",
+            "mlg": "Malagasy"
+        },
+        "currencies": {
+            "MGA": {
+                "name": "Malagasy ariary",
+                "symbol": "Ar"
+            }
+        },
+        "center": {
+            "latitude": "-19.79858543",
+            "longitude": "46.97898228",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mg.svg",
+        "flag_4x3": "flags/4x3/mg.svg"
+    },
+    {
+        "code": "MW",
+        "cca3": "MWI",
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "nya": "Chewa"
+        },
+        "currencies": {
+            "MWK": {
+                "name": "Malawian kwacha",
+                "symbol": "MK"
+            }
+        },
+        "center": {
+            "latitude": "-12.48684092",
+            "longitude": "34.14223524",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mw.svg",
+        "flag_4x3": "flags/4x3/mw.svg"
+    },
+    {
+        "code": "MY",
+        "cca3": "MYS",
+        "name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "msa": "Malay"
+        },
+        "currencies": {
+            "MYR": {
+                "name": "Malaysian ringgit",
+                "symbol": "RM"
+            }
+        },
+        "center": {
+            "latitude": "4.97345793",
+            "longitude": "106.54609050",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/my.svg",
+        "flag_4x3": "flags/4x3/my.svg"
+    },
+    {
+        "code": "MV",
+        "cca3": "MDV",
+        "name": "Maldives",
+        "capital": "Mal\\u00e9",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "div": "Maldivian"
+        },
+        "currencies": {
+            "MVR": {
+                "name": "Maldivian rufiyaa",
+                "symbol": ".\\u0783"
+            }
+        },
+        "center": {
+            "latitude": "-0.64224221",
+            "longitude": "73.13373313",
+            "zoom": "12"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mv.svg",
+        "flag_4x3": "flags/4x3/mv.svg"
+    },
+    {
+        "code": "ML",
+        "cca3": "MLI",
+        "name": "Mali",
+        "capital": "Bamako",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "17.69385811",
+            "longitude": "-1.96368730",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ml.svg",
+        "flag_4x3": "flags/4x3/ml.svg"
+    },
+    {
+        "code": "MT",
+        "cca3": "MLT",
+        "name": "Malta",
+        "capital": "Valletta",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "eng": "English",
+            "mlt": "Maltese"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "35.89706403",
+            "longitude": "14.43687877",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mt.svg",
+        "flag_4x3": "flags/4x3/mt.svg"
+    },
+    {
+        "code": "MH",
+        "cca3": "MHL",
+        "name": "Marshall Islands",
+        "capital": "Majuro",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "mah": "Marshallese"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "7.30130732",
+            "longitude": "168.75512619",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mh.svg",
+        "flag_4x3": "flags/4x3/mh.svg"
+    },
+    {
+        "code": "MQ",
+        "cca3": "MTQ",
+        "name": "Martinique",
+        "capital": "Fort-de-France",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "14.64128045",
+            "longitude": "-61.02417600",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/mq.svg",
+        "flag_4x3": "flags/4x3/mq.svg"
+    },
+    {
+        "code": "MR",
+        "cca3": "MRT",
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "MRU": {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM"
+            }
+        },
+        "center": {
+            "latitude": "20.28331239",
+            "longitude": "-10.21573334",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mr.svg",
+        "flag_4x3": "flags/4x3/mr.svg"
+    },
+    {
+        "code": "MU",
+        "cca3": "MUS",
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "mfe": "Mauritian Creole"
+        },
+        "currencies": {
+            "MUR": {
+                "name": "Mauritian rupee",
+                "symbol": "\\u20a8"
+            }
+        },
+        "center": {
+            "latitude": "-20.28368188",
+            "longitude": "57.56588291",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mu.svg",
+        "flag_4x3": "flags/4x3/mu.svg"
+    },
+    {
+        "code": "YT",
+        "cca3": "MYT",
+        "name": "Mayotte",
+        "capital": "Mamoudzou",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "-12.82744522",
+            "longitude": "45.16624200",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/yt.svg",
+        "flag_4x3": "flags/4x3/yt.svg"
+    },
+    {
+        "code": "MX",
+        "cca3": "MEX",
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "MXN": {
+                "name": "Mexican peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "22.92036676",
+            "longitude": "-102.33305344",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mx.svg",
+        "flag_4x3": "flags/4x3/mx.svg"
+    },
+    {
+        "code": "MD",
+        "cca3": "MDA",
+        "name": "Moldova",
+        "capital": "Chi\\u0219in\\u0103u",
+        "continent": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "ron": "Moldavian"
+        },
+        "currencies": {
+            "MDL": {
+                "name": "Moldovan leu",
+                "symbol": "L"
+            }
+        },
+        "center": {
+            "latitude": "47.10710437",
+            "longitude": "28.54018109",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/md.svg",
+        "flag_4x3": "flags/4x3/md.svg"
+    },
+    {
+        "code": "MC",
+        "cca3": "MCO",
+        "name": "Monaco",
+        "capital": "Monaco",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "43.70463620",
+            "longitude": "6.75444978",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mc.svg",
+        "flag_4x3": "flags/4x3/mc.svg"
+    },
+    {
+        "code": "MN",
+        "cca3": "MNG",
+        "name": "Mongolia",
+        "capital": "Ulaanbaatar",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "mon": "Mongolian"
+        },
+        "currencies": {
+            "MNT": {
+                "name": "Mongolian t\\u00f6gr\\u00f6g",
+                "symbol": "\\u20ae"
+            }
+        },
+        "center": {
+            "latitude": "46.80556270",
+            "longitude": "104.30808978",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mn.svg",
+        "flag_4x3": "flags/4x3/mn.svg"
+    },
+    {
+        "code": "ME",
+        "cca3": "MNE",
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "cnr": "Montenegrin"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "42.71699590",
+            "longitude": "19.09699321",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/me.svg",
+        "flag_4x3": "flags/4x3/me.svg"
+    },
+    {
+        "code": "MS",
+        "cca3": "MSR",
+        "name": "Montserrat",
+        "capital": "Little Bay, Brades, Plymouth",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "16.74774077",
+            "longitude": "-62.18736600",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ms.svg",
+        "flag_4x3": "flags/4x3/ms.svg"
+    },
+    {
+        "code": "MA",
+        "cca3": "MAR",
+        "name": "Morocco",
+        "capital": "Rabat",
+        "continent": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "ber": "Berber"
+        },
+        "currencies": {
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "\\u062f.\\u0645."
+            }
+        },
+        "center": {
+            "latitude": "31.95441758",
+            "longitude": "-7.26839325",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ma.svg",
+        "flag_4x3": "flags/4x3/ma.svg"
+    },
+    {
+        "code": "MZ",
+        "cca3": "MOZ",
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "MZN": {
+                "name": "Mozambican metical",
+                "symbol": "MT"
+            }
+        },
+        "center": {
+            "latitude": "-19.07617816",
+            "longitude": "33.81570282",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mz.svg",
+        "flag_4x3": "flags/4x3/mz.svg"
+    },
+    {
+        "code": "MM",
+        "cca3": "MMR",
+        "name": "Myanmar",
+        "capital": "Naypyidaw",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "mya": "Burmese"
+        },
+        "currencies": {
+            "MMK": {
+                "name": "Burmese kyat",
+                "symbol": "Ks"
+            }
+        },
+        "center": {
+            "latitude": "19.20985380",
+            "longitude": "96.54949272",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mm.svg",
+        "flag_4x3": "flags/4x3/mm.svg"
+    },
+    {
+        "code": "NA",
+        "cca3": "NAM",
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "continent": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "afr": "Afrikaans",
+            "deu": "German",
+            "eng": "English",
+            "her": "Herero",
+            "hgm": "Khoekhoe",
+            "kwn": "Kwangali",
+            "loz": "Lozi",
+            "ndo": "Ndonga",
+            "tsn": "Tswana"
+        },
+        "currencies": {
+            "NAD": {
+                "name": "Namibian dollar",
+                "symbol": "$"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
+        "center": {
+            "latitude": "-22.70965620",
+            "longitude": "16.72161918",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/na.svg",
+        "flag_4x3": "flags/4x3/na.svg"
+    },
+    {
+        "code": "NR",
+        "cca3": "NRU",
+        "name": "Nauru",
+        "capital": "Yaren District",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "nau": "Nauru"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-0.52586763",
+            "longitude": "166.93270463",
+            "zoom": "13"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/nr.svg",
+        "flag_4x3": "flags/4x3/nr.svg"
+    },
+    {
+        "code": "NP",
+        "cca3": "NPL",
+        "name": "Nepal",
+        "capital": "Kathmandu",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "nep": "Nepali"
+        },
+        "currencies": {
+            "NPR": {
+                "name": "Nepalese rupee",
+                "symbol": "\\u20a8"
+            }
+        },
+        "center": {
+            "latitude": "28.28430770",
+            "longitude": "83.98119373",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/np.svg",
+        "flag_4x3": "flags/4x3/np.svg"
+    },
+    {
+        "code": "NL",
+        "cca3": "NLD",
+        "name": "Netherlands",
+        "capital": "Amsterdam",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "nld": "Dutch"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "52.33939951",
+            "longitude": "4.98914998",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/nl.svg",
+        "flag_4x3": "flags/4x3/nl.svg"
+    },
+    {
+        "code": "NC",
+        "cca3": "NCL",
+        "name": "New Caledonia",
+        "capital": "Noum\\u00e9a",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\\u20a3"
+            }
+        },
+        "center": {
+            "latitude": "-21.26104020",
+            "longitude": "165.58783760",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/nc.svg",
+        "flag_4x3": "flags/4x3/nc.svg"
+    },
+    {
+        "code": "NZ",
+        "cca3": "NZL",
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "continent": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English",
+            "mri": "M\\u0101ori",
+            "nzs": "New Zealand Sign Language"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-40.95025298",
+            "longitude": "171.76586181",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/nz.svg",
+        "flag_4x3": "flags/4x3/nz.svg"
+    },
+    {
+        "code": "NI",
+        "cca3": "NIC",
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "NIO": {
+                "name": "Nicaraguan c\\u00f3rdoba",
+                "symbol": "C$"
+            }
+        },
+        "center": {
+            "latitude": "12.91806226",
+            "longitude": "-84.82270352",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ni.svg",
+        "flag_4x3": "flags/4x3/ni.svg"
+    },
+    {
+        "code": "NE",
+        "cca3": "NER",
+        "name": "Niger",
+        "capital": "Niamey",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "17.23446679",
+            "longitude": "8.23547860",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ne.svg",
+        "flag_4x3": "flags/4x3/ne.svg"
+    },
+    {
+        "code": "NG",
+        "cca3": "NGA",
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "NGN": {
+                "name": "Nigerian naira",
+                "symbol": "\\u20a6"
+            }
+        },
+        "center": {
+            "latitude": "9.02165273",
+            "longitude": "7.82933373",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ng.svg",
+        "flag_4x3": "flags/4x3/ng.svg"
+    },
+    {
+        "code": "NU",
+        "cca3": "NIU",
+        "name": "Niue",
+        "capital": "Alofi",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "niu": "Niuean"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-19.04976362",
+            "longitude": "-169.86585571",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/nu.svg",
+        "flag_4x3": "flags/4x3/nu.svg"
+    },
+    {
+        "code": "NF",
+        "cca3": "NFK",
+        "name": "Norfolk Island",
+        "capital": "Kingston",
+        "continent": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English",
+            "pih": "Norfuk"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-29.02801043",
+            "longitude": "167.94303023",
+            "zoom": "13"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/nf.svg",
+        "flag_4x3": "flags/4x3/nf.svg"
+    },
+    {
+        "code": "KP",
+        "cca3": "PRK",
+        "name": "North Korea",
+        "capital": "Pyongyang",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "kor": "Korean"
+        },
+        "currencies": {
+            "KPW": {
+                "name": "North Korean won",
+                "symbol": "\\u20a9"
+            }
+        },
+        "center": {
+            "latitude": "40.00785500",
+            "longitude": "127.48812834",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kp.svg",
+        "flag_4x3": "flags/4x3/kp.svg"
+    },
+    {
+        "code": "MK",
+        "cca3": "MKD",
+        "name": "North Macedonia",
+        "capital": "Skopje",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "mkd": "Macedonian"
+        },
+        "currencies": {
+            "MKD": {
+                "name": "denar",
+                "symbol": "den"
+            }
+        },
+        "center": {
+            "latitude": "41.60059479",
+            "longitude": "21.74527900",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mk.svg",
+        "flag_4x3": "flags/4x3/mk.svg"
+    },
+    {
+        "code": "MP",
+        "cca3": "MNP",
+        "name": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "cal": "Carolinian",
+            "cha": "Chamorro",
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "15.09783636",
+            "longitude": "145.67390000",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/mp.svg",
+        "flag_4x3": "flags/4x3/mp.svg"
+    },
+    {
+        "code": "NO",
+        "cca3": "NOR",
+        "name": "Norway",
+        "capital": "Oslo",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "nno": "Norwegian Nynorsk",
+            "nob": "Norwegian Bokm\\u00e5l",
+            "smi": "Sami"
+        },
+        "currencies": {
+            "NOK": {
+                "name": "Norwegian krone",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "65.04680297",
+            "longitude": "13.50069228",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/no.svg",
+        "flag_4x3": "flags/4x3/no.svg"
+    },
+    {
+        "code": "OM",
+        "cca3": "OMN",
+        "name": "Oman",
+        "capital": "Muscat",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "OMR": {
+                "name": "Omani rial",
+                "symbol": "\\u0631.\\u0639."
+            }
+        },
+        "center": {
+            "latitude": "20.69906846",
+            "longitude": "56.69230596",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/om.svg",
+        "flag_4x3": "flags/4x3/om.svg"
+    },
+    {
+        "code": "PK",
+        "cca3": "PAK",
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "eng": "English",
+            "urd": "Urdu"
+        },
+        "currencies": {
+            "PKR": {
+                "name": "Pakistani rupee",
+                "symbol": "\\u20a8"
+            }
+        },
+        "center": {
+            "latitude": "29.90335974",
+            "longitude": "70.34487986",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pk.svg",
+        "flag_4x3": "flags/4x3/pk.svg"
+    },
+    {
+        "code": "PW",
+        "cca3": "PLW",
+        "name": "Palau",
+        "capital": "Ngerulmud",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "pau": "Palauan"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "7.49856307",
+            "longitude": "134.57291496",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pw.svg",
+        "flag_4x3": "flags/4x3/pw.svg"
+    },
+    {
+        "code": "PA",
+        "cca3": "PAN",
+        "name": "Panama",
+        "capital": "Panama City",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "PAB": {
+                "name": "Panamanian balboa",
+                "symbol": "B/."
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "8.52135102",
+            "longitude": "-80.04603702",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pa.svg",
+        "flag_4x3": "flags/4x3/pa.svg"
+    },
+    {
+        "code": "PG",
+        "cca3": "PNG",
+        "name": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English",
+            "hmo": "Hiri Motu",
+            "tpi": "Tok Pisin"
+        },
+        "currencies": {
+            "PGK": {
+                "name": "Papua New Guinean kina",
+                "symbol": "K"
+            }
+        },
+        "center": {
+            "latitude": "-6.62414046",
+            "longitude": "144.44993477",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pg.svg",
+        "flag_4x3": "flags/4x3/pg.svg"
+    },
+    {
+        "code": "PY",
+        "cca3": "PRY",
+        "name": "Paraguay",
+        "capital": "Asunci\\u00f3n",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaran\\u00ed",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "PYG": {
+                "name": "Paraguayan guaran\\u00ed",
+                "symbol": "\\u20b2"
+            }
+        },
+        "center": {
+            "latitude": "-23.38564782",
+            "longitude": "-58.29551057",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/py.svg",
+        "flag_4x3": "flags/4x3/py.svg"
+    },
+    {
+        "code": "PE",
+        "cca3": "PER",
+        "name": "Peru",
+        "capital": "Lima",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "PEN": {
+                "name": "Peruvian sol",
+                "symbol": "S/."
+            }
+        },
+        "center": {
+            "latitude": "-8.50205247",
+            "longitude": "-76.15772412",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pe.svg",
+        "flag_4x3": "flags/4x3/pe.svg"
+    },
+    {
+        "code": "PH",
+        "cca3": "PHL",
+        "name": "Philippines",
+        "capital": "Manila",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "fil": "Filipino"
+        },
+        "currencies": {
+            "PHP": {
+                "name": "Philippine peso",
+                "symbol": "\\u20b1"
+            }
+        },
+        "center": {
+            "latitude": "12.82361200",
+            "longitude": "121.77401700",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ph.svg",
+        "flag_4x3": "flags/4x3/ph.svg"
+    },
+    {
+        "code": "PN",
+        "cca3": "PCN",
+        "name": "Pitcairn",
+        "capital": "Adamstown",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-24.37673925",
+            "longitude": "-128.32423730",
+            "zoom": "13"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/pn.svg",
+        "flag_4x3": "flags/4x3/pn.svg"
+    },
+    {
+        "code": "PL",
+        "cca3": "POL",
+        "name": "Poland",
+        "capital": "Warsaw",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "pol": "Polish"
+        },
+        "currencies": {
+            "PLN": {
+                "name": "Polish z\\u0142oty",
+                "symbol": "z\\u0142"
+            }
+        },
+        "center": {
+            "latitude": "52.10117636",
+            "longitude": "19.33190957",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pl.svg",
+        "flag_4x3": "flags/4x3/pl.svg"
+    },
+    {
+        "code": "PT",
+        "cca3": "PRT",
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "39.44879136",
+            "longitude": "-8.03768042",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pt.svg",
+        "flag_4x3": "flags/4x3/pt.svg"
+    },
+    {
+        "code": "PR",
+        "cca3": "PRI",
+        "name": "Puerto Rico",
+        "capital": "San Juan",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.21963053",
+            "longitude": "-66.59015100",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/pr.svg",
+        "flag_4x3": "flags/4x3/pr.svg"
+    },
+    {
+        "code": "QA",
+        "cca3": "QAT",
+        "name": "Qatar",
+        "capital": "Doha",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "QAR": {
+                "name": "Qatari riyal",
+                "symbol": "\\u0631.\\u0642"
+            }
+        },
+        "center": {
+            "latitude": "25.24551555",
+            "longitude": "51.24431480",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/qa.svg",
+        "flag_4x3": "flags/4x3/qa.svg"
+    },
+    {
+        "code": "CG",
+        "cca3": "COG",
+        "name": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "fra": "French",
+            "kon": "Kikongo",
+            "lin": "Lingala"
+        },
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "-0.68967806",
+            "longitude": "15.69033190",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cg.svg",
+        "flag_4x3": "flags/4x3/cg.svg"
+    },
+    {
+        "code": "RO",
+        "cca3": "ROU",
+        "name": "Romania",
+        "capital": "Bucharest",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "ron": "Romanian"
+        },
+        "currencies": {
+            "RON": {
+                "name": "Romanian leu",
+                "symbol": "lei"
+            }
+        },
+        "center": {
+            "latitude": "45.56450023",
+            "longitude": "25.21945155",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ro.svg",
+        "flag_4x3": "flags/4x3/ro.svg"
+    },
+    {
+        "code": "RU",
+        "cca3": "RUS",
+        "name": "Russia",
+        "capital": "Moscow",
+        "continent": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "rus": "Russian"
+        },
+        "currencies": {
+            "RUB": {
+                "name": "Russian ruble",
+                "symbol": "\\u20bd"
+            }
+        },
+        "center": {
+            "latitude": "57.96812298",
+            "longitude": "102.41837137",
+            "zoom": "3"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ru.svg",
+        "flag_4x3": "flags/4x3/ru.svg"
+    },
+    {
+        "code": "RW",
+        "cca3": "RWA",
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "kin": "Kinyarwanda"
+        },
+        "currencies": {
+            "RWF": {
+                "name": "Rwandan franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "-1.98589079",
+            "longitude": "29.94255855",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/rw.svg",
+        "flag_4x3": "flags/4x3/rw.svg"
+    },
+    {
+        "code": "RE",
+        "cca3": "REU",
+        "name": "R\\u00e9union",
+        "capital": "Saint-Denis",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "-21.11480084",
+            "longitude": "55.53638200",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/re.svg",
+        "flag_4x3": "flags/4x3/re.svg"
+    },
+    {
+        "code": "BL",
+        "cca3": "BLM",
+        "name": "Saint Barth\\u00e9lemy",
+        "capital": "Gustavia",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "17.90042417",
+            "longitude": "-62.83376215",
+            "zoom": "13"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/bl.svg",
+        "flag_4x3": "flags/4x3/bl.svg"
+    },
+    {
+        "code": "SH",
+        "cca3": "SHN",
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": "Jamestown",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "Pound sterling",
+                "symbol": "\\u00a3"
+            },
+            "SHP": {
+                "name": "Saint Helena pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "-37.10521846",
+            "longitude": "-12.27768580",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/sh.svg",
+        "flag_4x3": "flags/4x3/sh.svg"
+    },
+    {
+        "code": "KN",
+        "cca3": "KNA",
+        "name": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "17.33453669",
+            "longitude": "-62.76411725",
+            "zoom": "12"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kn.svg",
+        "flag_4x3": "flags/4x3/kn.svg"
+    },
+    {
+        "code": "LC",
+        "cca3": "LCA",
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.90938495",
+            "longitude": "-60.97889500",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lc.svg",
+        "flag_4x3": "flags/4x3/lc.svg"
+    },
+    {
+        "code": "MF",
+        "cca3": "MAF",
+        "name": "Saint Martin",
+        "capital": "Marigot",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "18.07637107",
+            "longitude": "-63.05019106",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/mf.svg",
+        "flag_4x3": "flags/4x3/mf.svg"
+    },
+    {
+        "code": "PM",
+        "cca3": "SPM",
+        "name": "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "46.88469499",
+            "longitude": "-56.31590200",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/pm.svg",
+        "flag_4x3": "flags/4x3/pm.svg"
+    },
+    {
+        "code": "VC",
+        "cca3": "VCT",
+        "name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.25276143",
+            "longitude": "-61.19709800",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/vc.svg",
+        "flag_4x3": "flags/4x3/vc.svg"
+    },
+    {
+        "code": "WS",
+        "cca3": "WSM",
+        "name": "Samoa",
+        "capital": "Apia",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "currencies": {
+            "WST": {
+                "name": "Samoan t\\u0101l\\u0101",
+                "symbol": "T"
+            }
+        },
+        "center": {
+            "latitude": "-13.57998954",
+            "longitude": "-172.45207363",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ws.svg",
+        "flag_4x3": "flags/4x3/ws.svg"
+    },
+    {
+        "code": "SM",
+        "cca3": "SMR",
+        "name": "San Marino",
+        "capital": "San Marino",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "43.94223356",
+            "longitude": "12.45777700",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sm.svg",
+        "flag_4x3": "flags/4x3/sm.svg"
+    },
+    {
+        "code": "ST",
+        "cca3": "STP",
+        "name": "Sao Tome and Principe",
+        "capital": "S\\u00e3o Tom\\u00e9",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "STN": {
+                "name": "S\\u00e3o Tom\\u00e9 and Pr\\u00edncipe dobra",
+                "symbol": "Db"
+            }
+        },
+        "center": {
+            "latitude": "0.23381910",
+            "longitude": "6.59935809",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/st.svg",
+        "flag_4x3": "flags/4x3/st.svg"
+    },
+    {
+        "code": "SA",
+        "cca3": "SAU",
+        "name": "Saudi Arabia",
+        "capital": "Riyadh",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "SAR": {
+                "name": "Saudi riyal",
+                "symbol": "\\u0631.\\u0633"
+            }
+        },
+        "center": {
+            "latitude": "24.16687314",
+            "longitude": "42.88190638",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sa.svg",
+        "flag_4x3": "flags/4x3/sa.svg"
+    },
+    {
+        "code": "SN",
+        "cca3": "SEN",
+        "name": "Senegal",
+        "capital": "Dakar",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "14.43579003",
+            "longitude": "-14.68306489",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sn.svg",
+        "flag_4x3": "flags/4x3/sn.svg"
+    },
+    {
+        "code": "RS",
+        "cca3": "SRB",
+        "name": "Serbia",
+        "capital": "Belgrade",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "srp": "Serbian"
+        },
+        "currencies": {
+            "RSD": {
+                "name": "Serbian dinar",
+                "symbol": "\\u0434\\u0438\\u043d."
+            }
+        },
+        "center": {
+            "latitude": "44.06736041",
+            "longitude": "20.29725084",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/rs.svg",
+        "flag_4x3": "flags/4x3/rs.svg"
+    },
+    {
+        "code": "SC",
+        "cca3": "SYC",
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "crs": "Seychellois Creole",
+            "eng": "English",
+            "fra": "French"
+        },
+        "currencies": {
+            "SCR": {
+                "name": "Seychellois rupee",
+                "symbol": "\\u20a8"
+            }
+        },
+        "center": {
+            "latitude": "-4.68053204",
+            "longitude": "55.49061371",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sc.svg",
+        "flag_4x3": "flags/4x3/sc.svg"
+    },
+    {
+        "code": "SL",
+        "cca3": "SLE",
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "SLL": {
+                "name": "Sierra Leonean leone",
+                "symbol": "Le"
+            }
+        },
+        "center": {
+            "latitude": "8.45575589",
+            "longitude": "-11.93368759",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sl.svg",
+        "flag_4x3": "flags/4x3/sl.svg"
+    },
+    {
+        "code": "SG",
+        "cca3": "SGP",
+        "name": "Singapore",
+        "capital": "Singapore",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "msa": "Malay",
+            "tam": "Tamil",
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "1.33873261",
+            "longitude": "103.83323559",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sg.svg",
+        "flag_4x3": "flags/4x3/sg.svg"
+    },
+    {
+        "code": "SX",
+        "cca3": "SXM",
+        "name": "Sint Maarten",
+        "capital": "Philipsburg",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "\\u0192"
+            }
+        },
+        "center": {
+            "latitude": "18.04433885",
+            "longitude": "-63.05616320",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/sx.svg",
+        "flag_4x3": "flags/4x3/sx.svg"
+    },
+    {
+        "code": "SK",
+        "cca3": "SVK",
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "slk": "Slovak"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "48.66923253",
+            "longitude": "19.75396564",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sk.svg",
+        "flag_4x3": "flags/4x3/sk.svg"
+    },
+    {
+        "code": "SI",
+        "cca3": "SVN",
+        "name": "Slovenia",
+        "capital": "Ljubljana",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "slv": "Slovene"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "46.14315048",
+            "longitude": "14.99546300",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/si.svg",
+        "flag_4x3": "flags/4x3/si.svg"
+    },
+    {
+        "code": "SB",
+        "cca3": "SLB",
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "SBD": {
+                "name": "Solomon Islands dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-9.64554280",
+            "longitude": "160.15619400",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sb.svg",
+        "flag_4x3": "flags/4x3/sb.svg"
+    },
+    {
+        "code": "SO",
+        "cca3": "SOM",
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "som": "Somali"
+        },
+        "currencies": {
+            "SOS": {
+                "name": "Somali shilling",
+                "symbol": "Sh"
+            }
+        },
+        "center": {
+            "latitude": "2.87224619",
+            "longitude": "45.27676444",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/so.svg",
+        "flag_4x3": "flags/4x3/so.svg"
+    },
+    {
+        "code": "ZA",
+        "cca3": "ZAF",
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "continent": "Africa",
+        "subregion": "Southern Africa",
+        "languages": {
+            "afr": "Afrikaans",
+            "eng": "English",
+            "nbl": "Southern Ndebele",
+            "nso": "Northern Sotho",
+            "sot": "Southern Sotho",
+            "ssw": "Swazi",
+            "tsn": "Tswana",
+            "tso": "Tsonga",
+            "ven": "Venda",
+            "xho": "Xhosa",
+            "zul": "Zulu"
+        },
+        "currencies": {
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
+        "center": {
+            "latitude": "-27.17706863",
+            "longitude": "24.50856092",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/za.svg",
+        "flag_4x3": "flags/4x3/za.svg"
+    },
+    {
+        "code": "GS",
+        "cca3": "SGS",
+        "name": "South Georgia and the South Sandwich Islands",
+        "capital": "King Edward Point",
+        "continent": "Antarctica",
+        "subregion": "",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "SHP": {
+                "name": "Saint Helena pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "-54.38130284",
+            "longitude": "-36.67305304",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gs.svg",
+        "flag_4x3": "flags/4x3/gs.svg"
+    },
+    {
+        "code": "KR",
+        "cca3": "KOR",
+        "name": "South Korea",
+        "capital": "Seoul",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "kor": "Korean"
+        },
+        "currencies": {
+            "KRW": {
+                "name": "South Korean won",
+                "symbol": "\\u20a9"
+            }
+        },
+        "center": {
+            "latitude": "36.56344139",
+            "longitude": "127.51424646",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kr.svg",
+        "flag_4x3": "flags/4x3/kr.svg"
+    },
+    {
+        "code": "SS",
+        "cca3": "SSD",
+        "name": "South Sudan",
+        "capital": "Juba",
+        "continent": "Africa",
+        "subregion": "Middle Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "SSP": {
+                "name": "South Sudanese pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "7.91320803",
+            "longitude": "30.15342434",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ss.svg",
+        "flag_4x3": "flags/4x3/ss.svg"
+    },
+    {
+        "code": "ES",
+        "cca3": "ESP",
+        "name": "Spain",
+        "capital": "Madrid",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "39.87299401",
+            "longitude": "-3.67089492",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/es.svg",
+        "flag_4x3": "flags/4x3/es.svg"
+    },
+    {
+        "code": "LK",
+        "cca3": "LKA",
+        "name": "Sri Lanka",
+        "capital": "Sri Jayawardenepura Kotte, Colombo",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "sin": "Sinhala",
+            "tam": "Tamil"
+        },
+        "currencies": {
+            "LKR": {
+                "name": "Sri Lankan rupee",
+                "symbol": "Rs  \\u0dbb\\u0dd4"
+            }
+        },
+        "center": {
+            "latitude": "7.61264985",
+            "longitude": "80.83772497",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lk.svg",
+        "flag_4x3": "flags/4x3/lk.svg"
+    },
+    {
+        "code": "PS",
+        "cca3": "PSE",
+        "name": "State of Palestine",
+        "capital": "Ramallah",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "E\\u00a3"
+            },
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\\u20aa"
+            },
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "JD"
+            }
+        },
+        "center": {
+            "latitude": "32.26367103",
+            "longitude": "35.21936714",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ps.svg",
+        "flag_4x3": "flags/4x3/ps.svg"
+    },
+    {
+        "code": "SD",
+        "cca3": "SDN",
+        "name": "Sudan",
+        "capital": "Khartoum",
+        "continent": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic",
+            "eng": "English"
+        },
+        "currencies": {
+            "SDG": {
+                "name": "Sudanese pound",
+                "symbol": "PT"
+            }
+        },
+        "center": {
+            "latitude": "15.96646839",
+            "longitude": "30.37145459",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sd.svg",
+        "flag_4x3": "flags/4x3/sd.svg"
+    },
+    {
+        "code": "SR",
+        "cca3": "SUR",
+        "name": "Suriname",
+        "capital": "Paramaribo",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "nld": "Dutch"
+        },
+        "currencies": {
+            "SRD": {
+                "name": "Surinamese dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "4.26470865",
+            "longitude": "-55.93988238",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sr.svg",
+        "flag_4x3": "flags/4x3/sr.svg"
+    },
+    {
+        "code": "SJ",
+        "cca3": "SJM",
+        "name": "Svalbard and Jan Mayen",
+        "capital": "Longyearbyen",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "nor": "Norwegian"
+        },
+        "currencies": {
+            "NOK": {
+                "name": "krone",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "77.92215764",
+            "longitude": "18.99010622",
+            "zoom": "4"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/sj.svg",
+        "flag_4x3": "flags/4x3/sj.svg"
+    },
+    {
+        "code": "SE",
+        "cca3": "SWE",
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "swe": "Swedish"
+        },
+        "currencies": {
+            "SEK": {
+                "name": "Swedish krona",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "61.42370427",
+            "longitude": "16.73188991",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/se.svg",
+        "flag_4x3": "flags/4x3/se.svg"
+    },
+    {
+        "code": "CH",
+        "cca3": "CHE",
+        "name": "Switzerland",
+        "capital": "Bern",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French",
+            "gsw": "Swiss German",
+            "ita": "Italian",
+            "roh": "Romansh"
+        },
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr."
+            }
+        },
+        "center": {
+            "latitude": "46.81010721",
+            "longitude": "8.22751200",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ch.svg",
+        "flag_4x3": "flags/4x3/ch.svg"
+    },
+    {
+        "code": "SY",
+        "cca3": "SYR",
+        "name": "Syria",
+        "capital": "Damascus",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "SYP": {
+                "name": "Syrian pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "34.71097430",
+            "longitude": "38.66723516",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sy.svg",
+        "flag_4x3": "flags/4x3/sy.svg"
+    },
+    {
+        "code": "TW",
+        "cca3": "TWN",
+        "name": "Taiwan",
+        "capital": "Taipei",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "TWD": {
+                "name": "New Taiwan dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "23.71891402",
+            "longitude": "121.10884043",
+            "zoom": "7"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/tw.svg",
+        "flag_4x3": "flags/4x3/tw.svg"
+    },
+    {
+        "code": "TJ",
+        "cca3": "TJK",
+        "name": "Tajikistan",
+        "capital": "Dushanbe",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "tgk": "Tajik"
+        },
+        "currencies": {
+            "TJS": {
+                "name": "Tajikistani somoni",
+                "symbol": "\\u0405\\u041c"
+            }
+        },
+        "center": {
+            "latitude": "38.68075124",
+            "longitude": "71.23215769",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tj.svg",
+        "flag_4x3": "flags/4x3/tj.svg"
+    },
+    {
+        "code": "TZ",
+        "cca3": "TZA",
+        "name": "Tanzania",
+        "capital": "Dodoma",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "currencies": {
+            "TZS": {
+                "name": "Tanzanian shilling",
+                "symbol": "Sh"
+            }
+        },
+        "center": {
+            "latitude": "-6.37551085",
+            "longitude": "34.85587302",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tz.svg",
+        "flag_4x3": "flags/4x3/tz.svg"
+    },
+    {
+        "code": "TH",
+        "cca3": "THA",
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "tha": "Thai"
+        },
+        "currencies": {
+            "THB": {
+                "name": "Thai baht",
+                "symbol": "\\u0e3f"
+            }
+        },
+        "center": {
+            "latitude": "14.60009810",
+            "longitude": "101.38805881",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/th.svg",
+        "flag_4x3": "flags/4x3/th.svg"
+    },
+    {
+        "code": "TL",
+        "cca3": "TLS",
+        "name": "Timor-Leste",
+        "capital": "Dili",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "por": "Portuguese",
+            "tet": "Tetum"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-8.88926365",
+            "longitude": "125.99671404",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tl.svg",
+        "flag_4x3": "flags/4x3/tl.svg"
+    },
+    {
+        "code": "TG",
+        "cca3": "TGO",
+        "name": "Togo",
+        "capital": "Lom\\u00e9",
+        "continent": "Africa",
+        "subregion": "Western Africa",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "8.68089206",
+            "longitude": "0.86049757",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tg.svg",
+        "flag_4x3": "flags/4x3/tg.svg"
+    },
+    {
+        "code": "TK",
+        "cca3": "TKL",
+        "name": "Tokelau",
+        "capital": "Nukunonu, Atafu,Tokelau",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan",
+            "tkl": "Tokelauan"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-9.16682644",
+            "longitude": "-171.83981693",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/tk.svg",
+        "flag_4x3": "flags/4x3/tk.svg"
+    },
+    {
+        "code": "TO",
+        "cca3": "TON",
+        "name": "Tonga",
+        "capital": "Nuku\\u02bbalofa",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "ton": "Tongan"
+        },
+        "currencies": {
+            "TOP": {
+                "name": "Tongan pa\\u02bbanga",
+                "symbol": "T$"
+            }
+        },
+        "center": {
+            "latitude": "-21.17890075",
+            "longitude": "-175.19824200",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/to.svg",
+        "flag_4x3": "flags/4x3/to.svg"
+    },
+    {
+        "code": "TT",
+        "cca3": "TTO",
+        "name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "continent": "South America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "TTD": {
+                "name": "Trinidad and Tobago dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "10.43241863",
+            "longitude": "-61.22250300",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tt.svg",
+        "flag_4x3": "flags/4x3/tt.svg"
+    },
+    {
+        "code": "TN",
+        "cca3": "TUN",
+        "name": "Tunisia",
+        "capital": "Tunis",
+        "continent": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "TND": {
+                "name": "Tunisian dinar",
+                "symbol": "\\u062f.\\u062a"
+            }
+        },
+        "center": {
+            "latitude": "33.88431940",
+            "longitude": "9.71878341",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tn.svg",
+        "flag_4x3": "flags/4x3/tn.svg"
+    },
+    {
+        "code": "TM",
+        "cca3": "TKM",
+        "name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "tuk": "Turkmen"
+        },
+        "currencies": {
+            "TMT": {
+                "name": "Turkmenistan manat",
+                "symbol": "m"
+            }
+        },
+        "center": {
+            "latitude": "38.94915421",
+            "longitude": "59.06190323",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tm.svg",
+        "flag_4x3": "flags/4x3/tm.svg"
+    },
+    {
+        "code": "TC",
+        "cca3": "TCA",
+        "name": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "21.72816866",
+            "longitude": "-71.79654471",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/tc.svg",
+        "flag_4x3": "flags/4x3/tc.svg"
+    },
+    {
+        "code": "TV",
+        "cca3": "TUV",
+        "name": "Tuvalu",
+        "capital": "Funafuti",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "tvl": "Tuvaluan"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "TVD": {
+                "name": "Tuvaluan dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-8.45968122",
+            "longitude": "179.13310944",
+            "zoom": "12"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tv.svg",
+        "flag_4x3": "flags/4x3/tv.svg"
+    },
+    {
+        "code": "TR",
+        "cca3": "TUR",
+        "name": "T\\u00fcrkiye",
+        "capital": "Ankara",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "tur": "Turkish"
+        },
+        "currencies": {
+            "TRY": {
+                "name": "Turkish lira",
+                "symbol": "\\u20ba"
+            }
+        },
+        "center": {
+            "latitude": "38.27069555",
+            "longitude": "36.28703317",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tr.svg",
+        "flag_4x3": "flags/4x3/tr.svg"
+    },
+    {
+        "code": "UG",
+        "cca3": "UGA",
+        "name": "Uganda",
+        "capital": "Kampala",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English",
+            "swa": "Swahili"
+        },
+        "currencies": {
+            "UGX": {
+                "name": "Ugandan shilling",
+                "symbol": "Sh"
+            }
+        },
+        "center": {
+            "latitude": "1.54760620",
+            "longitude": "32.44409759",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ug.svg",
+        "flag_4x3": "flags/4x3/ug.svg"
+    },
+    {
+        "code": "UA",
+        "cca3": "UKR",
+        "name": "Ukraine",
+        "capital": "Kiev",
+        "continent": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "ukr": "Ukrainian"
+        },
+        "currencies": {
+            "UAH": {
+                "name": "Ukrainian hryvnia",
+                "symbol": "\\u20b4"
+            }
+        },
+        "center": {
+            "latitude": "48.89358596",
+            "longitude": "31.10516920",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ua.svg",
+        "flag_4x3": "flags/4x3/ua.svg"
+    },
+    {
+        "code": "AE",
+        "cca3": "ARE",
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "AED": {
+                "name": "United Arab Emirates dirham",
+                "symbol": "\\u062f.\\u0625"
+            }
+        },
+        "center": {
+            "latitude": "24.64324405",
+            "longitude": "53.62261227",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ae.svg",
+        "flag_4x3": "flags/4x3/ae.svg"
+    },
+    {
+        "code": "GB",
+        "cca3": "GBR",
+        "name": "United Kingdom",
+        "capital": "London",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "53.36540813",
+            "longitude": "-2.72184767",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gb.svg",
+        "flag_4x3": "flags/4x3/gb.svg"
+    },
+    {
+        "code": "UM",
+        "cca3": "UMI",
+        "name": "United States Minor Outlying Islands",
+        "capital": "Washington, D.C.",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "19.46305694",
+            "longitude": "177.98631092",
+            "zoom": "5"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/um.svg",
+        "flag_4x3": "flags/4x3/um.svg"
+    },
+    {
+        "code": "US",
+        "cca3": "USA",
+        "name": "United States of America",
+        "capital": "Washington, D.C.",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "37.66895362",
+            "longitude": "-102.39256450",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/us.svg",
+        "flag_4x3": "flags/4x3/us.svg"
+    },
+    {
+        "code": "UY",
+        "cca3": "URY",
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "UYU": {
+                "name": "Uruguayan peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-32.49342987",
+            "longitude": "-55.76583300",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/uy.svg",
+        "flag_4x3": "flags/4x3/uy.svg"
+    },
+    {
+        "code": "UZ",
+        "cca3": "UZB",
+        "name": "Uzbekistan",
+        "capital": "Tashkent",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "uzb": "Uzbek"
+        },
+        "currencies": {
+            "UZS": {
+                "name": "Uzbekistani so\\u02bbm",
+                "symbol": "so'm"
+            }
+        },
+        "center": {
+            "latitude": "41.30829147",
+            "longitude": "62.62970960",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/uz.svg",
+        "flag_4x3": "flags/4x3/uz.svg"
+    },
+    {
+        "code": "VU",
+        "cca3": "VUT",
+        "name": "Vanuatu",
+        "capital": "Port Vila",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "bis": "Bislama",
+            "eng": "English",
+            "fra": "French"
+        },
+        "currencies": {
+            "VUV": {
+                "name": "Vanuatu vatu",
+                "symbol": "Vt"
+            }
+        },
+        "center": {
+            "latitude": "-15.37256614",
+            "longitude": "166.95916000",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/vu.svg",
+        "flag_4x3": "flags/4x3/vu.svg"
+    },
+    {
+        "code": "VE",
+        "cca3": "VEN",
+        "name": "Venezuela",
+        "capital": "Caracas",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "VES": {
+                "name": "Venezuelan bol\\u00edvar soberano",
+                "symbol": "Bs.S."
+            }
+        },
+        "center": {
+            "latitude": "5.98477766",
+            "longitude": "-65.94152264",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ve.svg",
+        "flag_4x3": "flags/4x3/ve.svg"
+    },
+    {
+        "code": "VN",
+        "cca3": "VNM",
+        "name": "Vietnam",
+        "capital": "Hanoi",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "vie": "Vietnamese"
+        },
+        "currencies": {
+            "VND": {
+                "name": "Vietnamese \\u0111\\u1ed3ng",
+                "symbol": "\\u20ab"
+            }
+        },
+        "center": {
+            "latitude": "17.19931699",
+            "longitude": "107.14012804",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/vn.svg",
+        "flag_4x3": "flags/4x3/vn.svg"
+    },
+    {
+        "code": "VG",
+        "cca3": "VGB",
+        "name": "Virgin Islands (British)",
+        "capital": "Road Town",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "17.67004187",
+            "longitude": "-64.77411010",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/vg.svg",
+        "flag_4x3": "flags/4x3/vg.svg"
+    },
+    {
+        "code": "VI",
+        "cca3": "VIR",
+        "name": "Virgin Islands (U.S.)",
+        "capital": "Charlotte Amalie",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.01000938",
+            "longitude": "-64.77411410",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/vi.svg",
+        "flag_4x3": "flags/4x3/vi.svg"
+    },
+    {
+        "code": "WF",
+        "cca3": "WLF",
+        "name": "Wallis and Futuna",
+        "capital": "Mata-Utu",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\\u20a3"
+            }
+        },
+        "center": {
+            "latitude": "-14.29378486",
+            "longitude": "-178.11649800",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/wf.svg",
+        "flag_4x3": "flags/4x3/wf.svg"
+    },
+    {
+        "code": "EH",
+        "cca3": "ESH",
+        "name": "Western Sahara",
+        "capital": "Laayoune",
+        "continent": "Africa",
+        "subregion": "Northern Africa",
+        "languages": {
+            "ber": "Berber",
+            "mey": "Hassaniya",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "DZD": {
+                "name": "Algerian dinar",
+                "symbol": "\\u062f\\u062c"
+            },
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "DH"
+            },
+            "MRU": {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM"
+            }
+        },
+        "center": {
+            "latitude": "24.79324356",
+            "longitude": "-13.67683563",
+            "zoom": "6"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/eh.svg",
+        "flag_4x3": "flags/4x3/eh.svg"
+    },
+    {
+        "code": "YE",
+        "cca3": "YEM",
+        "name": "Yemen",
+        "capital": "Sana'a",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "YER": {
+                "name": "Yemeni rial",
+                "symbol": "\\ufdfc"
+            }
+        },
+        "center": {
+            "latitude": "15.60865453",
+            "longitude": "47.60453676",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ye.svg",
+        "flag_4x3": "flags/4x3/ye.svg"
+    },
+    {
+        "code": "ZM",
+        "cca3": "ZMB",
+        "name": "Zambia",
+        "capital": "Lusaka",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "ZMW": {
+                "name": "Zambian kwacha",
+                "symbol": "ZK"
+            }
+        },
+        "center": {
+            "latitude": "-13.01812188",
+            "longitude": "28.33274444",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/zm.svg",
+        "flag_4x3": "flags/4x3/zm.svg"
+    },
+    {
+        "code": "ZW",
+        "cca3": "ZWE",
+        "name": "Zimbabwe",
+        "capital": "Harare",
+        "continent": "Africa",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "bwg": "Chibarwe",
+            "eng": "English",
+            "kck": "Kalanga",
+            "khi": "Khoisan",
+            "ndc": "Ndau",
+            "nde": "Northern Ndebele",
+            "nya": "Chewa",
+            "sna": "Shona",
+            "sot": "Sotho",
+            "toi": "Tonga",
+            "tsn": "Tswana",
+            "tso": "Tsonga",
+            "ven": "Venda",
+            "xho": "Xhosa",
+            "zib": "Zimbabwean Sign Language"
+        },
+        "currencies": {
+            "BWP": {
+                "name": "Botswana pula",
+                "symbol": "P"
+            },
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "\\u00a5"
+            },
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\u20ac"
+            },
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\\u20b9"
+            },
+            "JPY": {
+                "name": "Japanese yen",
+                "symbol": "\\u00a5"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "Rs"
+            },
+            "ZWB": {
+                "name": "Zimbabwean bonds",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-19.00784952",
+            "longitude": "30.18758584",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/zw.svg",
+        "flag_4x3": "flags/4x3/zw.svg"
+    }
+]

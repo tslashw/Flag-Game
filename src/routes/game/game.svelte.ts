@@ -1,9 +1,10 @@
-import countries from '$lib/data/countries.json';
+import countries from "$lib/data/countries-dataset.json"
 
 
 export class GameRunner {
 
     gameRunning:boolean = $state(false);
+    gameOver:boolean = $state(false);
     
     countries = countries;
 
@@ -20,16 +21,21 @@ export class GameRunner {
         }
     );
 
-    lives:number = $state(3);
+    lives:number = $state(5);
 
+    /*
     timeLeft:number = $state(10);
     roundTimer = 0;
+    */
 
     constructor() {
 
-       this.gameRunning = true;
-       this.newRound();
+    };
 
+    newGame = () => {
+        this.gameOver = false;
+        this.gameRunning = true;
+        this.newRound();
     };
 
     shuffleArray = (array:Array<Object>) => {
@@ -44,6 +50,8 @@ export class GameRunner {
 
     };
 
+
+    /*
     startRoundTimer = () => {
         this.roundTimer = setInterval(() => {
             this.reduceTimer();
@@ -67,26 +75,29 @@ export class GameRunner {
             this.newRound();
         }
     }
+    */
 
     newRound = () => {
 
         if (this.lives <= 0) {
             // alert("GAME OVER!");
+            // clearInterval(this.roundTimer);
             this.gameRunning = false;
-            clearInterval(this.roundTimer);
+            this.gameOver = true;
         }
 
-        this.clearRoundTimer();
-        this.startRoundTimer();
+        // this.clearRoundTimer();
+        // this.startRoundTimer();
         
         // Shuffle countries:
         this.countries = this.shuffleArray(this.countries);
 
         // Setup round object:
-        this.round.currentFlagPath = `flags/SVG/${this.countries[0].code2l}.svg`;
+        this.round.currentFlagPath = this.countries[0]["flag_4x3"];
         this.round.answer = this.countries[0].name;
         this.round.options = this.shuffleArray([this.countries[0].name, this.countries[1].name, this.countries[2].name]);
 
+        
 
         // pop answer flag:
 
