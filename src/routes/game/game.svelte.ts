@@ -8,6 +8,7 @@ export class GameRunner {
     gameRunning:boolean = $state(false);
     gameOver:boolean = $state(false);
     
+    continent = "";
     countries = "";
     questionQueue = countries;
 
@@ -32,17 +33,22 @@ export class GameRunner {
     */
 
     constructor(dataset:string="world") {
+        // Setup dataset:
         if (dataset == "world") {
             this.countries = countries;
+            this.continent = "World";
 
         }
         else if (dataset == "asia") {
             this.countries = countries_asia;
+            this.continent = "Asia";
         }
         else if (dataset == "europe") {
             this.countries = countries_europe;
+            this.continent = "Europe";
         }
 
+        // Launch game:
         this.totalCountries = this.countries.length;
         this.questionQueue = this.countries;
 

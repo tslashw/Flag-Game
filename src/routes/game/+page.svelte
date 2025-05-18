@@ -23,9 +23,12 @@
 {#if !game.gameRunning && !game.gameOver}
 <div class="main-menu">
 	<h1 class="main-font">Untitled Flag Game</h1>
-	<button onclick={() => game = new GameRunner("world")} class="answer-button main-font">WHOLE WORLD</button>
-	<button onclick={() => game = new GameRunner("asia")} class="answer-button main-font">ASIA</button>
-	<button onclick={() => game = new GameRunner("europe")} class="answer-button main-font">EUROPE</button>
+	<div class="continent-buttons">
+		<button onclick={() => game = new GameRunner("world")} class="answer-button main-font">WHOLE WORLD</button>
+		<button onclick={() => game = new GameRunner("asia")} class="answer-button main-font">ASIA</button>
+		<button onclick={() => game = new GameRunner("europe")} class="answer-button main-font">EUROPE</button>
+	</div>
+	<p>Game created by Tommy Wilson</p>
 </div>
 {/if}
 
@@ -105,14 +108,24 @@
 		display: flex;
 		align-items: center;
 		flex-direction: column;
+		
+	}
+
+	.continent-buttons {
+		margin-bottom: 80vw;
+		display: flex;
+		align-items: center;
+		flex-direction: column;
 		gap: 2rem;
 	}
 
 	.main-menu button {
 		min-width: 50vw;
+		border: solid black 5px;
 	}
 
 	.game-background {
+		background-color: white;
 		position: fixed;
 		height: 100vh;
 		width: 100vw;
