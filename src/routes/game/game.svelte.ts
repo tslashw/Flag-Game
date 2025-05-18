@@ -7,6 +7,7 @@ export class GameRunner {
     gameOver:boolean = $state(false);
     
     countries = countries;
+    questionQueue = countries;
 
     totalCountries:number = countries.length;
     progress:number = $state(1);
@@ -88,20 +89,21 @@ export class GameRunner {
 
         // this.clearRoundTimer();
         // this.startRoundTimer();
-        
-        // Shuffle countries:
-        this.countries = this.shuffleArray(this.countries);
+
+        // Shuffle question queue:
+        this.shuffleArray(this.questionQueue);
+
 
         // Setup round object:
-        this.round.currentFlagPath = this.countries[0]["flag_4x3"];
-        this.round.answer = this.countries[0].name;
-        this.round.options = this.shuffleArray([this.countries[0].name, this.countries[1].name, this.countries[2].name]);
+        this.round.currentFlagPath = this.questionQueue[0]["flag_4x3"];
+        this.round.answer = this.questionQueue[0].name;
+        this.round.options = this.shuffleArray([this.questionQueue[0], this.questionQueue[1], this.questionQueue[2]]);
 
-        
-
-        // pop answer flag:
-
-
+        // Change main background to current flag:
+        let mainApp = document.getElementsByClassName("main")[0];
+        mainApp.style.backgroundImage = `url('${this.round.currentFlagPath}')`;
+        mainApp.style.backgroundPosition = "center";
+        mainApp.style.backgroundRepeat = "repeat";
 
 
     };
@@ -109,13 +111,16 @@ export class GameRunner {
 
     checkAnswer = (submission:string) => {
         if (this.round.answer == submission) {
-            alert(`Correct!\nFun Facts:\nCapital City: ${this.countries[0]["capital"]}`);
+            alert(`Correct!\nFun Facts:\nCapital City: ${this.questionQueue[0]["capital"]}`);
             this.score ++;
         }
         else {
             alert(`Wrong! the answer is ${this.round.answer}`);
             this.lives = this.lives - 1;
         }
+
+        // pop answer flag:
+        this.questionQueue.shift();
 
         this.progress ++;
         this.newRound();
