@@ -7,15 +7,20 @@
 
 	let showModal = $state(false);
 	let modalColor = $state("");
-	let correct = $state(false);
+	let answerResponse = $state({
+            "correct": false,
+            "funFacts": {
+                "capital" : ""
+            }
+		});
 
 	onMount(() => {
 		let game;
 	});
 
 	let evaluateAnswer = (answer:string) => {
-		correct = game.checkAnswer(answer);
-		if (correct) {
+		answerResponse = game.checkAnswer(answer);
+		if (answerResponse.correct) {
 			modalColor = "green";
 		}
 		else {
@@ -122,18 +127,21 @@
 <!-- Response Modal: -->
 <ResponseModal bind:showModal bgColor={modalColor}>
 	{#snippet header()}
-		{#if correct}
+		{#if answerResponse.correct}
 		<h2>
 			Correct!
 		</h2>
-		{:else if !correct}
+		{:else if !answerResponse.correct}
 		<h2> Incorrect!</h2>
 		{/if}
 	{/snippet}
 	
 	{#snippet children()}
+	{#if answerResponse.correct}
 	<h2>Fun Facts:</h2>
-	<p>Capital City:</p>
+	<p>Capital City: {answerResponse.funFacts.capital}</p>
+	<hr style="color: white;"/>
+	{/if}
 	{/snippet}
 
 </ResponseModal>

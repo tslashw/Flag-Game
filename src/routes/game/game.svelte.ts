@@ -126,6 +126,7 @@ export class GameRunner {
             this.round.answer = this.questionQueue[0].name;
             this.round.options = this.shuffleArray([this.questionQueue[0], this.questionQueue[1], this.questionQueue[2]]);
 
+
         
         }
 
@@ -138,13 +139,18 @@ export class GameRunner {
         let correct = false;
 
         if (this.round.answer == submission) {
-            // alert(`Correct!\nFun Facts:\nCapital City: ${this.questionQueue[0]["capital"]}`);
             correct = true;
             this.score ++;
         }
         else {
-            // alert(`Wrong! the answer is ${this.round.answer}`);
             this.lives = this.lives - 1;
+        }
+
+        let response = {
+            "correct": correct,
+            "funFacts": {
+                "capital" : this.questionQueue[0]["capital"]
+            }
         }
 
         // pop answer flag:
@@ -154,7 +160,8 @@ export class GameRunner {
         this.progress ++;
         this.newRound();
         
-        return correct;
+
+        return response;
 
     };
 

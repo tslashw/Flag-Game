@@ -20,7 +20,6 @@
 		{@render header?.()}
 		<hr style="color: white;"/>
 		{@render children?.()}
-		<hr style="color: white;"/>
 	</div>
 </dialog>
 
@@ -28,7 +27,10 @@
 	dialog {
 		max-width: 75vw;
         min-width: 75vw;
-        min-height: 75vh;
+        min-height: 25vh;
+        position: absolute;
+        top: 0px;
+        left: 0px;
 		border-radius: 1rem;
 		border: none;
 		padding: 0;
