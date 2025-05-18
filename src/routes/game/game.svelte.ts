@@ -85,25 +85,33 @@ export class GameRunner {
             // clearInterval(this.roundTimer);
             this.gameRunning = false;
             this.gameOver = true;
+            this.runGameOver();
+            return;
         }
+        else {
 
-        // this.clearRoundTimer();
-        // this.startRoundTimer();
-
-        // Shuffle question queue:
-        this.shuffleArray(this.questionQueue);
-
-
-        // Setup round object:
-        this.round.currentFlagPath = this.questionQueue[0]["flag_4x3"];
-        this.round.answer = this.questionQueue[0].name;
-        this.round.options = this.shuffleArray([this.questionQueue[0], this.questionQueue[1], this.questionQueue[2]]);
-
-        // Change main background to current flag:
-        let mainApp = document.getElementsByClassName("main")[0];
-        mainApp.style.backgroundImage = `url('${this.round.currentFlagPath}')`;
-        mainApp.style.backgroundPosition = "center";
-        mainApp.style.backgroundRepeat = "repeat";
+            
+            // this.clearRoundTimer();
+            // this.startRoundTimer();
+            
+            // Shuffle question queue:
+            this.shuffleArray(this.questionQueue);
+            
+            
+            // Setup round object:
+            this.round.currentFlagPath = this.questionQueue[0]["flag_4x3"];
+            this.round.answer = this.questionQueue[0].name;
+            this.round.options = this.shuffleArray([this.questionQueue[0], this.questionQueue[1], this.questionQueue[2]]);
+            
+            // Change main background to current flag:
+            requestAnimationFrame(() => {
+                let mainApp = document.getElementsByClassName("main")[0];
+                mainApp.style.backgroundImage = `url('${this.round.currentFlagPath}')`;
+                mainApp.style.backgroundPosition = "center";
+                mainApp.style.backgroundRepeat = "repeat";
+            });
+        
+        }
 
 
     };
@@ -124,6 +132,15 @@ export class GameRunner {
 
         this.progress ++;
         this.newRound();
+    };
+
+    runGameOver = () => {
+
+        // Change main background:
+        let mainApp = document.getElementsByClassName("main")[0];
+        mainApp.style.backgroundColor = "white";
+
+
     };
 
 

@@ -95,7 +95,6 @@
 
 <style>
 	.main {
-		background: url(game.round.currentFlagPath);
 		position: fixed;
 		height: 100vh;
 		width: 100vw;
@@ -104,8 +103,8 @@
 	}
 
 	.quiz {
-		background-color: #e5dcdc15;
-		backdrop-filter: blur(100px);
+		background-color: rgba(255, 255, 255, 0.142);
+		backdrop-filter: blur(10px);
 		border: 2px solid white;
 		border-radius: 2rem;
 		width: 95vw;
@@ -123,13 +122,17 @@
 		display: flex;
 		align-items: center;
 		flex-direction: column;
+		
+		
 	}
 
 	.flag-svg {
         width: max(70vw);
 		height: max(25vh);
-		object-fit: fill;
+		object-fit: cover;
 		box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
+		
+		
 
 	}
 
