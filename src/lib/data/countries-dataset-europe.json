@@ -1,0 +1,1343 @@
+[
+    {
+        "code": "AX",
+        "cca3": "ALA",
+        "name": "Aland Islands",
+        "capital": "Mariehamn",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "swe": "Swedish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "60.25403213",
+            "longitude": "20.35918350",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ax.svg",
+        "flag_4x3": "flags/4x3/ax.svg"
+    }, {
+        "code": "AL",
+        "cca3": "ALB",
+        "name": "Albania",
+        "capital": "Tirana",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "sqi": "Albanian"
+        },
+        "currencies": {
+            "ALL": {
+                "name": "Albanian lek",
+                "symbol": "L"
+            }
+        },
+        "center": {
+            "latitude": "41.00017358",
+            "longitude": "19.87170014",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/al.svg",
+        "flag_4x3": "flags/4x3/al.svg"
+    }, {
+        "code": "AD",
+        "cca3": "AND",
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "cat": "Catalan"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "42.54057088",
+            "longitude": "1.55201340",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ad.svg",
+        "flag_4x3": "flags/4x3/ad.svg"
+    }, {
+        "code": "AT",
+        "cca3": "AUT",
+        "name": "Austria",
+        "capital": "Vienna",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "bar": "Austro-Bavarian German"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "47.63125476",
+            "longitude": "13.18776731",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/at.svg",
+        "flag_4x3": "flags/4x3/at.svg"
+    }, {
+        "code": "BY",
+        "cca3": "BLR",
+        "name": "Belarus",
+        "capital": "Minsk",
+        "continent": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "bel": "Belarusian",
+            "rus": "Russian"
+        },
+        "currencies": {
+            "BYN": {
+                "name": "Belarusian ruble",
+                "symbol": "Br"
+            }
+        },
+        "center": {
+            "latitude": "53.58628747",
+            "longitude": "27.95338900",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/by.svg",
+        "flag_4x3": "flags/4x3/by.svg"
+    }, {
+        "code": "BE",
+        "cca3": "BEL",
+        "name": "Belgium",
+        "capital": "Brussels",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "50.49593874",
+            "longitude": "4.46993600",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/be.svg",
+        "flag_4x3": "flags/4x3/be.svg"
+    }, {
+        "code": "BA",
+        "cca3": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "bos": "Bosnian",
+            "hrv": "Croatian",
+            "srp": "Serbian"
+        },
+        "currencies": {
+            "BAM": {
+                "name": "Bosnia and Herzegovina convertible mark",
+                "symbol": "KM"
+            }
+        },
+        "center": {
+            "latitude": "44.00040856",
+            "longitude": "17.81640910",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ba.svg",
+        "flag_4x3": "flags/4x3/ba.svg"
+    }, {
+        "code": "BG",
+        "cca3": "BGR",
+        "name": "Bulgaria",
+        "capital": "Sofia",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "bul": "Bulgarian"
+        },
+        "currencies": {
+            "BGN": {
+                "name": "Bulgarian lev",
+                "symbol": "\\\\u043b\\\\u0432"
+            }
+        },
+        "center": {
+            "latitude": "42.70160678",
+            "longitude": "25.48583200",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bg.svg",
+        "flag_4x3": "flags/4x3/bg.svg"
+    }, {
+        "code": "HR",
+        "cca3": "HRV",
+        "name": "Croatia",
+        "capital": "Zagreb",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "hrv": "Croatian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "44.81372482",
+            "longitude": "16.29039507",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/hr.svg",
+        "flag_4x3": "flags/4x3/hr.svg"
+    }, {
+        "code": "CY",
+        "cca3": "CYP",
+        "name": "Cyprus",
+        "capital": "Nicosia",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ell": "Greek",
+            "tur": "Turkish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "35.12450768",
+            "longitude": "33.42986100",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cy.svg",
+        "flag_4x3": "flags/4x3/cy.svg"
+    }, {
+        "code": "CZ",
+        "cca3": "CZE",
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "ces": "Czech",
+            "slk": "Slovak"
+        },
+        "currencies": {
+            "CZK": {
+                "name": "Czech koruna",
+                "symbol": "K\\\\u010d"
+            }
+        },
+        "center": {
+            "latitude": "49.76026136",
+            "longitude": "15.53888197",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cz.svg",
+        "flag_4x3": "flags/4x3/cz.svg"
+    }, {
+        "code": "DK",
+        "cca3": "DNK",
+        "name": "Denmark",
+        "capital": "Copenhagen",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "dan": "Danish"
+        },
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "54.71794021",
+            "longitude": "9.41938953",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/dk.svg",
+        "flag_4x3": "flags/4x3/dk.svg"
+    }, {
+        "code": "EE",
+        "cca3": "EST",
+        "name": "Estonia",
+        "capital": "Tallinn",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "est": "Estonian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "58.74041141",
+            "longitude": "25.38165099",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ee.svg",
+        "flag_4x3": "flags/4x3/ee.svg"
+    }, {
+        "code": "FO",
+        "cca3": "FRO",
+        "name": "Faroe Islands",
+        "capital": "T\\\\u00f3rshavn",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "dan": "Danish",
+            "fao": "Faroese"
+        },
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            },
+            "FOK": {
+                "name": "Faroese kr\\\\u00f3na",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "61.88590482",
+            "longitude": "-6.91180400",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/fo.svg",
+        "flag_4x3": "flags/4x3/fo.svg"
+    }, {
+        "code": "FI",
+        "cca3": "FIN",
+        "name": "Finland",
+        "capital": "Helsinki",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "fin": "Finnish",
+            "swe": "Swedish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "64.69610892",
+            "longitude": "26.36339137",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fi.svg",
+        "flag_4x3": "flags/4x3/fi.svg"
+    }, {
+        "code": "FR",
+        "cca3": "FRA",
+        "name": "France",
+        "capital": "Paris",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "46.48372145",
+            "longitude": "2.60926281",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fr.svg",
+        "flag_4x3": "flags/4x3/fr.svg"
+    }, {
+        "code": "DE",
+        "cca3": "DEU",
+        "name": "Germany",
+        "capital": "Berlin",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "50.82871201",
+            "longitude": "10.97887975",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/de.svg",
+        "flag_4x3": "flags/4x3/de.svg"
+    }, {
+        "code": "GI",
+        "cca3": "GIB",
+        "name": "Gibraltar",
+        "capital": "Gibraltar",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GIP": {
+                "name": "Gibraltar pound",
+                "symbol": "\\\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "36.14864641",
+            "longitude": "-5.34404779",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gi.svg",
+        "flag_4x3": "flags/4x3/gi.svg"
+    }, {
+        "code": "GR",
+        "cca3": "GRC",
+        "name": "Greece",
+        "capital": "Athens",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ell": "Greek"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "38.52254746",
+            "longitude": "24.53794505",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gr.svg",
+        "flag_4x3": "flags/4x3/gr.svg"
+    }, {
+        "code": "GG",
+        "cca3": "GGY",
+        "name": "Guernsey",
+        "capital": "Saint Peter Port",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nfr": "Guern\\\\u00e9siais"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\\\u00a3"
+            },
+            "GGP": {
+                "name": "Guernsey pound",
+                "symbol": "\\\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "49.46565975",
+            "longitude": "-2.58527200",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gg.svg",
+        "flag_4x3": "flags/4x3/gg.svg"
+    }, {
+        "code": "VA",
+        "cca3": "VAT",
+        "name": "Holy See",
+        "capital": "Vatican City",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian",
+            "lat": "Latin"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "41.90377810",
+            "longitude": "12.45340142",
+            "zoom": "16"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/va.svg",
+        "flag_4x3": "flags/4x3/va.svg"
+    }, {
+        "code": "HU",
+        "cca3": "HUN",
+        "name": "Hungary",
+        "capital": "Budapest",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "hun": "Hungarian"
+        },
+        "currencies": {
+            "HUF": {
+                "name": "Hungarian forint",
+                "symbol": "Ft"
+            }
+        },
+        "center": {
+            "latitude": "46.97670384",
+            "longitude": "19.35499657",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/hu.svg",
+        "flag_4x3": "flags/4x3/hu.svg"
+    }, {
+        "code": "IS",
+        "cca3": "ISL",
+        "name": "Iceland",
+        "capital": "Reykjavik",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "isl": "Icelandic"
+        },
+        "currencies": {
+            "ISK": {
+                "name": "Icelandic kr\\\\u00f3na",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "64.99294495",
+            "longitude": "-18.57038755",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/is.svg",
+        "flag_4x3": "flags/4x3/is.svg"
+    }, {
+        "code": "IE",
+        "cca3": "IRL",
+        "name": "Ireland",
+        "capital": "Dublin",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "53.10101628",
+            "longitude": "-8.21092302",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ie.svg",
+        "flag_4x3": "flags/4x3/ie.svg"
+    }, {
+        "code": "IM",
+        "cca3": "IMN",
+        "name": "Isle of Man",
+        "capital": "Douglas",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "glv": "Manx"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\\\u00a3"
+            },
+            "IMP": {
+                "name": "Manx pound",
+                "symbol": "\\\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "54.23562697",
+            "longitude": "-4.54805400",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/im.svg",
+        "flag_4x3": "flags/4x3/im.svg"
+    }, {
+        "code": "IT",
+        "cca3": "ITA",
+        "name": "Italy",
+        "capital": "Rome",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "41.77810840",
+            "longitude": "12.67725128",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/it.svg",
+        "flag_4x3": "flags/4x3/it.svg"
+    }, {
+        "code": "JE",
+        "cca3": "JEY",
+        "name": "Jersey",
+        "capital": "Saint Helier",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nrf": "J\\\\u00e8rriais"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\\\u00a3"
+            },
+            "JEP": {
+                "name": "Jersey pound",
+                "symbol": "\\\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "49.21440771",
+            "longitude": "-2.13124600",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/je.svg",
+        "flag_4x3": "flags/4x3/je.svg"
+    }, {
+        "code": "LV",
+        "cca3": "LVA",
+        "name": "Latvia",
+        "capital": "Riga",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "lav": "Latvian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "56.86697515",
+            "longitude": "24.54826936",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lv.svg",
+        "flag_4x3": "flags/4x3/lv.svg"
+    }, {
+        "code": "LI",
+        "cca3": "LIE",
+        "name": "Liechtenstein",
+        "capital": "Vaduz",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German"
+        },
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr"
+            }
+        },
+        "center": {
+            "latitude": "47.16587383",
+            "longitude": "9.55537700",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/li.svg",
+        "flag_4x3": "flags/4x3/li.svg"
+    }, {
+        "code": "LT",
+        "cca3": "LTU",
+        "name": "Lithuania",
+        "capital": "Vilnius",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "lit": "Lithuanian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "55.25095948",
+            "longitude": "23.80987587",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lt.svg",
+        "flag_4x3": "flags/4x3/lt.svg"
+    }, {
+        "code": "LU",
+        "cca3": "LUX",
+        "name": "Luxembourg",
+        "capital": "Luxembourg City",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German",
+            "fra": "French",
+            "ltz": "Luxembourgish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "49.81327712",
+            "longitude": "6.12958700",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lu.svg",
+        "flag_4x3": "flags/4x3/lu.svg"
+    }, {
+        "code": "MT",
+        "cca3": "MLT",
+        "name": "Malta",
+        "capital": "Valletta",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "eng": "English",
+            "mlt": "Maltese"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "35.89706403",
+            "longitude": "14.43687877",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mt.svg",
+        "flag_4x3": "flags/4x3/mt.svg"
+    }, {
+        "code": "MD",
+        "cca3": "MDA",
+        "name": "Moldova",
+        "capital": "Chi\\\\u0219in\\\\u0103u",
+        "continent": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "ron": "Moldavian"
+        },
+        "currencies": {
+            "MDL": {
+                "name": "Moldovan leu",
+                "symbol": "L"
+            }
+        },
+        "center": {
+            "latitude": "47.10710437",
+            "longitude": "28.54018109",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/md.svg",
+        "flag_4x3": "flags/4x3/md.svg"
+    }, {
+        "code": "MC",
+        "cca3": "MCO",
+        "name": "Monaco",
+        "capital": "Monaco",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "43.70463620",
+            "longitude": "6.75444978",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mc.svg",
+        "flag_4x3": "flags/4x3/mc.svg"
+    }, {
+        "code": "ME",
+        "cca3": "MNE",
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "cnr": "Montenegrin"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "42.71699590",
+            "longitude": "19.09699321",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/me.svg",
+        "flag_4x3": "flags/4x3/me.svg"
+    }, {
+        "code": "NL",
+        "cca3": "NLD",
+        "name": "Netherlands",
+        "capital": "Amsterdam",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "nld": "Dutch"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "52.33939951",
+            "longitude": "4.98914998",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/nl.svg",
+        "flag_4x3": "flags/4x3/nl.svg"
+    }, {
+        "code": "MK",
+        "cca3": "MKD",
+        "name": "North Macedonia",
+        "capital": "Skopje",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "mkd": "Macedonian"
+        },
+        "currencies": {
+            "MKD": {
+                "name": "denar",
+                "symbol": "den"
+            }
+        },
+        "center": {
+            "latitude": "41.60059479",
+            "longitude": "21.74527900",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mk.svg",
+        "flag_4x3": "flags/4x3/mk.svg"
+    }, {
+        "code": "NO",
+        "cca3": "NOR",
+        "name": "Norway",
+        "capital": "Oslo",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "nno": "Norwegian Nynorsk",
+            "nob": "Norwegian Bokm\\\\u00e5l",
+            "smi": "Sami"
+        },
+        "currencies": {
+            "NOK": {
+                "name": "Norwegian krone",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "65.04680297",
+            "longitude": "13.50069228",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/no.svg",
+        "flag_4x3": "flags/4x3/no.svg"
+    }, {
+        "code": "PL",
+        "cca3": "POL",
+        "name": "Poland",
+        "capital": "Warsaw",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "pol": "Polish"
+        },
+        "currencies": {
+            "PLN": {
+                "name": "Polish z\\\\u0142oty",
+                "symbol": "z\\\\u0142"
+            }
+        },
+        "center": {
+            "latitude": "52.10117636",
+            "longitude": "19.33190957",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pl.svg",
+        "flag_4x3": "flags/4x3/pl.svg"
+    }, {
+        "code": "PT",
+        "cca3": "PRT",
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "39.44879136",
+            "longitude": "-8.03768042",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pt.svg",
+        "flag_4x3": "flags/4x3/pt.svg"
+    }, {
+        "code": "RO",
+        "cca3": "ROU",
+        "name": "Romania",
+        "capital": "Bucharest",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "ron": "Romanian"
+        },
+        "currencies": {
+            "RON": {
+                "name": "Romanian leu",
+                "symbol": "lei"
+            }
+        },
+        "center": {
+            "latitude": "45.56450023",
+            "longitude": "25.21945155",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ro.svg",
+        "flag_4x3": "flags/4x3/ro.svg"
+    }, {
+        "code": "RU",
+        "cca3": "RUS",
+        "name": "Russia",
+        "capital": "Moscow",
+        "continent": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "rus": "Russian"
+        },
+        "currencies": {
+            "RUB": {
+                "name": "Russian ruble",
+                "symbol": "\\\\u20bd"
+            }
+        },
+        "center": {
+            "latitude": "57.96812298",
+            "longitude": "102.41837137",
+            "zoom": "3"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ru.svg",
+        "flag_4x3": "flags/4x3/ru.svg"
+    }, {
+        "code": "SM",
+        "cca3": "SMR",
+        "name": "San Marino",
+        "capital": "San Marino",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "43.94223356",
+            "longitude": "12.45777700",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sm.svg",
+        "flag_4x3": "flags/4x3/sm.svg"
+    }, {
+        "code": "RS",
+        "cca3": "SRB",
+        "name": "Serbia",
+        "capital": "Belgrade",
+        "continent": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "srp": "Serbian"
+        },
+        "currencies": {
+            "RSD": {
+                "name": "Serbian dinar",
+                "symbol": "\\\\u0434\\\\u0438\\\\u043d."
+            }
+        },
+        "center": {
+            "latitude": "44.06736041",
+            "longitude": "20.29725084",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/rs.svg",
+        "flag_4x3": "flags/4x3/rs.svg"
+    }, {
+        "code": "SK",
+        "cca3": "SVK",
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "slk": "Slovak"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "48.66923253",
+            "longitude": "19.75396564",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sk.svg",
+        "flag_4x3": "flags/4x3/sk.svg"
+    }, {
+        "code": "SI",
+        "cca3": "SVN",
+        "name": "Slovenia",
+        "capital": "Ljubljana",
+        "continent": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "slv": "Slovene"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "46.14315048",
+            "longitude": "14.99546300",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/si.svg",
+        "flag_4x3": "flags/4x3/si.svg"
+    }, {
+        "code": "ES",
+        "cca3": "ESP",
+        "name": "Spain",
+        "capital": "Madrid",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\\\\u20ac"
+            }
+        },
+        "center": {
+            "latitude": "39.87299401",
+            "longitude": "-3.67089492",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/es.svg",
+        "flag_4x3": "flags/4x3/es.svg"
+    }, {
+        "code": "SJ",
+        "cca3": "SJM",
+        "name": "Svalbard and Jan Mayen",
+        "capital": "Longyearbyen",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "nor": "Norwegian"
+        },
+        "currencies": {
+            "NOK": {
+                "name": "krone",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "77.92215764",
+            "longitude": "18.99010622",
+            "zoom": "4"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/sj.svg",
+        "flag_4x3": "flags/4x3/sj.svg"
+    }, {
+        "code": "SE",
+        "cca3": "SWE",
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "swe": "Swedish"
+        },
+        "currencies": {
+            "SEK": {
+                "name": "Swedish krona",
+                "symbol": "kr"
+            }
+        },
+        "center": {
+            "latitude": "61.42370427",
+            "longitude": "16.73188991",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/se.svg",
+        "flag_4x3": "flags/4x3/se.svg"
+    }, {
+        "code": "CH",
+        "cca3": "CHE",
+        "name": "Switzerland",
+        "capital": "Bern",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French",
+            "gsw": "Swiss German",
+            "ita": "Italian",
+            "roh": "Romansh"
+        },
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr."
+            }
+        },
+        "center": {
+            "latitude": "46.81010721",
+            "longitude": "8.22751200",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ch.svg",
+        "flag_4x3": "flags/4x3/ch.svg"
+    }, {
+        "code": "UA",
+        "cca3": "UKR",
+        "name": "Ukraine",
+        "capital": "Kiev",
+        "continent": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "ukr": "Ukrainian"
+        },
+        "currencies": {
+            "UAH": {
+                "name": "Ukrainian hryvnia",
+                "symbol": "\\\\u20b4"
+            }
+        },
+        "center": {
+            "latitude": "48.89358596",
+            "longitude": "31.10516920",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ua.svg",
+        "flag_4x3": "flags/4x3/ua.svg"
+    }, {
+        "code": "GB",
+        "cca3": "GBR",
+        "name": "United Kingdom",
+        "capital": "London",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "53.36540813",
+            "longitude": "-2.72184767",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gb.svg",
+        "flag_4x3": "flags/4x3/gb.svg"
+    }
+]

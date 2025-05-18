@@ -1,11 +1,11 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
+	import { getAllContexts, onMount } from 'svelte';
 	import { GameRunner } from './game.svelte';
 
 	let game: any = {};
 
 	onMount(() => {
-		game = new GameRunner();
+		let game;
 	});
 </script>
 
@@ -19,17 +19,21 @@
 <link href="https://fonts.googleapis.com/css2?family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 
-<div class="main">
+<!-- MAIN MENU: -->
+{#if !game.gameRunning && !game.gameOver}
+<div class="main-menu">
+	<h1 class="main-font">Untitled Flag Game</h1>
+	<button onclick={() => game = new GameRunner("world")} class="answer-button main-font">WHOLE WORLD</button>
+	<button onclick={() => game = new GameRunner("asia")} class="answer-button main-font">ASIA</button>
+	<button onclick={() => game = new GameRunner("europe")} class="answer-button main-font">EUROPE</button>
+</div>
+{/if}
 
-	<div class="quiz">
-		{#if !game.gameRunning && !game.gameOver}
-		<p class="main-font">blah blah blah</p>
-		<button onclick={() => game.newGame()} class="answer-button main-font">START GAME</button>
-		{/if}
-		
-		
-		{#if game.gameRunning}
-		
+{#if game.gameRunning}
+<div class="game-background" style="background-image: url({game.round.currentFlagPath})">
+
+	<div class="game">
+
 		<!-- score display -->
 		<div class="score-wrapper">
 			<p class="main-font">{game.progress} / {game.totalCountries}</p>
@@ -81,20 +85,34 @@
 			<button onclick={() => game.checkAnswer(game.round.options[1].name)} class="answer-button main-font">{game.round.options[1].name}</button>
 			<button onclick={() => game.checkAnswer(game.round.options[2].name)} class="answer-button main-font">{game.round.options[2].name}</button>
 		</div>
-		
-		{:else if game.gameOver}
-		<div class="game-over">
-			<h1 class="main-font">GAME OVER!</h1>
-			<p class="main-font">You scored {game.score} / {game.totalCountries}</p>
-			<button onclick={() => game = new GameRunner()} class="answer-button main-font">Play again</button>
-		</div>
-		{/if}
+			
 	</div>
 
 </div>
+{/if}
+
+{#if game.gameOver}
+<div class="game-over">
+	<h1 class="main-font">GAME OVER!</h1>
+	<p class="main-font">You scored {game.score} / {game.totalCountries}</p>
+	<button onclick={() => game = new GameRunner()} class="answer-button main-font">Play again</button>
+</div>
+{/if}
 
 <style>
-	.main {
+
+	.main-menu {
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+		gap: 2rem;
+	}
+
+	.main-menu button {
+		min-width: 50vw;
+	}
+
+	.game-background {
 		position: fixed;
 		height: 100vh;
 		width: 100vw;
@@ -102,7 +120,7 @@
 		top: 0;
 	}
 
-	.quiz {
+	.game {
 		background-color: rgba(255, 255, 255, 0.142);
 		backdrop-filter: blur(10px);
 		border: 2px solid white;
@@ -129,10 +147,9 @@
 	.flag-svg {
         width: max(70vw);
 		height: max(25vh);
-		object-fit: cover;
 		box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
-		
-		
+		object-fit: cover;
+		overflow: hidden;
 
 	}
 
@@ -189,4 +206,11 @@
   		font-weight: 400;
   		font-style: normal;
 	}
+
+	.game-over {
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+	}
+
 </style>

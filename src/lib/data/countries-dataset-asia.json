@@ -1,0 +1,1372 @@
+[
+    {
+        "code": "AF",
+        "cca3": "AFG",
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "prs": "Dari",
+            "pus": "Pashto",
+            "tuk": "Turkmen"
+        },
+        "currencies": {
+            "AFN": {
+                "name": "Afghan afghani",
+                "symbol": "\\\\u060b"
+            }
+        },
+        "center": {
+            "latitude": "33.98299275",
+            "longitude": "66.39159363",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/af.svg",
+        "flag_4x3": "flags/4x3/af.svg"
+    }, {
+        "code": "AM",
+        "cca3": "ARM",
+        "name": "Armenia",
+        "capital": "Yerevan",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "hye": "Armenian"
+        },
+        "currencies": {
+            "AMD": {
+                "name": "Armenian dram",
+                "symbol": "\\\\u058f"
+            }
+        },
+        "center": {
+            "latitude": "40.13475528",
+            "longitude": "45.01072318",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/am.svg",
+        "flag_4x3": "flags/4x3/am.svg"
+    }, {
+        "code": "AZ",
+        "cca3": "AZE",
+        "name": "Azerbaijan",
+        "capital": "Baku",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "aze": "Azerbaijani",
+            "rus": "Russian"
+        },
+        "currencies": {
+            "AZN": {
+                "name": "Azerbaijani manat",
+                "symbol": "\\\\u20bc"
+            }
+        },
+        "center": {
+            "latitude": "40.35321757",
+            "longitude": "47.46706372",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/az.svg",
+        "flag_4x3": "flags/4x3/az.svg"
+    }, {
+        "code": "BH",
+        "cca3": "BHR",
+        "name": "Bahrain",
+        "capital": "Manama",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "BHD": {
+                "name": "Bahraini dinar",
+                "symbol": ".\\\\u062f.\\\\u0628"
+            }
+        },
+        "center": {
+            "latitude": "25.90740996",
+            "longitude": "50.65932354",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bh.svg",
+        "flag_4x3": "flags/4x3/bh.svg"
+    }, {
+        "code": "BD",
+        "cca3": "BGD",
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "ben": "Bengali"
+        },
+        "currencies": {
+            "BDT": {
+                "name": "Bangladeshi taka",
+                "symbol": "\\\\u09f3"
+            }
+        },
+        "center": {
+            "latitude": "24.08273251",
+            "longitude": "90.49915527",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bd.svg",
+        "flag_4x3": "flags/4x3/bd.svg"
+    }, {
+        "code": "BT",
+        "cca3": "BTN",
+        "name": "Bhutan",
+        "capital": "Thimphu",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "dzo": "Dzongkha"
+        },
+        "currencies": {
+            "BTN": {
+                "name": "Bhutanese ngultrum",
+                "symbol": "Nu."
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\\\\u20b9"
+            }
+        },
+        "center": {
+            "latitude": "27.50752756",
+            "longitude": "90.43360300",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bt.svg",
+        "flag_4x3": "flags/4x3/bt.svg"
+    }, {
+        "code": "IO",
+        "cca3": "IOT",
+        "name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "continent": "Asia",
+        "subregion": "Eastern Africa",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-7.33461519",
+            "longitude": "72.42425280",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/io.svg",
+        "flag_4x3": "flags/4x3/io.svg"
+    }, {
+        "code": "BN",
+        "cca3": "BRN",
+        "name": "Brunei Darussalam",
+        "capital": "Bandar Seri Begawan",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "msa": "Malay"
+        },
+        "currencies": {
+            "BND": {
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "4.54189364",
+            "longitude": "114.60132823",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bn.svg",
+        "flag_4x3": "flags/4x3/bn.svg"
+    }, {
+        "code": "KH",
+        "cca3": "KHM",
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "khm": "Khmer"
+        },
+        "currencies": {
+            "KHR": {
+                "name": "Cambodian riel",
+                "symbol": "\\\\u17db"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "12.83288883",
+            "longitude": "104.84814273",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kh.svg",
+        "flag_4x3": "flags/4x3/kh.svg"
+    }, {
+        "code": "CN",
+        "cca3": "CHN",
+        "name": "China",
+        "capital": "Beijing",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "\\\\u00a5"
+            }
+        },
+        "center": {
+            "latitude": "36.71457440",
+            "longitude": "103.55819197",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cn.svg",
+        "flag_4x3": "flags/4x3/cn.svg"
+    }, {
+        "code": "CX",
+        "cca3": "CXR",
+        "name": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "continent": "Asia",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-10.49170619",
+            "longitude": "105.68083796",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/cx.svg",
+        "flag_4x3": "flags/4x3/cx.svg"
+    }, {
+        "code": "CC",
+        "cca3": "CCK",
+        "name": "Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "continent": "Asia",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-12.12890685",
+            "longitude": "96.84689104",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/cc.svg",
+        "flag_4x3": "flags/4x3/cc.svg"
+    }, {
+        "code": "GE",
+        "cca3": "GEO",
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "kat": "Georgian"
+        },
+        "currencies": {
+            "GEL": {
+                "name": "lari",
+                "symbol": "\\\\u20be"
+            }
+        },
+        "center": {
+            "latitude": "41.82754301",
+            "longitude": "44.17329916",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ge.svg",
+        "flag_4x3": "flags/4x3/ge.svg"
+    }, {
+        "code": "HK",
+        "cca3": "HKG",
+        "name": "Hong Kong",
+        "capital": "Hong Kong",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "HKD": {
+                "name": "Hong Kong dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "22.33728531",
+            "longitude": "114.14657786",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/hk.svg",
+        "flag_4x3": "flags/4x3/hk.svg"
+    }, {
+        "code": "IN",
+        "cca3": "IND",
+        "name": "India",
+        "capital": "New Delhi",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "eng": "English",
+            "hin": "Hindi",
+            "tam": "Tamil"
+        },
+        "currencies": {
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\\\\u20b9"
+            }
+        },
+        "center": {
+            "latitude": "20.46549519",
+            "longitude": "78.50146222",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/in.svg",
+        "flag_4x3": "flags/4x3/in.svg"
+    }, {
+        "code": "ID",
+        "cca3": "IDN",
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "ind": "Indonesian"
+        },
+        "currencies": {
+            "IDR": {
+                "name": "Indonesian rupiah",
+                "symbol": "Rp"
+            }
+        },
+        "center": {
+            "latitude": "-2.46229680",
+            "longitude": "121.18329789",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/id.svg",
+        "flag_4x3": "flags/4x3/id.svg"
+    }, {
+        "code": "IR",
+        "cca3": "IRN",
+        "name": "Iran",
+        "capital": "Tehran",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "fas": "Persian (Farsi)"
+        },
+        "currencies": {
+            "IRR": {
+                "name": "Iranian rial",
+                "symbol": "\\\\ufdfc"
+            }
+        },
+        "center": {
+            "latitude": "31.40240324",
+            "longitude": "51.28204814",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ir.svg",
+        "flag_4x3": "flags/4x3/ir.svg"
+    }, {
+        "code": "IQ",
+        "cca3": "IRQ",
+        "name": "Iraq",
+        "capital": "Baghdad",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "arc": "Aramaic",
+            "ckb": "Sorani"
+        },
+        "currencies": {
+            "IQD": {
+                "name": "Iraqi dinar",
+                "symbol": "\\\\u0639.\\\\u062f"
+            }
+        },
+        "center": {
+            "latitude": "32.90170182",
+            "longitude": "43.19590056",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/iq.svg",
+        "flag_4x3": "flags/4x3/iq.svg"
+    }, {
+        "code": "IL",
+        "cca3": "ISR",
+        "name": "Israel",
+        "capital": "Jerusalem",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "heb": "Hebrew"
+        },
+        "currencies": {
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\\\\u20aa"
+            }
+        },
+        "center": {
+            "latitude": "30.85883075",
+            "longitude": "34.91753797",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/il.svg",
+        "flag_4x3": "flags/4x3/il.svg"
+    }, {
+        "code": "JP",
+        "cca3": "JPN",
+        "name": "Japan",
+        "capital": "Tokyo",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "jpn": "Japanese"
+        },
+        "currencies": {
+            "JPY": {
+                "name": "Japanese yen",
+                "symbol": "\\\\u00a5"
+            }
+        },
+        "center": {
+            "latitude": "37.51848822",
+            "longitude": "137.67066061",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/jp.svg",
+        "flag_4x3": "flags/4x3/jp.svg"
+    }, {
+        "code": "JO",
+        "cca3": "JOR",
+        "name": "Jordan",
+        "capital": "Amman",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "\\\\u062f.\\\\u0627"
+            }
+        },
+        "center": {
+            "latitude": "31.31616588",
+            "longitude": "36.37575510",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/jo.svg",
+        "flag_4x3": "flags/4x3/jo.svg"
+    }, {
+        "code": "KZ",
+        "cca3": "KAZ",
+        "name": "Kazakhstan",
+        "capital": "Astana",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "kaz": "Kazakh",
+            "rus": "Russian"
+        },
+        "currencies": {
+            "KZT": {
+                "name": "Kazakhstani tenge",
+                "symbol": "\\\\u20b8"
+            }
+        },
+        "center": {
+            "latitude": "45.38592596",
+            "longitude": "68.81334444",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kz.svg",
+        "flag_4x3": "flags/4x3/kz.svg"
+    }, {
+        "code": "KW",
+        "cca3": "KWT",
+        "name": "Kuwait",
+        "capital": "Kuwait City",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "KWD": {
+                "name": "Kuwaiti dinar",
+                "symbol": "\\\\u062f.\\\\u0643"
+            }
+        },
+        "center": {
+            "latitude": "29.43253341",
+            "longitude": "47.71798405",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kw.svg",
+        "flag_4x3": "flags/4x3/kw.svg"
+    }, {
+        "code": "KG",
+        "cca3": "KGZ",
+        "name": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "kir": "Kyrgyz",
+            "rus": "Russian"
+        },
+        "currencies": {
+            "KGS": {
+                "name": "Kyrgyzstani som",
+                "symbol": "\\\\u0441"
+            }
+        },
+        "center": {
+            "latitude": "41.11509878",
+            "longitude": "74.25524574",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kg.svg",
+        "flag_4x3": "flags/4x3/kg.svg"
+    }, {
+        "code": "LA",
+        "cca3": "LAO",
+        "name": "Laos",
+        "capital": "Vientiane",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "lao": "Lao"
+        },
+        "currencies": {
+            "LAK": {
+                "name": "Lao kip",
+                "symbol": "\\\\u20ad"
+            }
+        },
+        "center": {
+            "latitude": "17.76075593",
+            "longitude": "103.61611347",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/la.svg",
+        "flag_4x3": "flags/4x3/la.svg"
+    }, {
+        "code": "LB",
+        "cca3": "LBN",
+        "name": "Lebanon",
+        "capital": "Beirut",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic",
+            "fra": "French"
+        },
+        "currencies": {
+            "LBP": {
+                "name": "Lebanese pound",
+                "symbol": "\\\\u0644.\\\\u0644"
+            }
+        },
+        "center": {
+            "latitude": "34.08249284",
+            "longitude": "35.66454309",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lb.svg",
+        "flag_4x3": "flags/4x3/lb.svg"
+    }, {
+        "code": "MO",
+        "cca3": "MAC",
+        "name": "Macau",
+        "capital": "Macau",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "por": "Portuguese",
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "MOP": {
+                "name": "Macanese pataca",
+                "symbol": "P"
+            }
+        },
+        "center": {
+            "latitude": "22.19872287",
+            "longitude": "113.54387700",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/mo.svg",
+        "flag_4x3": "flags/4x3/mo.svg"
+    }, {
+        "code": "MY",
+        "cca3": "MYS",
+        "name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "msa": "Malay"
+        },
+        "currencies": {
+            "MYR": {
+                "name": "Malaysian ringgit",
+                "symbol": "RM"
+            }
+        },
+        "center": {
+            "latitude": "4.97345793",
+            "longitude": "106.54609050",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/my.svg",
+        "flag_4x3": "flags/4x3/my.svg"
+    }, {
+        "code": "MV",
+        "cca3": "MDV",
+        "name": "Maldives",
+        "capital": "Mal\\\\u00e9",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "div": "Maldivian"
+        },
+        "currencies": {
+            "MVR": {
+                "name": "Maldivian rufiyaa",
+                "symbol": ".\\\\u0783"
+            }
+        },
+        "center": {
+            "latitude": "-0.64224221",
+            "longitude": "73.13373313",
+            "zoom": "12"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mv.svg",
+        "flag_4x3": "flags/4x3/mv.svg"
+    }, {
+        "code": "MN",
+        "cca3": "MNG",
+        "name": "Mongolia",
+        "capital": "Ulaanbaatar",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "mon": "Mongolian"
+        },
+        "currencies": {
+            "MNT": {
+                "name": "Mongolian t\\\\u00f6gr\\\\u00f6g",
+                "symbol": "\\\\u20ae"
+            }
+        },
+        "center": {
+            "latitude": "46.80556270",
+            "longitude": "104.30808978",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mn.svg",
+        "flag_4x3": "flags/4x3/mn.svg"
+    }, {
+        "code": "MM",
+        "cca3": "MMR",
+        "name": "Myanmar",
+        "capital": "Naypyidaw",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "mya": "Burmese"
+        },
+        "currencies": {
+            "MMK": {
+                "name": "Burmese kyat",
+                "symbol": "Ks"
+            }
+        },
+        "center": {
+            "latitude": "19.20985380",
+            "longitude": "96.54949272",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mm.svg",
+        "flag_4x3": "flags/4x3/mm.svg"
+    }, {
+        "code": "NP",
+        "cca3": "NPL",
+        "name": "Nepal",
+        "capital": "Kathmandu",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "nep": "Nepali"
+        },
+        "currencies": {
+            "NPR": {
+                "name": "Nepalese rupee",
+                "symbol": "\\\\u20a8"
+            }
+        },
+        "center": {
+            "latitude": "28.28430770",
+            "longitude": "83.98119373",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/np.svg",
+        "flag_4x3": "flags/4x3/np.svg"
+    }, {
+        "code": "KP",
+        "cca3": "PRK",
+        "name": "North Korea",
+        "capital": "Pyongyang",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "kor": "Korean"
+        },
+        "currencies": {
+            "KPW": {
+                "name": "North Korean won",
+                "symbol": "\\\\u20a9"
+            }
+        },
+        "center": {
+            "latitude": "40.00785500",
+            "longitude": "127.48812834",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kp.svg",
+        "flag_4x3": "flags/4x3/kp.svg"
+    }, {
+        "code": "OM",
+        "cca3": "OMN",
+        "name": "Oman",
+        "capital": "Muscat",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "OMR": {
+                "name": "Omani rial",
+                "symbol": "\\\\u0631.\\\\u0639."
+            }
+        },
+        "center": {
+            "latitude": "20.69906846",
+            "longitude": "56.69230596",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/om.svg",
+        "flag_4x3": "flags/4x3/om.svg"
+    }, {
+        "code": "PK",
+        "cca3": "PAK",
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "eng": "English",
+            "urd": "Urdu"
+        },
+        "currencies": {
+            "PKR": {
+                "name": "Pakistani rupee",
+                "symbol": "\\\\u20a8"
+            }
+        },
+        "center": {
+            "latitude": "29.90335974",
+            "longitude": "70.34487986",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pk.svg",
+        "flag_4x3": "flags/4x3/pk.svg"
+    }, {
+        "code": "PH",
+        "cca3": "PHL",
+        "name": "Philippines",
+        "capital": "Manila",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "fil": "Filipino"
+        },
+        "currencies": {
+            "PHP": {
+                "name": "Philippine peso",
+                "symbol": "\\\\u20b1"
+            }
+        },
+        "center": {
+            "latitude": "12.82361200",
+            "longitude": "121.77401700",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ph.svg",
+        "flag_4x3": "flags/4x3/ph.svg"
+    }, {
+        "code": "QA",
+        "cca3": "QAT",
+        "name": "Qatar",
+        "capital": "Doha",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "QAR": {
+                "name": "Qatari riyal",
+                "symbol": "\\\\u0631.\\\\u0642"
+            }
+        },
+        "center": {
+            "latitude": "25.24551555",
+            "longitude": "51.24431480",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/qa.svg",
+        "flag_4x3": "flags/4x3/qa.svg"
+    }, {
+        "code": "SA",
+        "cca3": "SAU",
+        "name": "Saudi Arabia",
+        "capital": "Riyadh",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "SAR": {
+                "name": "Saudi riyal",
+                "symbol": "\\\\u0631.\\\\u0633"
+            }
+        },
+        "center": {
+            "latitude": "24.16687314",
+            "longitude": "42.88190638",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sa.svg",
+        "flag_4x3": "flags/4x3/sa.svg"
+    }, {
+        "code": "SG",
+        "cca3": "SGP",
+        "name": "Singapore",
+        "capital": "Singapore",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "eng": "English",
+            "msa": "Malay",
+            "tam": "Tamil",
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "1.33873261",
+            "longitude": "103.83323559",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sg.svg",
+        "flag_4x3": "flags/4x3/sg.svg"
+    }, {
+        "code": "KR",
+        "cca3": "KOR",
+        "name": "South Korea",
+        "capital": "Seoul",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "kor": "Korean"
+        },
+        "currencies": {
+            "KRW": {
+                "name": "South Korean won",
+                "symbol": "\\\\u20a9"
+            }
+        },
+        "center": {
+            "latitude": "36.56344139",
+            "longitude": "127.51424646",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kr.svg",
+        "flag_4x3": "flags/4x3/kr.svg"
+    }, {
+        "code": "LK",
+        "cca3": "LKA",
+        "name": "Sri Lanka",
+        "capital": "Sri Jayawardenepura Kotte, Colombo",
+        "continent": "Asia",
+        "subregion": "Southern Asia",
+        "languages": {
+            "sin": "Sinhala",
+            "tam": "Tamil"
+        },
+        "currencies": {
+            "LKR": {
+                "name": "Sri Lankan rupee",
+                "symbol": "Rs  \\\\u0dbb\\\\u0dd4"
+            }
+        },
+        "center": {
+            "latitude": "7.61264985",
+            "longitude": "80.83772497",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lk.svg",
+        "flag_4x3": "flags/4x3/lk.svg"
+    }, {
+        "code": "PS",
+        "cca3": "PSE",
+        "name": "State of Palestine",
+        "capital": "Ramallah",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "E\\\\u00a3"
+            },
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\\\\u20aa"
+            },
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "JD"
+            }
+        },
+        "center": {
+            "latitude": "32.26367103",
+            "longitude": "35.21936714",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ps.svg",
+        "flag_4x3": "flags/4x3/ps.svg"
+    }, {
+        "code": "SY",
+        "cca3": "SYR",
+        "name": "Syria",
+        "capital": "Damascus",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "SYP": {
+                "name": "Syrian pound",
+                "symbol": "\\\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "34.71097430",
+            "longitude": "38.66723516",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sy.svg",
+        "flag_4x3": "flags/4x3/sy.svg"
+    }, {
+        "code": "TW",
+        "cca3": "TWN",
+        "name": "Taiwan",
+        "capital": "Taipei",
+        "continent": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "currencies": {
+            "TWD": {
+                "name": "New Taiwan dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "23.71891402",
+            "longitude": "121.10884043",
+            "zoom": "7"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/tw.svg",
+        "flag_4x3": "flags/4x3/tw.svg"
+    }, {
+        "code": "TJ",
+        "cca3": "TJK",
+        "name": "Tajikistan",
+        "capital": "Dushanbe",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "tgk": "Tajik"
+        },
+        "currencies": {
+            "TJS": {
+                "name": "Tajikistani somoni",
+                "symbol": "\\\\u0405\\\\u041c"
+            }
+        },
+        "center": {
+            "latitude": "38.68075124",
+            "longitude": "71.23215769",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tj.svg",
+        "flag_4x3": "flags/4x3/tj.svg"
+    }, {
+        "code": "TH",
+        "cca3": "THA",
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "tha": "Thai"
+        },
+        "currencies": {
+            "THB": {
+                "name": "Thai baht",
+                "symbol": "\\\\u0e3f"
+            }
+        },
+        "center": {
+            "latitude": "14.60009810",
+            "longitude": "101.38805881",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/th.svg",
+        "flag_4x3": "flags/4x3/th.svg"
+    }, {
+        "code": "TL",
+        "cca3": "TLS",
+        "name": "Timor-Leste",
+        "capital": "Dili",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "por": "Portuguese",
+            "tet": "Tetum"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-8.88926365",
+            "longitude": "125.99671404",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tl.svg",
+        "flag_4x3": "flags/4x3/tl.svg"
+    }, {
+        "code": "TM",
+        "cca3": "TKM",
+        "name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "tuk": "Turkmen"
+        },
+        "currencies": {
+            "TMT": {
+                "name": "Turkmenistan manat",
+                "symbol": "m"
+            }
+        },
+        "center": {
+            "latitude": "38.94915421",
+            "longitude": "59.06190323",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tm.svg",
+        "flag_4x3": "flags/4x3/tm.svg"
+    }, {
+        "code": "TR",
+        "cca3": "TUR",
+        "name": "T\\\\u00fcrkiye",
+        "capital": "Ankara",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "tur": "Turkish"
+        },
+        "currencies": {
+            "TRY": {
+                "name": "Turkish lira",
+                "symbol": "\\\\u20ba"
+            }
+        },
+        "center": {
+            "latitude": "38.27069555",
+            "longitude": "36.28703317",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tr.svg",
+        "flag_4x3": "flags/4x3/tr.svg"
+    }, {
+        "code": "AE",
+        "cca3": "ARE",
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "AED": {
+                "name": "United Arab Emirates dirham",
+                "symbol": "\\\\u062f.\\\\u0625"
+            }
+        },
+        "center": {
+            "latitude": "24.64324405",
+            "longitude": "53.62261227",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ae.svg",
+        "flag_4x3": "flags/4x3/ae.svg"
+    }, {
+        "code": "UZ",
+        "cca3": "UZB",
+        "name": "Uzbekistan",
+        "capital": "Tashkent",
+        "continent": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "uzb": "Uzbek"
+        },
+        "currencies": {
+            "UZS": {
+                "name": "Uzbekistani so\\\\u02bbm",
+                "symbol": "so'm"
+            }
+        },
+        "center": {
+            "latitude": "41.30829147",
+            "longitude": "62.62970960",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/uz.svg",
+        "flag_4x3": "flags/4x3/uz.svg"
+    }, {
+        "code": "VN",
+        "cca3": "VNM",
+        "name": "Vietnam",
+        "capital": "Hanoi",
+        "continent": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "vie": "Vietnamese"
+        },
+        "currencies": {
+            "VND": {
+                "name": "Vietnamese \\\\u0111\\\\u1ed3ng",
+                "symbol": "\\\\u20ab"
+            }
+        },
+        "center": {
+            "latitude": "17.19931699",
+            "longitude": "107.14012804",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/vn.svg",
+        "flag_4x3": "flags/4x3/vn.svg"
+    }, {
+        "code": "YE",
+        "cca3": "YEM",
+        "name": "Yemen",
+        "capital": "Sana'a",
+        "continent": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "ara": "Arabic"
+        },
+        "currencies": {
+            "YER": {
+                "name": "Yemeni rial",
+                "symbol": "\\\\ufdfc"
+            }
+        },
+        "center": {
+            "latitude": "15.60865453",
+            "longitude": "47.60453676",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ye.svg",
+        "flag_4x3": "flags/4x3/ye.svg"
+    }
+]

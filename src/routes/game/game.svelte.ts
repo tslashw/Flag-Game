@@ -1,4 +1,6 @@
 import countries from "$lib/data/countries-dataset.json"
+import countries_asia from "$lib/data/countries-dataset-asia.json"
+import countries_europe from "$lib/data/countries-dataset-europe.json"
 
 
 export class GameRunner {
@@ -6,7 +8,7 @@ export class GameRunner {
     gameRunning:boolean = $state(false);
     gameOver:boolean = $state(false);
     
-    countries = countries;
+    countries = "";
     questionQueue = countries;
 
     totalCountries:number = countries.length;
@@ -29,7 +31,22 @@ export class GameRunner {
     roundTimer = 0;
     */
 
-    constructor() {
+    constructor(dataset:string="world") {
+        if (dataset == "world") {
+            this.countries = countries;
+
+        }
+        else if (dataset == "asia") {
+            this.countries = countries_asia;
+        }
+        else if (dataset == "europe") {
+            this.countries = countries_europe;
+        }
+
+        this.totalCountries = this.countries.length;
+        this.questionQueue = this.countries;
+
+        this.newGame();
 
     };
 
@@ -81,12 +98,12 @@ export class GameRunner {
     newRound = () => {
 
         if (this.lives <= 0) {
-            // alert("GAME OVER!");
             // clearInterval(this.roundTimer);
+
             this.gameRunning = false;
             this.gameOver = true;
-            this.runGameOver();
             return;
+
         }
         else {
 
@@ -102,14 +119,7 @@ export class GameRunner {
             this.round.currentFlagPath = this.questionQueue[0]["flag_4x3"];
             this.round.answer = this.questionQueue[0].name;
             this.round.options = this.shuffleArray([this.questionQueue[0], this.questionQueue[1], this.questionQueue[2]]);
-            
-            // Change main background to current flag:
-            requestAnimationFrame(() => {
-                let mainApp = document.getElementsByClassName("main")[0];
-                mainApp.style.backgroundImage = `url('${this.round.currentFlagPath}')`;
-                mainApp.style.backgroundPosition = "center";
-                mainApp.style.backgroundRepeat = "repeat";
-            });
+
         
         }
 
@@ -132,15 +142,6 @@ export class GameRunner {
 
         this.progress ++;
         this.newRound();
-    };
-
-    runGameOver = () => {
-
-        // Change main background:
-        let mainApp = document.getElementsByClassName("main")[0];
-        mainApp.style.backgroundColor = "white";
-
-
     };
 
 
