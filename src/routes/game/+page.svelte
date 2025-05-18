@@ -1,12 +1,28 @@
 <script lang="ts">
 	import { getAllContexts, onMount } from 'svelte';
 	import { GameRunner } from './game.svelte';
+    import ResponseModal from './ResponseModal.svelte';
 
-	let game: any = {};
+	let game: any = $state({});
+
+	let showModal = $state(false);
+	let modalColor = $state("");
+	let correct = $state(false);
 
 	onMount(() => {
 		let game;
 	});
+
+	let evaluateAnswer = (answer:string) => {
+		correct = game.checkAnswer(answer);
+		if (correct) {
+			modalColor = "green";
+		}
+		else {
+			modalColor = "red";
+		}
+		showModal = true;
+	}
 </script>
 
 <svelte:head>
@@ -84,9 +100,9 @@
 		<!-- Answers: -->
 		<div class="answer-menu">
 			<!-- <progress value={game.timeLeft} max={10}></progress> -->
-			<button onclick={() => game.checkAnswer(game.round.options[0].name)} class="answer-button main-font">{game.round.options[0].name}</button>
-			<button onclick={() => game.checkAnswer(game.round.options[1].name)} class="answer-button main-font">{game.round.options[1].name}</button>
-			<button onclick={() => game.checkAnswer(game.round.options[2].name)} class="answer-button main-font">{game.round.options[2].name}</button>
+			<button onclick={() => evaluateAnswer(game.round.options[0].name)} class="answer-button main-font">{game.round.options[0].name}</button>
+			<button onclick={() => evaluateAnswer(game.round.options[1].name)} class="answer-button main-font">{game.round.options[1].name}</button>
+			<button onclick={() => evaluateAnswer(game.round.options[2].name)} class="answer-button main-font">{game.round.options[2].name}</button>
 		</div>
 			
 	</div>
@@ -102,7 +118,30 @@
 </div>
 {/if}
 
+
+<!-- Response Modal: -->
+<ResponseModal bind:showModal bgColor={modalColor}>
+	{#snippet header()}
+		{#if correct}
+		<h2>
+			Correct!
+		</h2>
+		{:else if !correct}
+		<h2> Incorrect!</h2>
+		{/if}
+	{/snippet}
+	
+	{#snippet children()}
+	<h2>Fun Facts:</h2>
+	<p>Capital City:</p>
+	{/snippet}
+
+</ResponseModal>
+
 <style>
+	body {
+		background-color: white;
+	}
 
 	.main-menu {
 		display: flex;
