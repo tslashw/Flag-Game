@@ -134,20 +134,28 @@ export class GameRunner {
 
 
     checkAnswer = (submission:string) => {
+        
+        let correct = false;
+
         if (this.round.answer == submission) {
-            alert(`Correct!\nFun Facts:\nCapital City: ${this.questionQueue[0]["capital"]}`);
+            // alert(`Correct!\nFun Facts:\nCapital City: ${this.questionQueue[0]["capital"]}`);
+            correct = true;
             this.score ++;
         }
         else {
-            alert(`Wrong! the answer is ${this.round.answer}`);
+            // alert(`Wrong! the answer is ${this.round.answer}`);
             this.lives = this.lives - 1;
         }
 
         // pop answer flag:
         this.questionQueue.shift();
 
+        
         this.progress ++;
         this.newRound();
+        
+        return correct;
+
     };
 
 
