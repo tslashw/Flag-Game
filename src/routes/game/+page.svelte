@@ -134,8 +134,8 @@
 	}
 
 	.game {
-		backdrop-filter: blur(10px);
 		-webkit-backdrop-filter: blur(10px);
+		backdrop-filter: blur(10px);
 		border: 2px solid white;
 		border-radius: 2rem;
 		width: 95vw;
