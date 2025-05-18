@@ -121,8 +121,8 @@
 	}
 
 	.game {
-		background-color: rgba(255, 255, 255, 0.142);
 		backdrop-filter: blur(10px);
+		-webkit-backdrop-filter: blur(10px);
 		border: 2px solid white;
 		border-radius: 2rem;
 		width: 95vw;
