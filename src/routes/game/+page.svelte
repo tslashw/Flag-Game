@@ -33,7 +33,7 @@
 		<!-- score display -->
 		<div class="score-wrapper">
 			<p class="main-font">{game.progress} / {game.totalCountries}</p>
-			<progress value={game.progress} max={game.totalCountries}></progress>
+			<!-- <progress value={game.progress} max={game.totalCountries}></progress> -->
 			<p class="main-font">SCORE: {game.score}</p>
 		</div>
 		
@@ -105,7 +105,7 @@
 
 	.quiz {
 		background-color: #e5dcdc15;
-		backdrop-filter: blur(500px);
+		backdrop-filter: blur(100px);
 		border: 2px solid white;
 		border-radius: 2rem;
 		width: 95vw;
@@ -159,8 +159,8 @@
         /* size: 200%; */
 		width: 50%;
 		margin-left: 25%;
-		margin-bottom: 2rem;
-		margin-top: 2rem;
+		margin-bottom: 0.5rem;
+		margin-top: 0.5rem;
 		background-color: white;
 		border-radius: 1rem;
 		padding: 0.5rem 0 0.5rem 0;
