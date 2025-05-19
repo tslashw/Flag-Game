@@ -240,7 +240,7 @@
 	}
 
 	.answer-button {
-		padding: 1rem;
+		padding: 0.5rem;
 		font-size: 1rem;
 		cursor: pointer;
 		background-color: #ffffff;
@@ -275,8 +275,8 @@
     }
 
     .life {
-		width: max(8vw, 15vw);
-		height: max(8vh, 15vh);
+		width: 10vw;
+		height: 10vh;
 		object-fit: contain;
     }
 
