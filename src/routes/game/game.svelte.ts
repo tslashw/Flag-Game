@@ -73,7 +73,7 @@ export class GameRunner {
 
         // Launch game:
         this.totalCountries = this.countries.length;
-        this.questionQueue = this.countries;
+        this.questionQueue = [...this.countries];
 
         this.newGame();
 
@@ -119,11 +119,12 @@ export class GameRunner {
             // Bit of a hack to get end of game working:
             let options:Array<Object> = [];
             for (let i = 0; i < this.totalCountries; i++) {
+                let temp = this.shuffleArray([...this.countries]);
                 if (options.length === 2) {
                     break;
                 }
-                if (countries[i].name !== this.round.answer) {
-                    options.push(countries[i]);
+                if (temp[i].name !== this.round.answer && !options.includes(temp[i])) {
+                    options.push(temp[i]);
                 }
             };
 
