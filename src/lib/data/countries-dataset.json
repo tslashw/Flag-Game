@@ -14,7 +14,7 @@
         "currencies": {
             "AFN": {
                 "name": "Afghan afghani",
-                "symbol": "\\u060b"
+                "symbol": "؋"
             }
         },
         "center": {
@@ -40,7 +40,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -92,7 +92,7 @@
         "currencies": {
             "DZD": {
                 "name": "Algerian dinar",
-                "symbol": "\\u062f.\\u062c"
+                "symbol": "د.ج"
             }
         },
         "center": {
@@ -145,7 +145,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -263,7 +263,7 @@
         "continent": "South America",
         "subregion": "South America",
         "languages": {
-            "grn": "Guaran\\u00ed",
+            "grn": "Guaraní",
             "spa": "Spanish"
         },
         "currencies": {
@@ -295,7 +295,7 @@
         "currencies": {
             "AMD": {
                 "name": "Armenian dram",
-                "symbol": "\\u058f"
+                "symbol": "֏"
             }
         },
         "center": {
@@ -322,7 +322,7 @@
         "currencies": {
             "AWG": {
                 "name": "Aruban florin",
-                "symbol": "\\u0192"
+                "symbol": "ƒ"
             }
         },
         "center": {
@@ -374,7 +374,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -401,7 +401,7 @@
         "currencies": {
             "AZN": {
                 "name": "Azerbaijani manat",
-                "symbol": "\\u20bc"
+                "symbol": "₼"
             }
         },
         "center": {
@@ -457,7 +457,7 @@
         "currencies": {
             "BHD": {
                 "name": "Bahraini dinar",
-                "symbol": ".\\u062f.\\u0628"
+                "symbol": ".د.ب"
             }
         },
         "center": {
@@ -483,7 +483,7 @@
         "currencies": {
             "BDT": {
                 "name": "Bangladeshi taka",
-                "symbol": "\\u09f3"
+                "symbol": "৳"
             }
         },
         "center": {
@@ -564,7 +564,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -674,7 +674,7 @@
             },
             "INR": {
                 "name": "Indian rupee",
-                "symbol": "\\u20b9"
+                "symbol": "₹"
             }
         },
         "center": {
@@ -696,7 +696,7 @@
         "subregion": "South America",
         "languages": {
             "aym": "Aymara",
-            "grn": "Guaran\\u00ed",
+            "grn": "Guaraní",
             "que": "Quechua",
             "spa": "Spanish"
         },
@@ -803,7 +803,7 @@
         "code": "BR",
         "cca3": "BRA",
         "name": "Brazil",
-        "capital": "Bras\\u00edlia",
+        "capital": "Brasília",
         "continent": "South America",
         "subregion": "South America",
         "languages": {
@@ -894,7 +894,7 @@
         "currencies": {
             "BGN": {
                 "name": "Bulgarian lev",
-                "symbol": "\\u043b\\u0432"
+                "symbol": "лв"
             }
         },
         "center": {
@@ -999,7 +999,7 @@
         "currencies": {
             "KHR": {
                 "name": "Cambodian riel",
-                "symbol": "\\u17db"
+                "symbol": "៛"
             },
             "USD": {
                 "name": "United States dollar",
@@ -1020,7 +1020,7 @@
         "code": "CM",
         "cca3": "CMR",
         "name": "Cameroon",
-        "capital": "Yaound\\u00e9",
+        "capital": "Yaoundé",
         "continent": "Africa",
         "subregion": "Middle Africa",
         "languages": {
@@ -1189,7 +1189,7 @@
         "currencies": {
             "CNY": {
                 "name": "Chinese yuan",
-                "symbol": "\\u00a5"
+                "symbol": "¥"
             }
         },
         "center": {
@@ -1258,7 +1258,7 @@
         "code": "CO",
         "cca3": "COL",
         "name": "Colombia",
-        "capital": "Bogot\\u00e1",
+        "capital": "Bogotá",
         "continent": "South America",
         "subregion": "South America",
         "languages": {
@@ -1317,7 +1317,7 @@
         "subregion": "Polynesia",
         "languages": {
             "eng": "English",
-            "rar": "Cook Islands M\\u0101ori"
+            "rar": "Cook Islands Māori"
         },
         "currencies": {
             "CKD": {
@@ -1343,7 +1343,7 @@
         "code": "CR",
         "cca3": "CRI",
         "name": "Costa Rica",
-        "capital": "San Jos\\u00e9",
+        "capital": "San José",
         "continent": "North America",
         "subregion": "Central America",
         "languages": {
@@ -1351,8 +1351,8 @@
         },
         "currencies": {
             "CRC": {
-                "name": "Costa Rican col\\u00f3n",
-                "symbol": "\\u20a1"
+                "name": "Costa Rican colón",
+                "symbol": "₡"
             }
         },
         "center": {
@@ -1378,7 +1378,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -1424,7 +1424,7 @@
     {
         "code": "CW",
         "cca3": "CUW",
-        "name": "Cura\\u00e7ao",
+        "name": "Curaçao",
         "capital": "Willemstad",
         "continent": "South America",
         "subregion": "Caribbean",
@@ -1436,7 +1436,7 @@
         "currencies": {
             "ANG": {
                 "name": "Netherlands Antillean guilder",
-                "symbol": "\\u0192"
+                "symbol": "ƒ"
             }
         },
         "center": {
@@ -1463,7 +1463,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -1490,7 +1490,7 @@
         "currencies": {
             "CZK": {
                 "name": "Czech koruna",
-                "symbol": "K\\u010d"
+                "symbol": "Kč"
             }
         },
         "center": {
@@ -1506,7 +1506,7 @@
     {
         "code": "CI",
         "cca3": "CIV",
-        "name": "C\\u00f4te d'Ivoire",
+        "name": "Côte d'Ivoire",
         "capital": "Yamoussoukro",
         "continent": "Africa",
         "subregion": "Western Africa",
@@ -1703,7 +1703,7 @@
         "currencies": {
             "EGP": {
                 "name": "Egyptian pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -1811,7 +1811,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -1894,7 +1894,7 @@
         "currencies": {
             "FKP": {
                 "name": "Falkland Islands pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -1911,7 +1911,7 @@
         "code": "FO",
         "cca3": "FRO",
         "name": "Faroe Islands",
-        "capital": "T\\u00f3rshavn",
+        "capital": "Tórshavn",
         "continent": "Europe",
         "subregion": "Northern Europe",
         "languages": {
@@ -1924,7 +1924,7 @@
                 "symbol": "kr"
             },
             "FOK": {
-                "name": "Faroese kr\\u00f3na",
+                "name": "Faroese króna",
                 "symbol": "kr"
             }
         },
@@ -2006,7 +2006,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2032,7 +2032,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2058,7 +2058,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2084,7 +2084,7 @@
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
-                "symbol": "\\u20a3"
+                "symbol": "₣"
             }
         },
         "center": {
@@ -2101,7 +2101,7 @@
         "code": "TF",
         "cca3": "ATF",
         "name": "French Southern Territories",
-        "capital": "Saint-Pierre, R\\u00e9union",
+        "capital": "Saint-Pierre, Réunion",
         "continent": "Africa",
         "subregion": "",
         "languages": {
@@ -2110,7 +2110,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2188,7 +2188,7 @@
         "currencies": {
             "GEL": {
                 "name": "lari",
-                "symbol": "\\u20be"
+                "symbol": "₾"
             }
         },
         "center": {
@@ -2214,7 +2214,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2240,7 +2240,7 @@
         "currencies": {
             "GHS": {
                 "name": "Ghanaian cedi",
-                "symbol": "\\u20b5"
+                "symbol": "₵"
             }
         },
         "center": {
@@ -2266,7 +2266,7 @@
         "currencies": {
             "GIP": {
                 "name": "Gibraltar pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -2292,7 +2292,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2370,7 +2370,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2387,7 +2387,7 @@
         "code": "GU",
         "cca3": "GUM",
         "name": "Guam",
-        "capital": "Hag\\u00e5t\\u00f1a",
+        "capital": "Hagåtña",
         "continent": "Oceania",
         "subregion": "Micronesia",
         "languages": {
@@ -2447,16 +2447,16 @@
         "languages": {
             "eng": "English",
             "fra": "French",
-            "nfr": "Guern\\u00e9siais"
+            "nfr": "Guernésiais"
         },
         "currencies": {
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             },
             "GGP": {
                 "name": "Guernsey pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -2589,7 +2589,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2693,7 +2693,7 @@
         },
         "currencies": {
             "ISK": {
-                "name": "Icelandic kr\\u00f3na",
+                "name": "Icelandic króna",
                 "symbol": "kr"
             }
         },
@@ -2722,7 +2722,7 @@
         "currencies": {
             "INR": {
                 "name": "Indian rupee",
-                "symbol": "\\u20b9"
+                "symbol": "₹"
             }
         },
         "center": {
@@ -2774,7 +2774,7 @@
         "currencies": {
             "IRR": {
                 "name": "Iranian rial",
-                "symbol": "\\ufdfc"
+                "symbol": "﷼"
             }
         },
         "center": {
@@ -2802,7 +2802,7 @@
         "currencies": {
             "IQD": {
                 "name": "Iraqi dinar",
-                "symbol": "\\u0639.\\u062f"
+                "symbol": "ع.د"
             }
         },
         "center": {
@@ -2829,7 +2829,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2856,11 +2856,11 @@
         "currencies": {
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             },
             "IMP": {
                 "name": "Manx pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -2887,7 +2887,7 @@
         "currencies": {
             "ILS": {
                 "name": "Israeli new shekel",
-                "symbol": "\\u20aa"
+                "symbol": "₪"
             }
         },
         "center": {
@@ -2913,7 +2913,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -2966,7 +2966,7 @@
         "currencies": {
             "JPY": {
                 "name": "Japanese yen",
-                "symbol": "\\u00a5"
+                "symbol": "¥"
             }
         },
         "center": {
@@ -2989,16 +2989,16 @@
         "languages": {
             "eng": "English",
             "fra": "French",
-            "nrf": "J\\u00e8rriais"
+            "nrf": "Jèrriais"
         },
         "currencies": {
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             },
             "JEP": {
                 "name": "Jersey pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -3024,7 +3024,7 @@
         "currencies": {
             "JOD": {
                 "name": "Jordanian dinar",
-                "symbol": "\\u062f.\\u0627"
+                "symbol": "د.ا"
             }
         },
         "center": {
@@ -3051,7 +3051,7 @@
         "currencies": {
             "KZT": {
                 "name": "Kazakhstani tenge",
-                "symbol": "\\u20b8"
+                "symbol": "₸"
             }
         },
         "center": {
@@ -3135,7 +3135,7 @@
         "currencies": {
             "KWD": {
                 "name": "Kuwaiti dinar",
-                "symbol": "\\u062f.\\u0643"
+                "symbol": "د.ك"
             }
         },
         "center": {
@@ -3162,7 +3162,7 @@
         "currencies": {
             "KGS": {
                 "name": "Kyrgyzstani som",
-                "symbol": "\\u0441"
+                "symbol": "с"
             }
         },
         "center": {
@@ -3188,7 +3188,7 @@
         "currencies": {
             "LAK": {
                 "name": "Lao kip",
-                "symbol": "\\u20ad"
+                "symbol": "₭"
             }
         },
         "center": {
@@ -3214,7 +3214,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -3241,7 +3241,7 @@
         "currencies": {
             "LBP": {
                 "name": "Lebanese pound",
-                "symbol": "\\u0644.\\u0644"
+                "symbol": "ل.ل"
             }
         },
         "center": {
@@ -3324,7 +3324,7 @@
         "currencies": {
             "LYD": {
                 "name": "Libyan dinar",
-                "symbol": "\\u0644.\\u062f"
+                "symbol": "ل.د"
             }
         },
         "center": {
@@ -3376,7 +3376,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -3404,7 +3404,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -3529,7 +3529,7 @@
         "code": "MV",
         "cca3": "MDV",
         "name": "Maldives",
-        "capital": "Mal\\u00e9",
+        "capital": "Malé",
         "continent": "Asia",
         "subregion": "Southern Asia",
         "languages": {
@@ -3538,7 +3538,7 @@
         "currencies": {
             "MVR": {
                 "name": "Maldivian rufiyaa",
-                "symbol": ".\\u0783"
+                "symbol": ".ރ"
             }
         },
         "center": {
@@ -3591,7 +3591,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -3644,7 +3644,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -3698,7 +3698,7 @@
         "currencies": {
             "MUR": {
                 "name": "Mauritian rupee",
-                "symbol": "\\u20a8"
+                "symbol": "₨"
             }
         },
         "center": {
@@ -3724,7 +3724,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -3767,7 +3767,7 @@
         "code": "MD",
         "cca3": "MDA",
         "name": "Moldova",
-        "capital": "Chi\\u0219in\\u0103u",
+        "capital": "Chișinău",
         "continent": "Europe",
         "subregion": "Eastern Europe",
         "languages": {
@@ -3802,7 +3802,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -3827,8 +3827,8 @@
         },
         "currencies": {
             "MNT": {
-                "name": "Mongolian t\\u00f6gr\\u00f6g",
-                "symbol": "\\u20ae"
+                "name": "Mongolian tögrög",
+                "symbol": "₮"
             }
         },
         "center": {
@@ -3854,7 +3854,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -3907,7 +3907,7 @@
         "currencies": {
             "MAD": {
                 "name": "Moroccan dirham",
-                "symbol": "\\u062f.\\u0645."
+                "symbol": "د.م."
             }
         },
         "center": {
@@ -4050,7 +4050,7 @@
         "currencies": {
             "NPR": {
                 "name": "Nepalese rupee",
-                "symbol": "\\u20a8"
+                "symbol": "₨"
             }
         },
         "center": {
@@ -4076,7 +4076,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -4093,7 +4093,7 @@
         "code": "NC",
         "cca3": "NCL",
         "name": "New Caledonia",
-        "capital": "Noum\\u00e9a",
+        "capital": "Nouméa",
         "continent": "Oceania",
         "subregion": "Melanesia",
         "languages": {
@@ -4102,7 +4102,7 @@
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
-                "symbol": "\\u20a3"
+                "symbol": "₣"
             }
         },
         "center": {
@@ -4124,7 +4124,7 @@
         "subregion": "Australia and New Zealand",
         "languages": {
             "eng": "English",
-            "mri": "M\\u0101ori",
+            "mri": "Māori",
             "nzs": "New Zealand Sign Language"
         },
         "currencies": {
@@ -4155,7 +4155,7 @@
         },
         "currencies": {
             "NIO": {
-                "name": "Nicaraguan c\\u00f3rdoba",
+                "name": "Nicaraguan córdoba",
                 "symbol": "C$"
             }
         },
@@ -4208,7 +4208,7 @@
         "currencies": {
             "NGN": {
                 "name": "Nigerian naira",
-                "symbol": "\\u20a6"
+                "symbol": "₦"
             }
         },
         "center": {
@@ -4288,7 +4288,7 @@
         "currencies": {
             "KPW": {
                 "name": "North Korean won",
-                "symbol": "\\u20a9"
+                "symbol": "₩"
             }
         },
         "center": {
@@ -4364,7 +4364,7 @@
         "subregion": "Northern Europe",
         "languages": {
             "nno": "Norwegian Nynorsk",
-            "nob": "Norwegian Bokm\\u00e5l",
+            "nob": "Norwegian Bokmål",
             "smi": "Sami"
         },
         "currencies": {
@@ -4396,7 +4396,7 @@
         "currencies": {
             "OMR": {
                 "name": "Omani rial",
-                "symbol": "\\u0631.\\u0639."
+                "symbol": "ر.ع."
             }
         },
         "center": {
@@ -4423,7 +4423,7 @@
         "currencies": {
             "PKR": {
                 "name": "Pakistani rupee",
-                "symbol": "\\u20a8"
+                "symbol": "₨"
             }
         },
         "center": {
@@ -4525,17 +4525,17 @@
         "code": "PY",
         "cca3": "PRY",
         "name": "Paraguay",
-        "capital": "Asunci\\u00f3n",
+        "capital": "Asunción",
         "continent": "South America",
         "subregion": "South America",
         "languages": {
-            "grn": "Guaran\\u00ed",
+            "grn": "Guaraní",
             "spa": "Spanish"
         },
         "currencies": {
             "PYG": {
-                "name": "Paraguayan guaran\\u00ed",
-                "symbol": "\\u20b2"
+                "name": "Paraguayan guaraní",
+                "symbol": "₲"
             }
         },
         "center": {
@@ -4590,7 +4590,7 @@
         "currencies": {
             "PHP": {
                 "name": "Philippine peso",
-                "symbol": "\\u20b1"
+                "symbol": "₱"
             }
         },
         "center": {
@@ -4641,8 +4641,8 @@
         },
         "currencies": {
             "PLN": {
-                "name": "Polish z\\u0142oty",
-                "symbol": "z\\u0142"
+                "name": "Polish złoty",
+                "symbol": "zł"
             }
         },
         "center": {
@@ -4668,7 +4668,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -4721,7 +4721,7 @@
         "currencies": {
             "QAR": {
                 "name": "Qatari riyal",
-                "symbol": "\\u0631.\\u0642"
+                "symbol": "ر.ق"
             }
         },
         "center": {
@@ -4801,7 +4801,7 @@
         "currencies": {
             "RUB": {
                 "name": "Russian ruble",
-                "symbol": "\\u20bd"
+                "symbol": "₽"
             }
         },
         "center": {
@@ -4845,7 +4845,7 @@
     {
         "code": "RE",
         "cca3": "REU",
-        "name": "R\\u00e9union",
+        "name": "Réunion",
         "capital": "Saint-Denis",
         "continent": "Africa",
         "subregion": "Eastern Africa",
@@ -4855,7 +4855,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -4871,7 +4871,7 @@
     {
         "code": "BL",
         "cca3": "BLM",
-        "name": "Saint Barth\\u00e9lemy",
+        "name": "Saint Barthélemy",
         "capital": "Gustavia",
         "continent": "North America",
         "subregion": "Caribbean",
@@ -4881,7 +4881,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -4907,11 +4907,11 @@
         "currencies": {
             "GBP": {
                 "name": "Pound sterling",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             },
             "SHP": {
                 "name": "Saint Helena pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -4989,7 +4989,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -5015,7 +5015,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -5067,7 +5067,7 @@
         },
         "currencies": {
             "WST": {
-                "name": "Samoan t\\u0101l\\u0101",
+                "name": "Samoan tālā",
                 "symbol": "T"
             }
         },
@@ -5094,7 +5094,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -5111,7 +5111,7 @@
         "code": "ST",
         "cca3": "STP",
         "name": "Sao Tome and Principe",
-        "capital": "S\\u00e3o Tom\\u00e9",
+        "capital": "São Tomé",
         "continent": "Africa",
         "subregion": "Middle Africa",
         "languages": {
@@ -5119,7 +5119,7 @@
         },
         "currencies": {
             "STN": {
-                "name": "S\\u00e3o Tom\\u00e9 and Pr\\u00edncipe dobra",
+                "name": "São Tomé and Príncipe dobra",
                 "symbol": "Db"
             }
         },
@@ -5146,7 +5146,7 @@
         "currencies": {
             "SAR": {
                 "name": "Saudi riyal",
-                "symbol": "\\u0631.\\u0633"
+                "symbol": "ر.س"
             }
         },
         "center": {
@@ -5198,7 +5198,7 @@
         "currencies": {
             "RSD": {
                 "name": "Serbian dinar",
-                "symbol": "\\u0434\\u0438\\u043d."
+                "symbol": "дин."
             }
         },
         "center": {
@@ -5226,7 +5226,7 @@
         "currencies": {
             "SCR": {
                 "name": "Seychellois rupee",
-                "symbol": "\\u20a8"
+                "symbol": "₨"
             }
         },
         "center": {
@@ -5309,7 +5309,7 @@
         "currencies": {
             "ANG": {
                 "name": "Netherlands Antillean guilder",
-                "symbol": "\\u0192"
+                "symbol": "ƒ"
             }
         },
         "center": {
@@ -5335,7 +5335,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -5361,7 +5361,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -5476,7 +5476,7 @@
         "currencies": {
             "SHP": {
                 "name": "Saint Helena pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -5502,7 +5502,7 @@
         "currencies": {
             "KRW": {
                 "name": "South Korean won",
-                "symbol": "\\u20a9"
+                "symbol": "₩"
             }
         },
         "center": {
@@ -5528,7 +5528,7 @@
         "currencies": {
             "SSP": {
                 "name": "South Sudanese pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -5554,7 +5554,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -5581,7 +5581,7 @@
         "currencies": {
             "LKR": {
                 "name": "Sri Lankan rupee",
-                "symbol": "Rs  \\u0dbb\\u0dd4"
+                "symbol": "Rs  රු"
             }
         },
         "center": {
@@ -5607,11 +5607,11 @@
         "currencies": {
             "EGP": {
                 "name": "Egyptian pound",
-                "symbol": "E\\u00a3"
+                "symbol": "E£"
             },
             "ILS": {
                 "name": "Israeli new shekel",
-                "symbol": "\\u20aa"
+                "symbol": "₪"
             },
             "JOD": {
                 "name": "Jordanian dinar",
@@ -5775,7 +5775,7 @@
         "currencies": {
             "SYP": {
                 "name": "Syrian pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -5828,7 +5828,7 @@
         "currencies": {
             "TJS": {
                 "name": "Tajikistani somoni",
-                "symbol": "\\u0405\\u041c"
+                "symbol": "ЅМ"
             }
         },
         "center": {
@@ -5881,7 +5881,7 @@
         "currencies": {
             "THB": {
                 "name": "Thai baht",
-                "symbol": "\\u0e3f"
+                "symbol": "฿"
             }
         },
         "center": {
@@ -5925,7 +5925,7 @@
         "code": "TG",
         "cca3": "TGO",
         "name": "Togo",
-        "capital": "Lom\\u00e9",
+        "capital": "Lomé",
         "continent": "Africa",
         "subregion": "Western Africa",
         "languages": {
@@ -5979,7 +5979,7 @@
         "code": "TO",
         "cca3": "TON",
         "name": "Tonga",
-        "capital": "Nuku\\u02bbalofa",
+        "capital": "Nukuʻalofa",
         "continent": "Oceania",
         "subregion": "Polynesia",
         "languages": {
@@ -5988,7 +5988,7 @@
         },
         "currencies": {
             "TOP": {
-                "name": "Tongan pa\\u02bbanga",
+                "name": "Tongan paʻanga",
                 "symbol": "T$"
             }
         },
@@ -6041,7 +6041,7 @@
         "currencies": {
             "TND": {
                 "name": "Tunisian dinar",
-                "symbol": "\\u062f.\\u062a"
+                "symbol": "د.ت"
             }
         },
         "center": {
@@ -6141,7 +6141,7 @@
     {
         "code": "TR",
         "cca3": "TUR",
-        "name": "T\\u00fcrkiye",
+        "name": "Türkiye",
         "capital": "Ankara",
         "continent": "Asia",
         "subregion": "Western Asia",
@@ -6151,7 +6151,7 @@
         "currencies": {
             "TRY": {
                 "name": "Turkish lira",
-                "symbol": "\\u20ba"
+                "symbol": "₺"
             }
         },
         "center": {
@@ -6204,7 +6204,7 @@
         "currencies": {
             "UAH": {
                 "name": "Ukrainian hryvnia",
-                "symbol": "\\u20b4"
+                "symbol": "₴"
             }
         },
         "center": {
@@ -6230,7 +6230,7 @@
         "currencies": {
             "AED": {
                 "name": "United Arab Emirates dirham",
-                "symbol": "\\u062f.\\u0625"
+                "symbol": "د.إ"
             }
         },
         "center": {
@@ -6256,7 +6256,7 @@
         "currencies": {
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -6268,6 +6268,111 @@
         "independent": true,
         "flag_1x1": "flags/1x1/gb.svg",
         "flag_4x3": "flags/4x3/gb.svg"
+    },
+    {
+        "code": "GB-ENG",
+        "cca3": "",
+        "name": "England",
+        "capital": "London",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-eng.svg",
+        "flag_4x3": "flags/4x3/gb-eng.svg"
+    },
+    {
+        "code": "gb-wls",
+        "name": "Wales",
+        "capital": "Cardiff",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "wel": "Welsh"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-wls.svg",
+        "flag_4x3": "flags/4x3/gb-wls.svg"
+    },
+    {
+        "code": "gb-sct",
+        "cca3": "",
+        "name": "Scotland",
+        "capital": "Edinburgh",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-sct.svg",
+        "flag_4x3": "flags/4x3/gb-sct.svg"
+    },
+    {
+        "code": "gb-nir",
+        "cca3": "",
+        "name": "Northern Ireland",
+        "capital": "Belfast",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-nir.svg",
+        "flag_4x3": "flags/4x3/gb-nir.svg"
     },
     {
         "code": "UM",
@@ -6360,7 +6465,7 @@
         },
         "currencies": {
             "UZS": {
-                "name": "Uzbekistani so\\u02bbm",
+                "name": "Uzbekistani soʻm",
                 "symbol": "so'm"
             }
         },
@@ -6414,7 +6519,7 @@
         },
         "currencies": {
             "VES": {
-                "name": "Venezuelan bol\\u00edvar soberano",
+                "name": "Venezuelan bolívar soberano",
                 "symbol": "Bs.S."
             }
         },
@@ -6440,8 +6545,8 @@
         },
         "currencies": {
             "VND": {
-                "name": "Vietnamese \\u0111\\u1ed3ng",
-                "symbol": "\\u20ab"
+                "name": "Vietnamese đồng",
+                "symbol": "₫"
             }
         },
         "center": {
@@ -6519,7 +6624,7 @@
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
-                "symbol": "\\u20a3"
+                "symbol": "₣"
             }
         },
         "center": {
@@ -6547,7 +6652,7 @@
         "currencies": {
             "DZD": {
                 "name": "Algerian dinar",
-                "symbol": "\\u062f\\u062c"
+                "symbol": "دج"
             },
             "MAD": {
                 "name": "Moroccan dirham",
@@ -6581,7 +6686,7 @@
         "currencies": {
             "YER": {
                 "name": "Yemeni rial",
-                "symbol": "\\ufdfc"
+                "symbol": "﷼"
             }
         },
         "center": {
@@ -6651,23 +6756,23 @@
             },
             "CNY": {
                 "name": "Chinese yuan",
-                "symbol": "\\u00a5"
+                "symbol": "¥"
             },
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\u20ac"
+                "symbol": "€"
             },
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\u00a3"
+                "symbol": "£"
             },
             "INR": {
                 "name": "Indian rupee",
-                "symbol": "\\u20b9"
+                "symbol": "₹"
             },
             "JPY": {
                 "name": "Japanese yen",
-                "symbol": "\\u00a5"
+                "symbol": "¥"
             },
             "USD": {
                 "name": "United States dollar",

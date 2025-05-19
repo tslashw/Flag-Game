@@ -12,7 +12,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -24,7 +24,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/ax.svg",
         "flag_4x3": "flags/4x3/ax.svg"
-    }, {
+    },
+    {
         "code": "AL",
         "cca3": "ALB",
         "name": "Albania",
@@ -49,7 +50,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/al.svg",
         "flag_4x3": "flags/4x3/al.svg"
-    }, {
+    },
+    {
         "code": "AD",
         "cca3": "AND",
         "name": "Andorra",
@@ -62,7 +64,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -74,7 +76,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ad.svg",
         "flag_4x3": "flags/4x3/ad.svg"
-    }, {
+    },
+    {
         "code": "AT",
         "cca3": "AUT",
         "name": "Austria",
@@ -87,7 +90,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -99,7 +102,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/at.svg",
         "flag_4x3": "flags/4x3/at.svg"
-    }, {
+    },
+    {
         "code": "BY",
         "cca3": "BLR",
         "name": "Belarus",
@@ -125,7 +129,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/by.svg",
         "flag_4x3": "flags/4x3/by.svg"
-    }, {
+    },
+    {
         "code": "BE",
         "cca3": "BEL",
         "name": "Belgium",
@@ -140,7 +145,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -152,7 +157,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/be.svg",
         "flag_4x3": "flags/4x3/be.svg"
-    }, {
+    },
+    {
         "code": "BA",
         "cca3": "BIH",
         "name": "Bosnia and Herzegovina",
@@ -179,7 +185,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ba.svg",
         "flag_4x3": "flags/4x3/ba.svg"
-    }, {
+    },
+    {
         "code": "BG",
         "cca3": "BGR",
         "name": "Bulgaria",
@@ -192,7 +199,7 @@
         "currencies": {
             "BGN": {
                 "name": "Bulgarian lev",
-                "symbol": "\\\\u043b\\\\u0432"
+                "symbol": "лв"
             }
         },
         "center": {
@@ -204,7 +211,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/bg.svg",
         "flag_4x3": "flags/4x3/bg.svg"
-    }, {
+    },
+    {
         "code": "HR",
         "cca3": "HRV",
         "name": "Croatia",
@@ -217,7 +225,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -229,7 +237,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/hr.svg",
         "flag_4x3": "flags/4x3/hr.svg"
-    }, {
+    },
+    {
         "code": "CY",
         "cca3": "CYP",
         "name": "Cyprus",
@@ -243,7 +252,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -255,7 +264,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/cy.svg",
         "flag_4x3": "flags/4x3/cy.svg"
-    }, {
+    },
+    {
         "code": "CZ",
         "cca3": "CZE",
         "name": "Czech Republic",
@@ -269,7 +279,7 @@
         "currencies": {
             "CZK": {
                 "name": "Czech koruna",
-                "symbol": "K\\\\u010d"
+                "symbol": "Kč"
             }
         },
         "center": {
@@ -281,7 +291,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/cz.svg",
         "flag_4x3": "flags/4x3/cz.svg"
-    }, {
+    },
+    {
         "code": "DK",
         "cca3": "DNK",
         "name": "Denmark",
@@ -306,7 +317,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/dk.svg",
         "flag_4x3": "flags/4x3/dk.svg"
-    }, {
+    },
+    {
         "code": "EE",
         "cca3": "EST",
         "name": "Estonia",
@@ -319,7 +331,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -331,11 +343,12 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ee.svg",
         "flag_4x3": "flags/4x3/ee.svg"
-    }, {
+    },
+    {
         "code": "FO",
         "cca3": "FRO",
         "name": "Faroe Islands",
-        "capital": "T\\\\u00f3rshavn",
+        "capital": "Tórshavn",
         "continent": "Europe",
         "subregion": "Northern Europe",
         "languages": {
@@ -348,7 +361,7 @@
                 "symbol": "kr"
             },
             "FOK": {
-                "name": "Faroese kr\\\\u00f3na",
+                "name": "Faroese króna",
                 "symbol": "kr"
             }
         },
@@ -361,7 +374,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/fo.svg",
         "flag_4x3": "flags/4x3/fo.svg"
-    }, {
+    },
+    {
         "code": "FI",
         "cca3": "FIN",
         "name": "Finland",
@@ -375,7 +389,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -387,7 +401,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/fi.svg",
         "flag_4x3": "flags/4x3/fi.svg"
-    }, {
+    },
+    {
         "code": "FR",
         "cca3": "FRA",
         "name": "France",
@@ -400,7 +415,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -412,7 +427,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/fr.svg",
         "flag_4x3": "flags/4x3/fr.svg"
-    }, {
+    },
+    {
         "code": "DE",
         "cca3": "DEU",
         "name": "Germany",
@@ -425,7 +441,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -437,7 +453,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/de.svg",
         "flag_4x3": "flags/4x3/de.svg"
-    }, {
+    },
+    {
         "code": "GI",
         "cca3": "GIB",
         "name": "Gibraltar",
@@ -450,7 +467,7 @@
         "currencies": {
             "GIP": {
                 "name": "Gibraltar pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -462,7 +479,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/gi.svg",
         "flag_4x3": "flags/4x3/gi.svg"
-    }, {
+    },
+    {
         "code": "GR",
         "cca3": "GRC",
         "name": "Greece",
@@ -475,7 +493,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -487,7 +505,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/gr.svg",
         "flag_4x3": "flags/4x3/gr.svg"
-    }, {
+    },
+    {
         "code": "GG",
         "cca3": "GGY",
         "name": "Guernsey",
@@ -497,16 +516,16 @@
         "languages": {
             "eng": "English",
             "fra": "French",
-            "nfr": "Guern\\\\u00e9siais"
+            "nfr": "Guernésiais"
         },
         "currencies": {
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             },
             "GGP": {
                 "name": "Guernsey pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -518,7 +537,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/gg.svg",
         "flag_4x3": "flags/4x3/gg.svg"
-    }, {
+    },
+    {
         "code": "VA",
         "cca3": "VAT",
         "name": "Holy See",
@@ -532,7 +552,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -544,7 +564,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/va.svg",
         "flag_4x3": "flags/4x3/va.svg"
-    }, {
+    },
+    {
         "code": "HU",
         "cca3": "HUN",
         "name": "Hungary",
@@ -569,7 +590,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/hu.svg",
         "flag_4x3": "flags/4x3/hu.svg"
-    }, {
+    },
+    {
         "code": "IS",
         "cca3": "ISL",
         "name": "Iceland",
@@ -581,7 +603,7 @@
         },
         "currencies": {
             "ISK": {
-                "name": "Icelandic kr\\\\u00f3na",
+                "name": "Icelandic króna",
                 "symbol": "kr"
             }
         },
@@ -594,7 +616,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/is.svg",
         "flag_4x3": "flags/4x3/is.svg"
-    }, {
+    },
+    {
         "code": "IE",
         "cca3": "IRL",
         "name": "Ireland",
@@ -608,7 +631,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -620,7 +643,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ie.svg",
         "flag_4x3": "flags/4x3/ie.svg"
-    }, {
+    },
+    {
         "code": "IM",
         "cca3": "IMN",
         "name": "Isle of Man",
@@ -634,11 +658,11 @@
         "currencies": {
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             },
             "IMP": {
                 "name": "Manx pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -650,7 +674,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/im.svg",
         "flag_4x3": "flags/4x3/im.svg"
-    }, {
+    },
+    {
         "code": "IT",
         "cca3": "ITA",
         "name": "Italy",
@@ -663,7 +688,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -675,7 +700,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/it.svg",
         "flag_4x3": "flags/4x3/it.svg"
-    }, {
+    },
+    {
         "code": "JE",
         "cca3": "JEY",
         "name": "Jersey",
@@ -685,16 +711,16 @@
         "languages": {
             "eng": "English",
             "fra": "French",
-            "nrf": "J\\\\u00e8rriais"
+            "nrf": "Jèrriais"
         },
         "currencies": {
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             },
             "JEP": {
                 "name": "Jersey pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -706,7 +732,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/je.svg",
         "flag_4x3": "flags/4x3/je.svg"
-    }, {
+    },
+    {
         "code": "LV",
         "cca3": "LVA",
         "name": "Latvia",
@@ -719,7 +746,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -731,7 +758,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/lv.svg",
         "flag_4x3": "flags/4x3/lv.svg"
-    }, {
+    },
+    {
         "code": "LI",
         "cca3": "LIE",
         "name": "Liechtenstein",
@@ -756,7 +784,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/li.svg",
         "flag_4x3": "flags/4x3/li.svg"
-    }, {
+    },
+    {
         "code": "LT",
         "cca3": "LTU",
         "name": "Lithuania",
@@ -769,7 +798,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -781,7 +810,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/lt.svg",
         "flag_4x3": "flags/4x3/lt.svg"
-    }, {
+    },
+    {
         "code": "LU",
         "cca3": "LUX",
         "name": "Luxembourg",
@@ -796,7 +826,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -808,7 +838,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/lu.svg",
         "flag_4x3": "flags/4x3/lu.svg"
-    }, {
+    },
+    {
         "code": "MT",
         "cca3": "MLT",
         "name": "Malta",
@@ -822,7 +853,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -834,11 +865,12 @@
         "independent": true,
         "flag_1x1": "flags/1x1/mt.svg",
         "flag_4x3": "flags/4x3/mt.svg"
-    }, {
+    },
+    {
         "code": "MD",
         "cca3": "MDA",
         "name": "Moldova",
-        "capital": "Chi\\\\u0219in\\\\u0103u",
+        "capital": "Chișinău",
         "continent": "Europe",
         "subregion": "Eastern Europe",
         "languages": {
@@ -859,7 +891,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/md.svg",
         "flag_4x3": "flags/4x3/md.svg"
-    }, {
+    },
+    {
         "code": "MC",
         "cca3": "MCO",
         "name": "Monaco",
@@ -872,7 +905,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -884,7 +917,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/mc.svg",
         "flag_4x3": "flags/4x3/mc.svg"
-    }, {
+    },
+    {
         "code": "ME",
         "cca3": "MNE",
         "name": "Montenegro",
@@ -897,7 +931,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -909,7 +943,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/me.svg",
         "flag_4x3": "flags/4x3/me.svg"
-    }, {
+    },
+    {
         "code": "NL",
         "cca3": "NLD",
         "name": "Netherlands",
@@ -922,7 +957,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -934,7 +969,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/nl.svg",
         "flag_4x3": "flags/4x3/nl.svg"
-    }, {
+    },
+    {
         "code": "MK",
         "cca3": "MKD",
         "name": "North Macedonia",
@@ -959,7 +995,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/mk.svg",
         "flag_4x3": "flags/4x3/mk.svg"
-    }, {
+    },
+    {
         "code": "NO",
         "cca3": "NOR",
         "name": "Norway",
@@ -968,7 +1005,7 @@
         "subregion": "Northern Europe",
         "languages": {
             "nno": "Norwegian Nynorsk",
-            "nob": "Norwegian Bokm\\\\u00e5l",
+            "nob": "Norwegian Bokmål",
             "smi": "Sami"
         },
         "currencies": {
@@ -986,7 +1023,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/no.svg",
         "flag_4x3": "flags/4x3/no.svg"
-    }, {
+    },
+    {
         "code": "PL",
         "cca3": "POL",
         "name": "Poland",
@@ -998,8 +1036,8 @@
         },
         "currencies": {
             "PLN": {
-                "name": "Polish z\\\\u0142oty",
-                "symbol": "z\\\\u0142"
+                "name": "Polish złoty",
+                "symbol": "zł"
             }
         },
         "center": {
@@ -1011,7 +1049,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/pl.svg",
         "flag_4x3": "flags/4x3/pl.svg"
-    }, {
+    },
+    {
         "code": "PT",
         "cca3": "PRT",
         "name": "Portugal",
@@ -1024,7 +1063,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -1036,7 +1075,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/pt.svg",
         "flag_4x3": "flags/4x3/pt.svg"
-    }, {
+    },
+    {
         "code": "RO",
         "cca3": "ROU",
         "name": "Romania",
@@ -1061,7 +1101,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ro.svg",
         "flag_4x3": "flags/4x3/ro.svg"
-    }, {
+    },
+    {
         "code": "RU",
         "cca3": "RUS",
         "name": "Russia",
@@ -1074,7 +1115,7 @@
         "currencies": {
             "RUB": {
                 "name": "Russian ruble",
-                "symbol": "\\\\u20bd"
+                "symbol": "₽"
             }
         },
         "center": {
@@ -1086,7 +1127,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ru.svg",
         "flag_4x3": "flags/4x3/ru.svg"
-    }, {
+    },
+    {
         "code": "SM",
         "cca3": "SMR",
         "name": "San Marino",
@@ -1099,7 +1141,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -1111,7 +1153,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/sm.svg",
         "flag_4x3": "flags/4x3/sm.svg"
-    }, {
+    },
+    {
         "code": "RS",
         "cca3": "SRB",
         "name": "Serbia",
@@ -1124,7 +1167,7 @@
         "currencies": {
             "RSD": {
                 "name": "Serbian dinar",
-                "symbol": "\\\\u0434\\\\u0438\\\\u043d."
+                "symbol": "дин."
             }
         },
         "center": {
@@ -1136,7 +1179,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/rs.svg",
         "flag_4x3": "flags/4x3/rs.svg"
-    }, {
+    },
+    {
         "code": "SK",
         "cca3": "SVK",
         "name": "Slovakia",
@@ -1149,7 +1193,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -1161,7 +1205,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/sk.svg",
         "flag_4x3": "flags/4x3/sk.svg"
-    }, {
+    },
+    {
         "code": "SI",
         "cca3": "SVN",
         "name": "Slovenia",
@@ -1174,7 +1219,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -1186,7 +1231,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/si.svg",
         "flag_4x3": "flags/4x3/si.svg"
-    }, {
+    },
+    {
         "code": "ES",
         "cca3": "ESP",
         "name": "Spain",
@@ -1199,7 +1245,7 @@
         "currencies": {
             "EUR": {
                 "name": "Euro",
-                "symbol": "\\\\u20ac"
+                "symbol": "€"
             }
         },
         "center": {
@@ -1211,7 +1257,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/es.svg",
         "flag_4x3": "flags/4x3/es.svg"
-    }, {
+    },
+    {
         "code": "SJ",
         "cca3": "SJM",
         "name": "Svalbard and Jan Mayen",
@@ -1236,7 +1283,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/sj.svg",
         "flag_4x3": "flags/4x3/sj.svg"
-    }, {
+    },
+    {
         "code": "SE",
         "cca3": "SWE",
         "name": "Sweden",
@@ -1261,7 +1309,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/se.svg",
         "flag_4x3": "flags/4x3/se.svg"
-    }, {
+    },
+    {
         "code": "CH",
         "cca3": "CHE",
         "name": "Switzerland",
@@ -1289,7 +1338,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ch.svg",
         "flag_4x3": "flags/4x3/ch.svg"
-    }, {
+    },
+    {
         "code": "UA",
         "cca3": "UKR",
         "name": "Ukraine",
@@ -1302,7 +1352,7 @@
         "currencies": {
             "UAH": {
                 "name": "Ukrainian hryvnia",
-                "symbol": "\\\\u20b4"
+                "symbol": "₴"
             }
         },
         "center": {
@@ -1314,7 +1364,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ua.svg",
         "flag_4x3": "flags/4x3/ua.svg"
-    }, {
+    },
+    {
         "code": "GB",
         "cca3": "GBR",
         "name": "United Kingdom",
@@ -1327,7 +1378,7 @@
         "currencies": {
             "GBP": {
                 "name": "British pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -1339,5 +1390,110 @@
         "independent": true,
         "flag_1x1": "flags/1x1/gb.svg",
         "flag_4x3": "flags/4x3/gb.svg"
+    },
+    {
+        "code": "GB-ENG",
+        "cca3": "",
+        "name": "England",
+        "capital": "London",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-eng.svg",
+        "flag_4x3": "flags/4x3/gb-eng.svg"
+    },
+    {
+        "code": "gb-wls",
+        "name": "Wales",
+        "capital": "Cardiff",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "wel": "Welsh"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-wls.svg",
+        "flag_4x3": "flags/4x3/gb-wls.svg"
+    },
+    {
+        "code": "gb-sct",
+        "cca3": "",
+        "name": "Scotland",
+        "capital": "Edinburgh",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-sct.svg",
+        "flag_4x3": "flags/4x3/gb-sct.svg"
+    },
+    {
+        "code": "gb-nir",
+        "cca3": "",
+        "name": "Northern Ireland",
+        "capital": "Belfast",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-nir.svg",
+        "flag_4x3": "flags/4x3/gb-nir.svg"
     }
 ]

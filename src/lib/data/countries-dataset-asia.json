@@ -14,7 +14,7 @@
         "currencies": {
             "AFN": {
                 "name": "Afghan afghani",
-                "symbol": "\\\\u060b"
+                "symbol": "؋"
             }
         },
         "center": {
@@ -26,7 +26,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/af.svg",
         "flag_4x3": "flags/4x3/af.svg"
-    }, {
+    },
+    {
         "code": "AM",
         "cca3": "ARM",
         "name": "Armenia",
@@ -39,7 +40,7 @@
         "currencies": {
             "AMD": {
                 "name": "Armenian dram",
-                "symbol": "\\\\u058f"
+                "symbol": "֏"
             }
         },
         "center": {
@@ -51,7 +52,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/am.svg",
         "flag_4x3": "flags/4x3/am.svg"
-    }, {
+    },
+    {
         "code": "AZ",
         "cca3": "AZE",
         "name": "Azerbaijan",
@@ -65,7 +67,7 @@
         "currencies": {
             "AZN": {
                 "name": "Azerbaijani manat",
-                "symbol": "\\\\u20bc"
+                "symbol": "₼"
             }
         },
         "center": {
@@ -77,7 +79,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/az.svg",
         "flag_4x3": "flags/4x3/az.svg"
-    }, {
+    },
+    {
         "code": "BH",
         "cca3": "BHR",
         "name": "Bahrain",
@@ -90,7 +93,7 @@
         "currencies": {
             "BHD": {
                 "name": "Bahraini dinar",
-                "symbol": ".\\\\u062f.\\\\u0628"
+                "symbol": ".د.ب"
             }
         },
         "center": {
@@ -102,7 +105,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/bh.svg",
         "flag_4x3": "flags/4x3/bh.svg"
-    }, {
+    },
+    {
         "code": "BD",
         "cca3": "BGD",
         "name": "Bangladesh",
@@ -115,7 +119,7 @@
         "currencies": {
             "BDT": {
                 "name": "Bangladeshi taka",
-                "symbol": "\\\\u09f3"
+                "symbol": "৳"
             }
         },
         "center": {
@@ -127,7 +131,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/bd.svg",
         "flag_4x3": "flags/4x3/bd.svg"
-    }, {
+    },
+    {
         "code": "BT",
         "cca3": "BTN",
         "name": "Bhutan",
@@ -144,7 +149,7 @@
             },
             "INR": {
                 "name": "Indian rupee",
-                "symbol": "\\\\u20b9"
+                "symbol": "₹"
             }
         },
         "center": {
@@ -156,7 +161,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/bt.svg",
         "flag_4x3": "flags/4x3/bt.svg"
-    }, {
+    },
+    {
         "code": "IO",
         "cca3": "IOT",
         "name": "British Indian Ocean Territory",
@@ -181,7 +187,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/io.svg",
         "flag_4x3": "flags/4x3/io.svg"
-    }, {
+    },
+    {
         "code": "BN",
         "cca3": "BRN",
         "name": "Brunei Darussalam",
@@ -210,7 +217,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/bn.svg",
         "flag_4x3": "flags/4x3/bn.svg"
-    }, {
+    },
+    {
         "code": "KH",
         "cca3": "KHM",
         "name": "Cambodia",
@@ -223,7 +231,7 @@
         "currencies": {
             "KHR": {
                 "name": "Cambodian riel",
-                "symbol": "\\\\u17db"
+                "symbol": "៛"
             },
             "USD": {
                 "name": "United States dollar",
@@ -239,7 +247,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/kh.svg",
         "flag_4x3": "flags/4x3/kh.svg"
-    }, {
+    },
+    {
         "code": "CN",
         "cca3": "CHN",
         "name": "China",
@@ -252,7 +261,7 @@
         "currencies": {
             "CNY": {
                 "name": "Chinese yuan",
-                "symbol": "\\\\u00a5"
+                "symbol": "¥"
             }
         },
         "center": {
@@ -264,7 +273,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/cn.svg",
         "flag_4x3": "flags/4x3/cn.svg"
-    }, {
+    },
+    {
         "code": "CX",
         "cca3": "CXR",
         "name": "Christmas Island",
@@ -289,7 +299,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/cx.svg",
         "flag_4x3": "flags/4x3/cx.svg"
-    }, {
+    },
+    {
         "code": "CC",
         "cca3": "CCK",
         "name": "Cocos (Keeling) Islands",
@@ -314,7 +325,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/cc.svg",
         "flag_4x3": "flags/4x3/cc.svg"
-    }, {
+    },
+    {
         "code": "GE",
         "cca3": "GEO",
         "name": "Georgia",
@@ -327,7 +339,7 @@
         "currencies": {
             "GEL": {
                 "name": "lari",
-                "symbol": "\\\\u20be"
+                "symbol": "₾"
             }
         },
         "center": {
@@ -339,7 +351,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ge.svg",
         "flag_4x3": "flags/4x3/ge.svg"
-    }, {
+    },
+    {
         "code": "HK",
         "cca3": "HKG",
         "name": "Hong Kong",
@@ -365,7 +378,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/hk.svg",
         "flag_4x3": "flags/4x3/hk.svg"
-    }, {
+    },
+    {
         "code": "IN",
         "cca3": "IND",
         "name": "India",
@@ -380,7 +394,7 @@
         "currencies": {
             "INR": {
                 "name": "Indian rupee",
-                "symbol": "\\\\u20b9"
+                "symbol": "₹"
             }
         },
         "center": {
@@ -392,7 +406,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/in.svg",
         "flag_4x3": "flags/4x3/in.svg"
-    }, {
+    },
+    {
         "code": "ID",
         "cca3": "IDN",
         "name": "Indonesia",
@@ -417,7 +432,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/id.svg",
         "flag_4x3": "flags/4x3/id.svg"
-    }, {
+    },
+    {
         "code": "IR",
         "cca3": "IRN",
         "name": "Iran",
@@ -430,7 +446,7 @@
         "currencies": {
             "IRR": {
                 "name": "Iranian rial",
-                "symbol": "\\\\ufdfc"
+                "symbol": "﷼"
             }
         },
         "center": {
@@ -442,7 +458,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ir.svg",
         "flag_4x3": "flags/4x3/ir.svg"
-    }, {
+    },
+    {
         "code": "IQ",
         "cca3": "IRQ",
         "name": "Iraq",
@@ -457,7 +474,7 @@
         "currencies": {
             "IQD": {
                 "name": "Iraqi dinar",
-                "symbol": "\\\\u0639.\\\\u062f"
+                "symbol": "ع.د"
             }
         },
         "center": {
@@ -469,7 +486,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/iq.svg",
         "flag_4x3": "flags/4x3/iq.svg"
-    }, {
+    },
+    {
         "code": "IL",
         "cca3": "ISR",
         "name": "Israel",
@@ -483,7 +501,7 @@
         "currencies": {
             "ILS": {
                 "name": "Israeli new shekel",
-                "symbol": "\\\\u20aa"
+                "symbol": "₪"
             }
         },
         "center": {
@@ -495,7 +513,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/il.svg",
         "flag_4x3": "flags/4x3/il.svg"
-    }, {
+    },
+    {
         "code": "JP",
         "cca3": "JPN",
         "name": "Japan",
@@ -508,7 +527,7 @@
         "currencies": {
             "JPY": {
                 "name": "Japanese yen",
-                "symbol": "\\\\u00a5"
+                "symbol": "¥"
             }
         },
         "center": {
@@ -520,7 +539,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/jp.svg",
         "flag_4x3": "flags/4x3/jp.svg"
-    }, {
+    },
+    {
         "code": "JO",
         "cca3": "JOR",
         "name": "Jordan",
@@ -533,7 +553,7 @@
         "currencies": {
             "JOD": {
                 "name": "Jordanian dinar",
-                "symbol": "\\\\u062f.\\\\u0627"
+                "symbol": "د.ا"
             }
         },
         "center": {
@@ -545,7 +565,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/jo.svg",
         "flag_4x3": "flags/4x3/jo.svg"
-    }, {
+    },
+    {
         "code": "KZ",
         "cca3": "KAZ",
         "name": "Kazakhstan",
@@ -559,7 +580,7 @@
         "currencies": {
             "KZT": {
                 "name": "Kazakhstani tenge",
-                "symbol": "\\\\u20b8"
+                "symbol": "₸"
             }
         },
         "center": {
@@ -571,7 +592,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/kz.svg",
         "flag_4x3": "flags/4x3/kz.svg"
-    }, {
+    },
+    {
         "code": "KW",
         "cca3": "KWT",
         "name": "Kuwait",
@@ -584,7 +606,7 @@
         "currencies": {
             "KWD": {
                 "name": "Kuwaiti dinar",
-                "symbol": "\\\\u062f.\\\\u0643"
+                "symbol": "د.ك"
             }
         },
         "center": {
@@ -596,7 +618,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/kw.svg",
         "flag_4x3": "flags/4x3/kw.svg"
-    }, {
+    },
+    {
         "code": "KG",
         "cca3": "KGZ",
         "name": "Kyrgyzstan",
@@ -610,7 +633,7 @@
         "currencies": {
             "KGS": {
                 "name": "Kyrgyzstani som",
-                "symbol": "\\\\u0441"
+                "symbol": "с"
             }
         },
         "center": {
@@ -622,7 +645,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/kg.svg",
         "flag_4x3": "flags/4x3/kg.svg"
-    }, {
+    },
+    {
         "code": "LA",
         "cca3": "LAO",
         "name": "Laos",
@@ -635,7 +659,7 @@
         "currencies": {
             "LAK": {
                 "name": "Lao kip",
-                "symbol": "\\\\u20ad"
+                "symbol": "₭"
             }
         },
         "center": {
@@ -647,7 +671,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/la.svg",
         "flag_4x3": "flags/4x3/la.svg"
-    }, {
+    },
+    {
         "code": "LB",
         "cca3": "LBN",
         "name": "Lebanon",
@@ -661,7 +686,7 @@
         "currencies": {
             "LBP": {
                 "name": "Lebanese pound",
-                "symbol": "\\\\u0644.\\\\u0644"
+                "symbol": "ل.ل"
             }
         },
         "center": {
@@ -673,7 +698,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/lb.svg",
         "flag_4x3": "flags/4x3/lb.svg"
-    }, {
+    },
+    {
         "code": "MO",
         "cca3": "MAC",
         "name": "Macau",
@@ -699,7 +725,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/mo.svg",
         "flag_4x3": "flags/4x3/mo.svg"
-    }, {
+    },
+    {
         "code": "MY",
         "cca3": "MYS",
         "name": "Malaysia",
@@ -725,11 +752,12 @@
         "independent": true,
         "flag_1x1": "flags/1x1/my.svg",
         "flag_4x3": "flags/4x3/my.svg"
-    }, {
+    },
+    {
         "code": "MV",
         "cca3": "MDV",
         "name": "Maldives",
-        "capital": "Mal\\\\u00e9",
+        "capital": "Malé",
         "continent": "Asia",
         "subregion": "Southern Asia",
         "languages": {
@@ -738,7 +766,7 @@
         "currencies": {
             "MVR": {
                 "name": "Maldivian rufiyaa",
-                "symbol": ".\\\\u0783"
+                "symbol": ".ރ"
             }
         },
         "center": {
@@ -750,7 +778,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/mv.svg",
         "flag_4x3": "flags/4x3/mv.svg"
-    }, {
+    },
+    {
         "code": "MN",
         "cca3": "MNG",
         "name": "Mongolia",
@@ -762,8 +791,8 @@
         },
         "currencies": {
             "MNT": {
-                "name": "Mongolian t\\\\u00f6gr\\\\u00f6g",
-                "symbol": "\\\\u20ae"
+                "name": "Mongolian tögrög",
+                "symbol": "₮"
             }
         },
         "center": {
@@ -775,7 +804,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/mn.svg",
         "flag_4x3": "flags/4x3/mn.svg"
-    }, {
+    },
+    {
         "code": "MM",
         "cca3": "MMR",
         "name": "Myanmar",
@@ -800,7 +830,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/mm.svg",
         "flag_4x3": "flags/4x3/mm.svg"
-    }, {
+    },
+    {
         "code": "NP",
         "cca3": "NPL",
         "name": "Nepal",
@@ -813,7 +844,7 @@
         "currencies": {
             "NPR": {
                 "name": "Nepalese rupee",
-                "symbol": "\\\\u20a8"
+                "symbol": "₨"
             }
         },
         "center": {
@@ -825,7 +856,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/np.svg",
         "flag_4x3": "flags/4x3/np.svg"
-    }, {
+    },
+    {
         "code": "KP",
         "cca3": "PRK",
         "name": "North Korea",
@@ -838,7 +870,7 @@
         "currencies": {
             "KPW": {
                 "name": "North Korean won",
-                "symbol": "\\\\u20a9"
+                "symbol": "₩"
             }
         },
         "center": {
@@ -850,7 +882,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/kp.svg",
         "flag_4x3": "flags/4x3/kp.svg"
-    }, {
+    },
+    {
         "code": "OM",
         "cca3": "OMN",
         "name": "Oman",
@@ -863,7 +896,7 @@
         "currencies": {
             "OMR": {
                 "name": "Omani rial",
-                "symbol": "\\\\u0631.\\\\u0639."
+                "symbol": "ر.ع."
             }
         },
         "center": {
@@ -875,7 +908,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/om.svg",
         "flag_4x3": "flags/4x3/om.svg"
-    }, {
+    },
+    {
         "code": "PK",
         "cca3": "PAK",
         "name": "Pakistan",
@@ -889,7 +923,7 @@
         "currencies": {
             "PKR": {
                 "name": "Pakistani rupee",
-                "symbol": "\\\\u20a8"
+                "symbol": "₨"
             }
         },
         "center": {
@@ -901,7 +935,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/pk.svg",
         "flag_4x3": "flags/4x3/pk.svg"
-    }, {
+    },
+    {
         "code": "PH",
         "cca3": "PHL",
         "name": "Philippines",
@@ -915,7 +950,7 @@
         "currencies": {
             "PHP": {
                 "name": "Philippine peso",
-                "symbol": "\\\\u20b1"
+                "symbol": "₱"
             }
         },
         "center": {
@@ -927,7 +962,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ph.svg",
         "flag_4x3": "flags/4x3/ph.svg"
-    }, {
+    },
+    {
         "code": "QA",
         "cca3": "QAT",
         "name": "Qatar",
@@ -940,7 +976,7 @@
         "currencies": {
             "QAR": {
                 "name": "Qatari riyal",
-                "symbol": "\\\\u0631.\\\\u0642"
+                "symbol": "ر.ق"
             }
         },
         "center": {
@@ -952,7 +988,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/qa.svg",
         "flag_4x3": "flags/4x3/qa.svg"
-    }, {
+    },
+    {
         "code": "SA",
         "cca3": "SAU",
         "name": "Saudi Arabia",
@@ -965,7 +1002,7 @@
         "currencies": {
             "SAR": {
                 "name": "Saudi riyal",
-                "symbol": "\\\\u0631.\\\\u0633"
+                "symbol": "ر.س"
             }
         },
         "center": {
@@ -977,7 +1014,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/sa.svg",
         "flag_4x3": "flags/4x3/sa.svg"
-    }, {
+    },
+    {
         "code": "SG",
         "cca3": "SGP",
         "name": "Singapore",
@@ -1005,7 +1043,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/sg.svg",
         "flag_4x3": "flags/4x3/sg.svg"
-    }, {
+    },
+    {
         "code": "KR",
         "cca3": "KOR",
         "name": "South Korea",
@@ -1018,7 +1057,7 @@
         "currencies": {
             "KRW": {
                 "name": "South Korean won",
-                "symbol": "\\\\u20a9"
+                "symbol": "₩"
             }
         },
         "center": {
@@ -1030,7 +1069,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/kr.svg",
         "flag_4x3": "flags/4x3/kr.svg"
-    }, {
+    },
+    {
         "code": "LK",
         "cca3": "LKA",
         "name": "Sri Lanka",
@@ -1044,7 +1084,7 @@
         "currencies": {
             "LKR": {
                 "name": "Sri Lankan rupee",
-                "symbol": "Rs  \\\\u0dbb\\\\u0dd4"
+                "symbol": "Rs  රු"
             }
         },
         "center": {
@@ -1056,7 +1096,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/lk.svg",
         "flag_4x3": "flags/4x3/lk.svg"
-    }, {
+    },
+    {
         "code": "PS",
         "cca3": "PSE",
         "name": "State of Palestine",
@@ -1069,11 +1110,11 @@
         "currencies": {
             "EGP": {
                 "name": "Egyptian pound",
-                "symbol": "E\\\\u00a3"
+                "symbol": "E£"
             },
             "ILS": {
                 "name": "Israeli new shekel",
-                "symbol": "\\\\u20aa"
+                "symbol": "₪"
             },
             "JOD": {
                 "name": "Jordanian dinar",
@@ -1089,7 +1130,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/ps.svg",
         "flag_4x3": "flags/4x3/ps.svg"
-    }, {
+    },
+    {
         "code": "SY",
         "cca3": "SYR",
         "name": "Syria",
@@ -1102,7 +1144,7 @@
         "currencies": {
             "SYP": {
                 "name": "Syrian pound",
-                "symbol": "\\\\u00a3"
+                "symbol": "£"
             }
         },
         "center": {
@@ -1114,7 +1156,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/sy.svg",
         "flag_4x3": "flags/4x3/sy.svg"
-    }, {
+    },
+    {
         "code": "TW",
         "cca3": "TWN",
         "name": "Taiwan",
@@ -1139,7 +1182,8 @@
         "independent": false,
         "flag_1x1": "flags/1x1/tw.svg",
         "flag_4x3": "flags/4x3/tw.svg"
-    }, {
+    },
+    {
         "code": "TJ",
         "cca3": "TJK",
         "name": "Tajikistan",
@@ -1153,7 +1197,7 @@
         "currencies": {
             "TJS": {
                 "name": "Tajikistani somoni",
-                "symbol": "\\\\u0405\\\\u041c"
+                "symbol": "ЅМ"
             }
         },
         "center": {
@@ -1165,7 +1209,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/tj.svg",
         "flag_4x3": "flags/4x3/tj.svg"
-    }, {
+    },
+    {
         "code": "TH",
         "cca3": "THA",
         "name": "Thailand",
@@ -1178,7 +1223,7 @@
         "currencies": {
             "THB": {
                 "name": "Thai baht",
-                "symbol": "\\\\u0e3f"
+                "symbol": "฿"
             }
         },
         "center": {
@@ -1190,7 +1235,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/th.svg",
         "flag_4x3": "flags/4x3/th.svg"
-    }, {
+    },
+    {
         "code": "TL",
         "cca3": "TLS",
         "name": "Timor-Leste",
@@ -1216,7 +1262,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/tl.svg",
         "flag_4x3": "flags/4x3/tl.svg"
-    }, {
+    },
+    {
         "code": "TM",
         "cca3": "TKM",
         "name": "Turkmenistan",
@@ -1242,10 +1289,11 @@
         "independent": true,
         "flag_1x1": "flags/1x1/tm.svg",
         "flag_4x3": "flags/4x3/tm.svg"
-    }, {
+    },
+    {
         "code": "TR",
         "cca3": "TUR",
-        "name": "T\\\\u00fcrkiye",
+        "name": "Türkiye",
         "capital": "Ankara",
         "continent": "Asia",
         "subregion": "Western Asia",
@@ -1255,7 +1303,7 @@
         "currencies": {
             "TRY": {
                 "name": "Turkish lira",
-                "symbol": "\\\\u20ba"
+                "symbol": "₺"
             }
         },
         "center": {
@@ -1267,7 +1315,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/tr.svg",
         "flag_4x3": "flags/4x3/tr.svg"
-    }, {
+    },
+    {
         "code": "AE",
         "cca3": "ARE",
         "name": "United Arab Emirates",
@@ -1280,7 +1329,7 @@
         "currencies": {
             "AED": {
                 "name": "United Arab Emirates dirham",
-                "symbol": "\\\\u062f.\\\\u0625"
+                "symbol": "د.إ"
             }
         },
         "center": {
@@ -1292,7 +1341,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/ae.svg",
         "flag_4x3": "flags/4x3/ae.svg"
-    }, {
+    },
+    {
         "code": "UZ",
         "cca3": "UZB",
         "name": "Uzbekistan",
@@ -1305,7 +1355,7 @@
         },
         "currencies": {
             "UZS": {
-                "name": "Uzbekistani so\\\\u02bbm",
+                "name": "Uzbekistani soʻm",
                 "symbol": "so'm"
             }
         },
@@ -1318,7 +1368,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/uz.svg",
         "flag_4x3": "flags/4x3/uz.svg"
-    }, {
+    },
+    {
         "code": "VN",
         "cca3": "VNM",
         "name": "Vietnam",
@@ -1330,8 +1381,8 @@
         },
         "currencies": {
             "VND": {
-                "name": "Vietnamese \\\\u0111\\\\u1ed3ng",
-                "symbol": "\\\\u20ab"
+                "name": "Vietnamese đồng",
+                "symbol": "₫"
             }
         },
         "center": {
@@ -1343,7 +1394,8 @@
         "independent": true,
         "flag_1x1": "flags/1x1/vn.svg",
         "flag_4x3": "flags/4x3/vn.svg"
-    }, {
+    },
+    {
         "code": "YE",
         "cca3": "YEM",
         "name": "Yemen",
@@ -1356,7 +1408,7 @@
         "currencies": {
             "YER": {
                 "name": "Yemeni rial",
-                "symbol": "\\\\ufdfc"
+                "symbol": "﷼"
             }
         },
         "center": {

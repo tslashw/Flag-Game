@@ -1,0 +1,689 @@
+[
+    {
+        "code": "AS",
+        "cca3": "ASM",
+        "name": "American Samoa",
+        "capital": "Pago Pago",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-14.30634641",
+            "longitude": "-170.69501750",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/as.svg",
+        "flag_4x3": "flags/4x3/as.svg"
+    },
+    {
+        "code": "AU",
+        "cca3": "AUS",
+        "name": "Australia",
+        "capital": "Canberra",
+        "continent": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-26.29594646",
+            "longitude": "133.55540944",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/au.svg",
+        "flag_4x3": "flags/4x3/au.svg"
+    },
+    {
+        "code": "CK",
+        "cca3": "COK",
+        "name": "Cook Islands",
+        "capital": "Avarua",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "rar": "Cook Islands Māori"
+        },
+        "currencies": {
+            "CKD": {
+                "name": "Cook Islands dollar",
+                "symbol": "$"
+            },
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-21.23673066",
+            "longitude": "-159.77766900",
+            "zoom": "13"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ck.svg",
+        "flag_4x3": "flags/4x3/ck.svg"
+    },
+    {
+        "code": "FM",
+        "cca3": "FSM",
+        "name": "Federated States of Micronesia",
+        "capital": "Palikir",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "6.88747377",
+            "longitude": "158.21507170",
+            "zoom": "12"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fm.svg",
+        "flag_4x3": "flags/4x3/fm.svg"
+    },
+    {
+        "code": "FJ",
+        "cca3": "FJI",
+        "name": "Fiji",
+        "capital": "Suva",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English",
+            "fij": "Fijian",
+            "hif": "Fiji Hindi"
+        },
+        "currencies": {
+            "FJD": {
+                "name": "Fijian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-17.71219757",
+            "longitude": "178.06503600",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fj.svg",
+        "flag_4x3": "flags/4x3/fj.svg"
+    },
+    {
+        "code": "PF",
+        "cca3": "PYF",
+        "name": "French Polynesia",
+        "capital": "Papeete",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "₣"
+            }
+        },
+        "center": {
+            "latitude": "-17.66243898",
+            "longitude": "-149.40683900",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/pf.svg",
+        "flag_4x3": "flags/4x3/pf.svg"
+    },
+    {
+        "code": "GU",
+        "cca3": "GUM",
+        "name": "Guam",
+        "capital": "Hagåtña",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "cha": "Chamorro",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.44410137",
+            "longitude": "144.80747791",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gu.svg",
+        "flag_4x3": "flags/4x3/gu.svg"
+    },
+    {
+        "code": "KI",
+        "cca3": "KIR",
+        "name": "Kiribati",
+        "capital": "South Tarawa",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "gil": "Gilbertese"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "KID": {
+                "name": "Kiribati dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "1.87085244",
+            "longitude": "-157.36259310",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ki.svg",
+        "flag_4x3": "flags/4x3/ki.svg"
+    },
+    {
+        "code": "MH",
+        "cca3": "MHL",
+        "name": "Marshall Islands",
+        "capital": "Majuro",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "mah": "Marshallese"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "7.30130732",
+            "longitude": "168.75512619",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mh.svg",
+        "flag_4x3": "flags/4x3/mh.svg"
+    },
+    {
+        "code": "NR",
+        "cca3": "NRU",
+        "name": "Nauru",
+        "capital": "Yaren District",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "nau": "Nauru"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-0.52586763",
+            "longitude": "166.93270463",
+            "zoom": "13"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/nr.svg",
+        "flag_4x3": "flags/4x3/nr.svg"
+    },
+    {
+        "code": "NC",
+        "cca3": "NCL",
+        "name": "New Caledonia",
+        "capital": "Nouméa",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "₣"
+            }
+        },
+        "center": {
+            "latitude": "-21.26104020",
+            "longitude": "165.58783760",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/nc.svg",
+        "flag_4x3": "flags/4x3/nc.svg"
+    },
+    {
+        "code": "NZ",
+        "cca3": "NZL",
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "continent": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English",
+            "mri": "Māori",
+            "nzs": "New Zealand Sign Language"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-40.95025298",
+            "longitude": "171.76586181",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/nz.svg",
+        "flag_4x3": "flags/4x3/nz.svg"
+    },
+    {
+        "code": "NU",
+        "cca3": "NIU",
+        "name": "Niue",
+        "capital": "Alofi",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "niu": "Niuean"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-19.04976362",
+            "longitude": "-169.86585571",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/nu.svg",
+        "flag_4x3": "flags/4x3/nu.svg"
+    },
+    {
+        "code": "NF",
+        "cca3": "NFK",
+        "name": "Norfolk Island",
+        "capital": "Kingston",
+        "continent": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "languages": {
+            "eng": "English",
+            "pih": "Norfuk"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-29.02801043",
+            "longitude": "167.94303023",
+            "zoom": "13"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/nf.svg",
+        "flag_4x3": "flags/4x3/nf.svg"
+    },
+    {
+        "code": "MP",
+        "cca3": "MNP",
+        "name": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "cal": "Carolinian",
+            "cha": "Chamorro",
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "15.09783636",
+            "longitude": "145.67390000",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/mp.svg",
+        "flag_4x3": "flags/4x3/mp.svg"
+    },
+    {
+        "code": "PW",
+        "cca3": "PLW",
+        "name": "Palau",
+        "capital": "Ngerulmud",
+        "continent": "Oceania",
+        "subregion": "Micronesia",
+        "languages": {
+            "eng": "English",
+            "pau": "Palauan"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "7.49856307",
+            "longitude": "134.57291496",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pw.svg",
+        "flag_4x3": "flags/4x3/pw.svg"
+    },
+    {
+        "code": "PG",
+        "cca3": "PNG",
+        "name": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English",
+            "hmo": "Hiri Motu",
+            "tpi": "Tok Pisin"
+        },
+        "currencies": {
+            "PGK": {
+                "name": "Papua New Guinean kina",
+                "symbol": "K"
+            }
+        },
+        "center": {
+            "latitude": "-6.62414046",
+            "longitude": "144.44993477",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pg.svg",
+        "flag_4x3": "flags/4x3/pg.svg"
+    },
+    {
+        "code": "PN",
+        "cca3": "PCN",
+        "name": "Pitcairn",
+        "capital": "Adamstown",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-24.37673925",
+            "longitude": "-128.32423730",
+            "zoom": "13"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/pn.svg",
+        "flag_4x3": "flags/4x3/pn.svg"
+    },
+    {
+        "code": "WS",
+        "cca3": "WSM",
+        "name": "Samoa",
+        "capital": "Apia",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan"
+        },
+        "currencies": {
+            "WST": {
+                "name": "Samoan tālā",
+                "symbol": "T"
+            }
+        },
+        "center": {
+            "latitude": "-13.57998954",
+            "longitude": "-172.45207363",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ws.svg",
+        "flag_4x3": "flags/4x3/ws.svg"
+    },
+    {
+        "code": "SB",
+        "cca3": "SLB",
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "SBD": {
+                "name": "Solomon Islands dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-9.64554280",
+            "longitude": "160.15619400",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sb.svg",
+        "flag_4x3": "flags/4x3/sb.svg"
+    },
+    {
+        "code": "TK",
+        "cca3": "TKL",
+        "name": "Tokelau",
+        "capital": "Nukunonu, Atafu,Tokelau",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "smo": "Samoan",
+            "tkl": "Tokelauan"
+        },
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-9.16682644",
+            "longitude": "-171.83981693",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/tk.svg",
+        "flag_4x3": "flags/4x3/tk.svg"
+    },
+    {
+        "code": "TO",
+        "cca3": "TON",
+        "name": "Tonga",
+        "capital": "Nukuʻalofa",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "ton": "Tongan"
+        },
+        "currencies": {
+            "TOP": {
+                "name": "Tongan paʻanga",
+                "symbol": "T$"
+            }
+        },
+        "center": {
+            "latitude": "-21.17890075",
+            "longitude": "-175.19824200",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/to.svg",
+        "flag_4x3": "flags/4x3/to.svg"
+    },
+    {
+        "code": "TV",
+        "cca3": "TUV",
+        "name": "Tuvalu",
+        "capital": "Funafuti",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "eng": "English",
+            "tvl": "Tuvaluan"
+        },
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "TVD": {
+                "name": "Tuvaluan dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-8.45968122",
+            "longitude": "179.13310944",
+            "zoom": "12"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tv.svg",
+        "flag_4x3": "flags/4x3/tv.svg"
+    },
+    {
+        "code": "VU",
+        "cca3": "VUT",
+        "name": "Vanuatu",
+        "capital": "Port Vila",
+        "continent": "Oceania",
+        "subregion": "Melanesia",
+        "languages": {
+            "bis": "Bislama",
+            "eng": "English",
+            "fra": "French"
+        },
+        "currencies": {
+            "VUV": {
+                "name": "Vanuatu vatu",
+                "symbol": "Vt"
+            }
+        },
+        "center": {
+            "latitude": "-15.37256614",
+            "longitude": "166.95916000",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/vu.svg",
+        "flag_4x3": "flags/4x3/vu.svg"
+    },
+    {
+        "code": "WF",
+        "cca3": "WLF",
+        "name": "Wallis and Futuna",
+        "capital": "Mata-Utu",
+        "continent": "Oceania",
+        "subregion": "Polynesia",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "₣"
+            }
+        },
+        "center": {
+            "latitude": "-14.29378486",
+            "longitude": "-178.11649800",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/wf.svg",
+        "flag_4x3": "flags/4x3/wf.svg"
+    }
+]

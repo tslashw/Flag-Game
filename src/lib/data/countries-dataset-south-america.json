@@ -1,0 +1,482 @@
+[
+    {
+        "code": "AR",
+        "cca3": "ARG",
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaraní",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "ARS": {
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-38.01529308",
+            "longitude": "-64.97897469",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ar.svg",
+        "flag_4x3": "flags/4x3/ar.svg"
+    },
+    {
+        "code": "AW",
+        "cca3": "ABW",
+        "name": "Aruba",
+        "capital": "Oranjestad",
+        "continent": "South America",
+        "subregion": "Caribbean",
+        "languages": {
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "currencies": {
+            "AWG": {
+                "name": "Aruban florin",
+                "symbol": "ƒ"
+            }
+        },
+        "center": {
+            "latitude": "12.52109661",
+            "longitude": "-69.96833800",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/aw.svg",
+        "flag_4x3": "flags/4x3/aw.svg"
+    },
+    {
+        "code": "BO",
+        "cca3": "BOL",
+        "name": "Bolivia",
+        "capital": "Sucre",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "grn": "Guaraní",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "BOB": {
+                "name": "Bolivian boliviano",
+                "symbol": "Bs."
+            }
+        },
+        "center": {
+            "latitude": "-16.74518128",
+            "longitude": "-65.19265691",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bo.svg",
+        "flag_4x3": "flags/4x3/bo.svg"
+    },
+    {
+        "code": "BQ",
+        "cca3": "BES",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "capital": "Kralendijk",
+        "continent": "South America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "12.17229702",
+            "longitude": "-68.28831170",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/bq.svg",
+        "flag_4x3": "flags/4x3/bq.svg"
+    },
+    {
+        "code": "BR",
+        "cca3": "BRA",
+        "name": "Brazil",
+        "capital": "Brasília",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "BRL": {
+                "name": "Brazilian real",
+                "symbol": "R$"
+            }
+        },
+        "center": {
+            "latitude": "-11.80965046",
+            "longitude": "-53.33152600",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/br.svg",
+        "flag_4x3": "flags/4x3/br.svg"
+    },
+    {
+        "code": "CL",
+        "cca3": "CHL",
+        "name": "Chile",
+        "capital": "Santiago",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "CLP": {
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-38.01760790",
+            "longitude": "-71.40014474",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cl.svg",
+        "flag_4x3": "flags/4x3/cl.svg"
+    },
+    {
+        "code": "CO",
+        "cca3": "COL",
+        "name": "Colombia",
+        "capital": "Bogotá",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "COP": {
+                "name": "Colombian peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "3.68182320",
+            "longitude": "-73.53927436",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/co.svg",
+        "flag_4x3": "flags/4x3/co.svg"
+    },
+    {
+        "code": "CW",
+        "cca3": "CUW",
+        "name": "Curaçao",
+        "capital": "Willemstad",
+        "continent": "South America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "ƒ"
+            }
+        },
+        "center": {
+            "latitude": "12.20710309",
+            "longitude": "-69.02160369",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/cw.svg",
+        "flag_4x3": "flags/4x3/cw.svg"
+    },
+    {
+        "code": "EC",
+        "cca3": "ECU",
+        "name": "Ecuador",
+        "capital": "Quito",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-1.22919037",
+            "longitude": "-78.55693916",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ec.svg",
+        "flag_4x3": "flags/4x3/ec.svg"
+    },
+    {
+        "code": "FK",
+        "cca3": "FLK",
+        "name": "Falkland Islands",
+        "capital": "Stanley",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "FKP": {
+                "name": "Falkland Islands pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "-51.78838251",
+            "longitude": "-59.52361100",
+            "zoom": "8"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/fk.svg",
+        "flag_4x3": "flags/4x3/fk.svg"
+    },
+    {
+        "code": "GF",
+        "cca3": "GUF",
+        "name": "French Guiana",
+        "capital": "Cayenne",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "4.01114381",
+            "longitude": "-52.97746057",
+            "zoom": "7"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gf.svg",
+        "flag_4x3": "flags/4x3/gf.svg"
+    },
+    {
+        "code": "GY",
+        "cca3": "GUY",
+        "name": "Guyana",
+        "capital": "Georgetown",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GYD": {
+                "name": "Guyanese dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "4.47957059",
+            "longitude": "-58.72692293",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gy.svg",
+        "flag_4x3": "flags/4x3/gy.svg"
+    },
+    {
+        "code": "PY",
+        "cca3": "PRY",
+        "name": "Paraguay",
+        "capital": "Asunción",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaraní",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "PYG": {
+                "name": "Paraguayan guaraní",
+                "symbol": "₲"
+            }
+        },
+        "center": {
+            "latitude": "-23.38564782",
+            "longitude": "-58.29551057",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/py.svg",
+        "flag_4x3": "flags/4x3/py.svg"
+    },
+    {
+        "code": "PE",
+        "cca3": "PER",
+        "name": "Peru",
+        "capital": "Lima",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "PEN": {
+                "name": "Peruvian sol",
+                "symbol": "S/."
+            }
+        },
+        "center": {
+            "latitude": "-8.50205247",
+            "longitude": "-76.15772412",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pe.svg",
+        "flag_4x3": "flags/4x3/pe.svg"
+    },
+    {
+        "code": "SR",
+        "cca3": "SUR",
+        "name": "Suriname",
+        "capital": "Paramaribo",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "nld": "Dutch"
+        },
+        "currencies": {
+            "SRD": {
+                "name": "Surinamese dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "4.26470865",
+            "longitude": "-55.93988238",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sr.svg",
+        "flag_4x3": "flags/4x3/sr.svg"
+    },
+    {
+        "code": "TT",
+        "cca3": "TTO",
+        "name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "continent": "South America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "TTD": {
+                "name": "Trinidad and Tobago dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "10.43241863",
+            "longitude": "-61.22250300",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/tt.svg",
+        "flag_4x3": "flags/4x3/tt.svg"
+    },
+    {
+        "code": "UY",
+        "cca3": "URY",
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "UYU": {
+                "name": "Uruguayan peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "-32.49342987",
+            "longitude": "-55.76583300",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/uy.svg",
+        "flag_4x3": "flags/4x3/uy.svg"
+    },
+    {
+        "code": "VE",
+        "cca3": "VEN",
+        "name": "Venezuela",
+        "capital": "Caracas",
+        "continent": "South America",
+        "subregion": "South America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "VES": {
+                "name": "Venezuelan bolívar soberano",
+                "symbol": "Bs.S."
+            }
+        },
+        "center": {
+            "latitude": "5.98477766",
+            "longitude": "-65.94152264",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ve.svg",
+        "flag_4x3": "flags/4x3/ve.svg"
+    }
+]

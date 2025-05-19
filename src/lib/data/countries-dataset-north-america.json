@@ -1,0 +1,1010 @@
+[
+    {
+        "code": "AI",
+        "cca3": "AIA",
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.22053521",
+            "longitude": "-63.06861300",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ai.svg",
+        "flag_4x3": "flags/4x3/ai.svg"
+    },
+    {
+        "code": "AG",
+        "cca3": "ATG",
+        "name": "Antigua and Barbuda",
+        "capital": "St. John's",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "17.48060423",
+            "longitude": "-61.42014426",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ag.svg",
+        "flag_4x3": "flags/4x3/ag.svg"
+    },
+    {
+        "code": "BS",
+        "cca3": "BHS",
+        "name": "Bahamas",
+        "capital": "Nassau",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "BSD": {
+                "name": "Bahamian dollar",
+                "symbol": "$"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "24.45991732",
+            "longitude": "-77.68192453",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bs.svg",
+        "flag_4x3": "flags/4x3/bs.svg"
+    },
+    {
+        "code": "BB",
+        "cca3": "BRB",
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "BBD": {
+                "name": "Barbadian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.19383077",
+            "longitude": "-59.54319600",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bb.svg",
+        "flag_4x3": "flags/4x3/bb.svg"
+    },
+    {
+        "code": "BZ",
+        "cca3": "BLZ",
+        "name": "Belize",
+        "capital": "Belmopan",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "bjz": "Belizean Creole",
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "BZD": {
+                "name": "Belize dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "17.21153631",
+            "longitude": "-88.01424956",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/bz.svg",
+        "flag_4x3": "flags/4x3/bz.svg"
+    },
+    {
+        "code": "BM",
+        "cca3": "BMU",
+        "name": "Bermuda",
+        "capital": "Hamilton",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "BMD": {
+                "name": "Bermudian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "32.31995785",
+            "longitude": "-64.76182765",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/bm.svg",
+        "flag_4x3": "flags/4x3/bm.svg"
+    },
+    {
+        "code": "CA",
+        "cca3": "CAN",
+        "name": "Canada",
+        "capital": "Ottawa",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English",
+            "fra": "French"
+        },
+        "currencies": {
+            "CAD": {
+                "name": "Canadian dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "60.36196817",
+            "longitude": "-106.69833150",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ca.svg",
+        "flag_4x3": "flags/4x3/ca.svg"
+    },
+    {
+        "code": "KY",
+        "cca3": "CYM",
+        "name": "Cayman Islands",
+        "capital": "George Town",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "KYD": {
+                "name": "Cayman Islands dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "19.31322102",
+            "longitude": "-81.25459800",
+            "zoom": "11"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ky.svg",
+        "flag_4x3": "flags/4x3/ky.svg"
+    },
+    {
+        "code": "CR",
+        "cca3": "CRI",
+        "name": "Costa Rica",
+        "capital": "San José",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican colón",
+                "symbol": "₡"
+            }
+        },
+        "center": {
+            "latitude": "9.98427463",
+            "longitude": "-84.09949534",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cr.svg",
+        "flag_4x3": "flags/4x3/cr.svg"
+    },
+    {
+        "code": "CU",
+        "cca3": "CUB",
+        "name": "Cuba",
+        "capital": "Havana",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "CUC": {
+                "name": "Cuban convertible peso",
+                "symbol": "$"
+            },
+            "CUP": {
+                "name": "Cuban peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "21.54513189",
+            "longitude": "-79.00064743",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/cu.svg",
+        "flag_4x3": "flags/4x3/cu.svg"
+    },
+    {
+        "code": "DM",
+        "cca3": "DMA",
+        "name": "Dominica",
+        "capital": "Roseau",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "15.41473963",
+            "longitude": "-61.37097400",
+            "zoom": "10"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/dm.svg",
+        "flag_4x3": "flags/4x3/dm.svg"
+    },
+    {
+        "code": "DO",
+        "cca3": "DOM",
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "DOP": {
+                "name": "Dominican peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.73076761",
+            "longitude": "-70.16264900",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/do.svg",
+        "flag_4x3": "flags/4x3/do.svg"
+    },
+    {
+        "code": "SV",
+        "cca3": "SLV",
+        "name": "El Salvador",
+        "capital": "San Salvador",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.79043561",
+            "longitude": "-88.89652800",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/sv.svg",
+        "flag_4x3": "flags/4x3/sv.svg"
+    },
+    {
+        "code": "GL",
+        "cca3": "GRL",
+        "name": "Greenland",
+        "capital": "Nuuk",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "kal": "Greenlandic"
+        },
+        "currencies": {
+            "DKK": {
+                "name": "krone",
+                "symbol": "kr."
+            }
+        },
+        "center": {
+            "latitude": "71.42932629",
+            "longitude": "-34.38651956",
+            "zoom": "3"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gl.svg",
+        "flag_4x3": "flags/4x3/gl.svg"
+    },
+    {
+        "code": "GD",
+        "cca3": "GRD",
+        "name": "Grenada",
+        "capital": "St. George's",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "12.11644807",
+            "longitude": "-61.67899400",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gd.svg",
+        "flag_4x3": "flags/4x3/gd.svg"
+    },
+    {
+        "code": "GP",
+        "cca3": "GLP",
+        "name": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "16.26472785",
+            "longitude": "-61.55099400",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/gp.svg",
+        "flag_4x3": "flags/4x3/gp.svg"
+    },
+    {
+        "code": "GT",
+        "cca3": "GTM",
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "GTQ": {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q"
+            }
+        },
+        "center": {
+            "latitude": "15.72598421",
+            "longitude": "-89.96707712",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gt.svg",
+        "flag_4x3": "flags/4x3/gt.svg"
+    },
+    {
+        "code": "HT",
+        "cca3": "HTI",
+        "name": "Haiti",
+        "capital": "Port-au-Prince",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French",
+            "hat": "Haitian Creole"
+        },
+        "currencies": {
+            "HTG": {
+                "name": "Haitian gourde",
+                "symbol": "G"
+            }
+        },
+        "center": {
+            "latitude": "19.07430861",
+            "longitude": "-72.79607526",
+            "zoom": "8"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ht.svg",
+        "flag_4x3": "flags/4x3/ht.svg"
+    },
+    {
+        "code": "HN",
+        "cca3": "HND",
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "HNL": {
+                "name": "Honduran lempira",
+                "symbol": "L"
+            }
+        },
+        "center": {
+            "latitude": "14.64994423",
+            "longitude": "-87.01643713",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/hn.svg",
+        "flag_4x3": "flags/4x3/hn.svg"
+    },
+    {
+        "code": "JM",
+        "cca3": "JAM",
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "jam": "Jamaican Patois"
+        },
+        "currencies": {
+            "JMD": {
+                "name": "Jamaican dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.10838487",
+            "longitude": "-77.29750600",
+            "zoom": "9"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/jm.svg",
+        "flag_4x3": "flags/4x3/jm.svg"
+    },
+    {
+        "code": "MQ",
+        "cca3": "MTQ",
+        "name": "Martinique",
+        "capital": "Fort-de-France",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "14.64128045",
+            "longitude": "-61.02417600",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/mq.svg",
+        "flag_4x3": "flags/4x3/mq.svg"
+    },
+    {
+        "code": "MX",
+        "cca3": "MEX",
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "MXN": {
+                "name": "Mexican peso",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "22.92036676",
+            "longitude": "-102.33305344",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/mx.svg",
+        "flag_4x3": "flags/4x3/mx.svg"
+    },
+    {
+        "code": "MS",
+        "cca3": "MSR",
+        "name": "Montserrat",
+        "capital": "Little Bay, Brades, Plymouth",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "16.74774077",
+            "longitude": "-62.18736600",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/ms.svg",
+        "flag_4x3": "flags/4x3/ms.svg"
+    },
+    {
+        "code": "NI",
+        "cca3": "NIC",
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "NIO": {
+                "name": "Nicaraguan córdoba",
+                "symbol": "C$"
+            }
+        },
+        "center": {
+            "latitude": "12.91806226",
+            "longitude": "-84.82270352",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ni.svg",
+        "flag_4x3": "flags/4x3/ni.svg"
+    },
+    {
+        "code": "PA",
+        "cca3": "PAN",
+        "name": "Panama",
+        "capital": "Panama City",
+        "continent": "North America",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "PAB": {
+                "name": "Panamanian balboa",
+                "symbol": "B/."
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "8.52135102",
+            "longitude": "-80.04603702",
+            "zoom": "7"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pa.svg",
+        "flag_4x3": "flags/4x3/pa.svg"
+    },
+    {
+        "code": "PR",
+        "cca3": "PRI",
+        "name": "Puerto Rico",
+        "capital": "San Juan",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.21963053",
+            "longitude": "-66.59015100",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/pr.svg",
+        "flag_4x3": "flags/4x3/pr.svg"
+    },
+    {
+        "code": "BL",
+        "cca3": "BLM",
+        "name": "Saint Barthélemy",
+        "capital": "Gustavia",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "17.90042417",
+            "longitude": "-62.83376215",
+            "zoom": "13"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/bl.svg",
+        "flag_4x3": "flags/4x3/bl.svg"
+    },
+    {
+        "code": "KN",
+        "cca3": "KNA",
+        "name": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "17.33453669",
+            "longitude": "-62.76411725",
+            "zoom": "12"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/kn.svg",
+        "flag_4x3": "flags/4x3/kn.svg"
+    },
+    {
+        "code": "LC",
+        "cca3": "LCA",
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.90938495",
+            "longitude": "-60.97889500",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/lc.svg",
+        "flag_4x3": "flags/4x3/lc.svg"
+    },
+    {
+        "code": "MF",
+        "cca3": "MAF",
+        "name": "Saint Martin",
+        "capital": "Marigot",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "18.07637107",
+            "longitude": "-63.05019106",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/mf.svg",
+        "flag_4x3": "flags/4x3/mf.svg"
+    },
+    {
+        "code": "PM",
+        "cca3": "SPM",
+        "name": "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "46.88469499",
+            "longitude": "-56.31590200",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/pm.svg",
+        "flag_4x3": "flags/4x3/pm.svg"
+    },
+    {
+        "code": "VC",
+        "cca3": "VCT",
+        "name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "13.25276143",
+            "longitude": "-61.19709800",
+            "zoom": "11"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/vc.svg",
+        "flag_4x3": "flags/4x3/vc.svg"
+    },
+    {
+        "code": "SX",
+        "cca3": "SXM",
+        "name": "Sint Maarten",
+        "capital": "Philipsburg",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English",
+            "fra": "French",
+            "nld": "Dutch"
+        },
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "ƒ"
+            }
+        },
+        "center": {
+            "latitude": "18.04433885",
+            "longitude": "-63.05616320",
+            "zoom": "12"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/sx.svg",
+        "flag_4x3": "flags/4x3/sx.svg"
+    },
+    {
+        "code": "TC",
+        "cca3": "TCA",
+        "name": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "21.72816866",
+            "longitude": "-71.79654471",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/tc.svg",
+        "flag_4x3": "flags/4x3/tc.svg"
+    },
+    {
+        "code": "UM",
+        "cca3": "UMI",
+        "name": "United States Minor Outlying Islands",
+        "capital": "Washington, D.C.",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "19.46305694",
+            "longitude": "177.98631092",
+            "zoom": "5"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/um.svg",
+        "flag_4x3": "flags/4x3/um.svg"
+    },
+    {
+        "code": "US",
+        "cca3": "USA",
+        "name": "United States of America",
+        "capital": "Washington, D.C.",
+        "continent": "North America",
+        "subregion": "North America",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "37.66895362",
+            "longitude": "-102.39256450",
+            "zoom": "4"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/us.svg",
+        "flag_4x3": "flags/4x3/us.svg"
+    },
+    {
+        "code": "VG",
+        "cca3": "VGB",
+        "name": "Virgin Islands (British)",
+        "capital": "Road Town",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "17.67004187",
+            "longitude": "-64.77411010",
+            "zoom": "10"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/vg.svg",
+        "flag_4x3": "flags/4x3/vg.svg"
+    },
+    {
+        "code": "VI",
+        "cca3": "VIR",
+        "name": "Virgin Islands (U.S.)",
+        "capital": "Charlotte Amalie",
+        "continent": "North America",
+        "subregion": "Caribbean",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "center": {
+            "latitude": "18.01000938",
+            "longitude": "-64.77411410",
+            "zoom": "9"
+        },
+        "unMember": false,
+        "independent": false,
+        "flag_1x1": "flags/1x1/vi.svg",
+        "flag_4x3": "flags/4x3/vi.svg"
+    }
+]

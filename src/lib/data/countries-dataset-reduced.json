@@ -1,0 +1,263 @@
+[
+    {
+        "code": "FR",
+        "cca3": "FRA",
+        "name": "France",
+        "capital": "Paris",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "46.48372145",
+            "longitude": "2.60926281",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/fr.svg",
+        "flag_4x3": "flags/4x3/fr.svg"
+    },
+    {
+        "code": "DE",
+        "cca3": "DEU",
+        "name": "Germany",
+        "capital": "Berlin",
+        "continent": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "deu": "German"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "50.82871201",
+            "longitude": "10.97887975",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/de.svg",
+        "flag_4x3": "flags/4x3/de.svg"
+    },
+    {
+        "code": "IE",
+        "cca3": "IRL",
+        "name": "Ireland",
+        "capital": "Dublin",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "53.10101628",
+            "longitude": "-8.21092302",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/ie.svg",
+        "flag_4x3": "flags/4x3/ie.svg"
+    },
+    {
+        "code": "IT",
+        "cca3": "ITA",
+        "name": "Italy",
+        "capital": "Rome",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "41.77810840",
+            "longitude": "12.67725128",
+            "zoom": "5"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/it.svg",
+        "flag_4x3": "flags/4x3/it.svg"
+    },
+    {
+        "code": "PT",
+        "cca3": "PRT",
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "por": "Portuguese"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "39.44879136",
+            "longitude": "-8.03768042",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/pt.svg",
+        "flag_4x3": "flags/4x3/pt.svg"
+    },
+    {
+        "code": "ES",
+        "cca3": "ESP",
+        "name": "Spain",
+        "capital": "Madrid",
+        "continent": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "center": {
+            "latitude": "39.87299401",
+            "longitude": "-3.67089492",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/es.svg",
+        "flag_4x3": "flags/4x3/es.svg"
+    },
+    {
+        "code": "GB",
+        "cca3": "GBR",
+        "name": "United Kingdom",
+        "capital": "London",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "53.36540813",
+            "longitude": "-2.72184767",
+            "zoom": "6"
+        },
+        "unMember": true,
+        "independent": true,
+        "flag_1x1": "flags/1x1/gb.svg",
+        "flag_4x3": "flags/4x3/gb.svg"
+    },
+    {
+        "code": "GB-ENG",
+        "cca3": "",
+        "name": "England",
+        "capital": "London",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-eng.svg",
+        "flag_4x3": "flags/4x3/gb-eng.svg"
+    },
+    {
+        "code": "gb-wls",
+        "name": "Wales",
+        "capital": "Cardiff",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "wel": "Welsh"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-wls.svg",
+        "flag_4x3": "flags/4x3/gb-wls.svg"
+    },
+    {
+        "code": "gb-sct",
+        "cca3": "",
+        "name": "Scotland",
+        "capital": "Edinburgh",
+        "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
+        "flag_1x1": "flags/1x1/gb-sct.svg",
+        "flag_4x3": "flags/4x3/gb-sct.svg"
+    }
+]

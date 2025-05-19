@@ -65,13 +65,30 @@
         "name": "East African Community"
     },
     {
+        "code": "GB-ENG",
+        "cca3": "",
+        "name": "England",
         "capital": "London",
-        "code": "gb-eng",
         "continent": "Europe",
+        "subregion" : "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
         "flag_1x1": "flags/1x1/gb-eng.svg",
-        "flag_4x3": "flags/4x3/gb-eng.svg",
-        "iso": false,
-        "name": "England"
+        "flag_4x3": "flags/4x3/gb-eng.svg"
     },
     {
         "code": "eu",
@@ -104,13 +121,31 @@
         "name": "League of Arab States"
     },
     {
-        "capital": "Belfast",
         "code": "gb-nir",
+        "cca3": "",
+        "name": "Northern Ireland",
+        "capital": "Belfast",
         "continent": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
         "flag_1x1": "flags/1x1/gb-nir.svg",
-        "flag_4x3": "flags/4x3/gb-nir.svg",
-        "iso": false,
-        "name": "Northern Ireland"
+        "flag_4x3": "flags/4x3/gb-nir.svg"
     },
     {
         "code": "pc",
@@ -129,13 +164,31 @@
         "name": "Saint Helena"
     },
     {
-        "capital": "Edinburgh",
         "code": "gb-sct",
+        "cca3": "",
+        "name": "Scotland",
+        "capital": "Edinburgh",
         "continent": "Europe",
+        "subregion":"Northern Europe",
+        "languages": {
+            "eng": "English",
+            "gle": "Irish"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
         "flag_1x1": "flags/1x1/gb-sct.svg",
-        "flag_4x3": "flags/4x3/gb-sct.svg",
-        "iso": false,
-        "name": "Scotland"
+        "flag_4x3": "flags/4x3/gb-sct.svg"
     },
     {
         "capital": "Edinburgh of the Seven Seas",
@@ -161,12 +214,29 @@
         "name": "Unknown"
     },
     {
-        "capital": "Cardiff",
         "code": "gb-wls",
+        "name": "Wales",
+        "capital": "Cardiff",
         "continent": "Europe",
+        "subregion":"Northern Europe",
+        "languages": {
+            "eng": "English",
+            "wel": "Welsh"
+        },
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\\u00a3"
+            }
+        },
+        "center": {
+            "latitude": "",
+            "longitude": "",
+            "zoom": ""
+        },
+        "unMember": "",
+        "independent": "",
         "flag_1x1": "flags/1x1/gb-wls.svg",
-        "flag_4x3": "flags/4x3/gb-wls.svg",
-        "iso": false,
-        "name": "Wales"
+        "flag_4x3": "flags/4x3/gb-wls.svg"
     }
 ]
