@@ -60,7 +60,7 @@
 		<button onclick={() => game = new GameRunner("africa")} class="answer-button main-font">AFRICA</button>
 		<button onclick={() => game = new GameRunner("easy")} class="answer-button main-font">EASY MODE</button>
 	</div>
-	<p>Game created by Tommy Wilson</p>
+	<p class="main-font">Game created by Tommy Wilson</p>
 </div>
 {/if}
 
@@ -258,12 +258,11 @@
         /* size: 200%; */
 		width: 50%;
 		margin-left: 25%;
-		margin-bottom: 1rem;
-		margin-top: 1rem;
+		margin-bottom: 0.5rem;
+		margin-top: 0.5rem;
 		background-color: white;
 		border: solid black 5px;
 		border-radius: 1rem;
-		padding: 0.5rem 0 0.5rem 0;
     }
 
     .lives {
@@ -280,11 +279,23 @@
 		object-fit: contain;
     }
 
-	.main-font {
-		color: black;
-		font-family: "Tomorrow", sans-serif;
-  		font-weight: 400;
-  		font-style: normal;
+	@media (height <= 550px) {
+		.main-font {
+			color: black;
+			font-family: "Tomorrow", sans-serif;
+			font-weight: 400;
+			font-style: normal;
+			font-size: small;
+		}
+	}
+	@media (height >= 550px) {
+		.main-font {
+			color: black;
+			font-family: "Tomorrow", sans-serif;
+			font-weight: 400;
+			font-style: normal;
+			font-size: large;
+		}
 	}
 
 	.game-over {
