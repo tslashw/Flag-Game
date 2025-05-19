@@ -28,11 +28,17 @@
 		}
 		showModal = true;
 	}
+
+	let resetGame = () => {
+		game.gameRunning = false;
+		game.gameOver = false;
+		game = "";
+	}
 </script>
 
 <svelte:head>
-	<title>Flag Quiz</title>
-	<meta name="description" content="A flag quiz" />
+	<title>Flag Game</title>
+	<meta name="description" content="A flag quiz game" />
 </svelte:head>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -48,6 +54,11 @@
 		<button onclick={() => game = new GameRunner("world")} class="answer-button main-font">WHOLE WORLD</button>
 		<button onclick={() => game = new GameRunner("asia")} class="answer-button main-font">ASIA</button>
 		<button onclick={() => game = new GameRunner("europe")} class="answer-button main-font">EUROPE</button>
+		<button onclick={() => game = new GameRunner("north-america")} class="answer-button main-font">NORTH AMERICA</button>
+		<button onclick={() => game = new GameRunner("south-america")} class="answer-button main-font">SOUTH AMERICA</button>
+		<button onclick={() => game = new GameRunner("oceania")} class="answer-button main-font">OCEANIA</button>
+		<button onclick={() => game = new GameRunner("africa")} class="answer-button main-font">AFRICA</button>
+		<button onclick={() => game = new GameRunner("easy")} class="answer-button main-font">EASY MODE</button>
 	</div>
 	<p>Game created by Tommy Wilson</p>
 </div>
@@ -75,29 +86,29 @@
 		<!-- Lives -->
 		<div class="lives">
 			{#if game.lives == 5}
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
 			{/if}
 			{#if game.lives == 4}
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
 			{/if}
 			{#if game.lives == 3}
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
 			{/if}
 			{#if game.lives == 2}
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
 			{/if}
 			{#if game.lives == 1}
-			<img class="life" src="heart-svgrepo-com.svg" alt="life" />
+			<img class="life" src="heart.svg" alt="life" />
 			{/if}
 		</div>
 		
@@ -119,7 +130,10 @@
 <div class="game-over">
 	<h1 class="main-font">GAME OVER!</h1>
 	<p class="main-font">You scored {game.score} / {game.totalCountries}</p>
-	<button onclick={() => game = new GameRunner()} class="answer-button main-font">Play again</button>
+	{#if game.score == game.totalCountries}
+	<p class="main-font">You got them all correct! That is amazing!</p>
+	{/if}
+	<button onclick={() => resetGame()} class="answer-button main-font">Play again</button>
 </div>
 {/if}
 
@@ -142,6 +156,9 @@
 	<p>Capital City: {answerResponse.funFacts.capital}</p>
 	<hr style="color: white;"/>
 	{/if}
+	{#if !answerResponse.correct}
+	<p>The correct answer was {answerResponse.answer}</p>
+	{/if}
 	{/snippet}
 
 </ResponseModal>
@@ -159,11 +176,11 @@
 	}
 
 	.continent-buttons {
-		margin-bottom: 80vw;
+		margin-bottom: 5vh;
 		display: flex;
 		align-items: center;
 		flex-direction: column;
-		gap: 2rem;
+		gap: 1rem;
 	}
 
 	.main-menu button {
@@ -231,7 +248,9 @@
 		font-family: "Tomorrow", sans-serif;
 		font-weight: 400;
 		font-style: normal;
+		border: solid black 5px;
 		border-radius: 1rem;
+		box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
 	}
 
     .score-wrapper {
@@ -239,9 +258,10 @@
         /* size: 200%; */
 		width: 50%;
 		margin-left: 25%;
-		margin-bottom: 0.5rem;
-		margin-top: 0.5rem;
+		margin-bottom: 1rem;
+		margin-top: 1rem;
 		background-color: white;
+		border: solid black 5px;
 		border-radius: 1rem;
 		padding: 0.5rem 0 0.5rem 0;
     }
@@ -252,12 +272,12 @@
 		justify-content: center;
 		gap: 1rem;
 		max-width: 95vw;
-		margin: auto auto auto auto;
     }
 
     .life {
-        width: max(10vw);
-        height: max(10vh);
+		width: max(8vw, 15vw);
+		height: max(8vh, 15vh);
+		object-fit: contain;
     }
 
 	.main-font {
