@@ -215,19 +215,63 @@
 		margin-right: 25vw;
 		*/
 		display: flex;
+		justify-content: center;
 		align-items: center;
 		flex-direction: column;
 		
 		
 	}
 
-	.flag-svg {
-        width: max(70vw);
-		height: max(25vh);
-		box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
-		object-fit: cover;
-		overflow: hidden;
 
+	/* ‼️ THESE MEDIA QUERIES MAY NOT BE NEEDED AND CAN DEFFO BE CLEANED UP! PLEASE GO OVER THIS AT SOME POINT ‼️ */
+	@media (width <= 600px){
+		.flag-svg {
+			width: max(auto, 75vw);
+			height: max(25vh);
+			box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
+			object-fit: contain;
+			overflow: hidden;
+			
+		}
+		.lives {
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			gap: 1rem;
+			max-width: 95vw;
+		}
+
+		.life {
+			width: 10vw;
+			height: 10vh;
+			object-fit: contain;
+		}
+	}
+	@media (width >= 600px) {
+		.flag-svg {
+			width: max(auto, 75vw);
+			height: max(50vh);
+			box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
+			object-fit: contain;
+			overflow: hidden;
+			background-color: rgba(255, 255, 255, 0);
+			
+		}
+		.lives {
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			gap: 1rem;
+			max-width: 95vw;
+			margin-top: 1em;
+			margin-bottom: 1em;
+		}
+
+		.life {
+			width: 10vw;
+			height: 10vh;
+			object-fit: contain;
+		}
 	}
 
 	.answer-menu {
@@ -265,19 +309,8 @@
 		border-radius: 1rem;
     }
 
-    .lives {
-        display: flex;
-		flex-direction: row;
-		justify-content: center;
-		gap: 1rem;
-		max-width: 95vw;
-    }
 
-    .life {
-		width: 10vw;
-		height: 10vh;
-		object-fit: contain;
-    }
+
 
 	@media (height <= 550px) {
 		.main-font {
