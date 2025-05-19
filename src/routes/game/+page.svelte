@@ -190,6 +190,8 @@
 
 	.game-background {
 		background-color: white;
+		background-size: contain;
+		background-repeat: repeat;
 		position: fixed;
 		height: 100vh;
 		width: 100vw;
@@ -245,12 +247,13 @@
 			width: 10vw;
 			height: 10vh;
 			object-fit: contain;
+			animation: 1.5s ease 0s infinite beat;
 		}
 	}
 	@media (width >= 600px) {
 		.flag-svg {
 			width: max(auto, 75vw);
-			height: max(50vh);
+			height: max(35vh);
 			box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
 			object-fit: contain;
 			overflow: hidden;
@@ -268,9 +271,38 @@
 		}
 
 		.life {
-			width: 10vw;
-			height: 10vh;
+			width: min(10vw, 7vw);
+			height: min(10vh, 7vh);
 			object-fit: contain;
+			animation: 1.5s ease 0s infinite beat;
+		}
+		.main-font {
+			color: black;
+			font-family: "Tomorrow", sans-serif;
+			font-weight: 400;
+			font-style: normal;
+			font-size: x-large;
+		}
+		.answer-button {
+			padding: 2rem;
+			font-size: 1rem;
+			cursor: pointer;
+			background-color: #ffffff;
+			color: rgb(0, 0, 0);
+			font-family: "Tomorrow", sans-serif;
+			font-weight: 400;
+			font-style: normal;
+			border: solid black 5px;
+			border-radius: 1rem;
+			box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
+		}
+		.answer-menu {
+			display: flex;
+			flex-direction: column;
+			gap: 2rem;
+			max-width: 10%;
+			margin: 0rem auto auto auto;
+			padding-bottom: 2rem;
 		}
 	}
 
@@ -335,6 +367,13 @@
 		display: flex;
 		align-items: center;
 		flex-direction: column;
+	}
+
+	/* ANIMATIONS: */
+
+	@keyframes beat {
+		0%, 50%, 100% { transform: scale(1, 1); }
+		30%, 80% { transform: scale(0.92, 0.95); }
 	}
 
 </style>
