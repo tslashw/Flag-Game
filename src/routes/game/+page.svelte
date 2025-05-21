@@ -132,27 +132,28 @@
 	<h1 style="margin-bottom: 0;">GAME OVER!</h1>
 
 	{#if game.lives == 0}
-	<p>You ran out of lives!</p>
+		<p>You ran out of lives!</p>
 	{/if}
 	{#if game.lives != 0 && game.score != game.totalCountries}
-	<p>You made it to the end but you did not get them all correct...</p>
+		<p>You made it to the end but you did not get them all correct...</p>
 	{/if}
 	{#if game.score == game.totalCountries}
-	<p>You got them all correct! That is amazing!</p>
+		<p>You got them all correct! That is amazing!</p>
 	{/if}
 
 	<p>You scored <b>{game.score} / {game.totalCountries}</b></p>
 	
 	<button onclick={() => resetGame()} class="answer-button">Play again</button>
 	
-	{#if game.score == game.totalCountries}
+
+	{#if game.score != game.totalCountries}
 	<p>Study these flags for next time!</p>
 
 	<div class="game-analysis">
-		{#each game.wrongAnswers as wrongAnswer}
-		<img src={wrongAnswer.flagPath} alt="flag" />
-		<p>{wrongAnswer.answer}</p>
-		{/each}
+	{#each game.wrongAnswers as wrongAnswer}
+	<img src={wrongAnswer.flagPath} alt="flag" />
+	<p>{wrongAnswer.answer}</p>
+	{/each}
 	</div>
 	{/if}
 
