@@ -145,6 +145,7 @@
 	
 	<button onclick={() => resetGame()} class="answer-button">Play again</button>
 	
+	{#if game.score == game.totalCountries}
 	<p>Study these flags for next time!</p>
 
 	<div class="game-analysis">
@@ -153,6 +154,7 @@
 		<p>{wrongAnswer.answer}</p>
 		{/each}
 	</div>
+	{/if}
 
 	
 </div>
@@ -163,6 +165,7 @@
 <div class="main-font" style="font-weight: 100; font-size: normal;">
 <ResponseModal bind:showModal bgColor={modalColor}>
 
+		<!-- Header: -->
 		{#snippet header()}
 		{#if answerResponse.correct}
 		<h2>
@@ -173,25 +176,33 @@
 		{/if}
 		{/snippet}
 		
+		<!-- Body: -->
 		{#snippet children()}
-		{#if answerResponse.correct}
-		<h2>Fun Facts:</h2>
-		<b><p>Capital City:</p></b>
-		<p>{answerResponse.funFacts.capital}</p>
-		<b><p>Languages:</p></b>
-		{#each Object.entries(answerResponse.funFacts.languages) as [l, lang]}
-		<p>{lang}</p>
-		{/each}
-		<b><p>Currencies:</p></b>
-		{#each Object.entries(answerResponse.funFacts.currencies) as [c, {name, symbol}]}
-		<p>{name} ({symbol})</p>
-		{/each}
-		<hr style="color: white;"/>
-		{/if}
-		
-		{#if !answerResponse.correct}
-		<p>The correct answer was {answerResponse.answer}</p>
-		{/if}
+
+			{#if answerResponse.correct}
+				
+			<h2>Fun Facts:</h2>
+
+			<b><p>Capital City:</p></b>
+			<p>{answerResponse.funFacts.capital}</p>
+			
+			<b><p>Languages:</p></b>
+			{#each Object.entries(answerResponse.funFacts.languages) as [l, lang]}
+			<p>{lang}</p>
+			{/each}
+			
+			<b><p>Currencies:</p></b>
+			{#each Object.entries(answerResponse.funFacts.currencies) as [c, {name, symbol}]}
+			<p>{name} ({symbol})</p>
+			{/each}
+			{/if}
+			
+			<hr style="color: white;"/>
+			
+			{#if !answerResponse.correct}
+			<p>The correct answer was {answerResponse.answer}</p>
+			{/if}
+
 		{/snippet}
 		
 	</ResponseModal>
@@ -384,7 +395,7 @@
 	}
 	.answer-button:hover {
 		background-color: black;
-		color: white;
+		color: white; 
 	}
 
     .score-wrapper {
