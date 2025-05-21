@@ -29,7 +29,6 @@
         min-width: 75vw;
         min-height: 25vh;
         position: absolute;
-        top: -45%;
 		border-radius: 1rem;
 		border: none;
 		padding: 0;

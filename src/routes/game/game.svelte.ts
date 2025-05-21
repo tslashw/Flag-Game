@@ -166,7 +166,9 @@ export class GameRunner {
             "correct": correct,
             "answer": this.round.answer,
             "funFacts": {
-                "capital" : this.questionQueue[0]["capital"]
+                "capital" : this.questionQueue[0]["capital"],
+                "languages" : this.questionQueue[0]["languages"],
+                "currencies" : this.questionQueue[0]["currencies"]
             }
         }
 

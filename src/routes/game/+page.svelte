@@ -10,7 +10,9 @@
 	let answerResponse = $state({
             "correct": false,
             "funFacts": {
-                "capital" : ""
+                "capital" : "",
+				"languages" : [],
+				"currencies" : []
             }
 		});
 
@@ -21,10 +23,10 @@
 	let evaluateAnswer = (answer:string) => {
 		answerResponse = game.checkAnswer(answer);
 		if (answerResponse.correct) {
-			modalColor = "green";
+			modalColor = "#004225"; // https://encycolorpedia.com/004225
 		}
 		else {
-			modalColor = "red";
+			modalColor = "#a52a2a"; // https://encycolorpedia.com/a52a2a
 		}
 		showModal = true;
 	}
@@ -49,7 +51,7 @@
 <!-- MAIN MENU: -->
 {#if !game.gameRunning && !game.gameOver}
 <div class="main-menu">
-	<h1 class="main-font">Untitled Flag Game</h1>
+	<h1 class="title-font">Untitled Flag Game</h1>
 	<div class="continent-buttons">
 		<button onclick={() => game = new GameRunner("world")} class="answer-button main-font">WHOLE WORLD</button>
 		<button onclick={() => game = new GameRunner("asia")} class="answer-button main-font">ASIA</button>
@@ -139,8 +141,10 @@
 
 
 <!-- Response Modal: -->
+<div class="main-font" style="font-weight: 100; font-size: normal;">
 <ResponseModal bind:showModal bgColor={modalColor}>
-	{#snippet header()}
+
+		{#snippet header()}
 		{#if answerResponse.correct}
 		<h2>
 			Correct!
@@ -148,20 +152,31 @@
 		{:else if !answerResponse.correct}
 		<h2> Incorrect!</h2>
 		{/if}
-	{/snippet}
-	
-	{#snippet children()}
-	{#if answerResponse.correct}
-	<h2>Fun Facts:</h2>
-	<p>Capital City: {answerResponse.funFacts.capital}</p>
-	<hr style="color: white;"/>
-	{/if}
-	{#if !answerResponse.correct}
-	<p>The correct answer was {answerResponse.answer}</p>
-	{/if}
-	{/snippet}
-
-</ResponseModal>
+		{/snippet}
+		
+		{#snippet children()}
+		{#if answerResponse.correct}
+		<h2>Fun Facts:</h2>
+		<b><p>Capital City:</p></b>
+		<p>{answerResponse.funFacts.capital}</p>
+		<b><p>Languages:</p></b>
+		{#each Object.entries(answerResponse.funFacts.languages) as [l, lang]}
+		<p>{lang}</p>
+		{/each}
+		<b><p>Currencies:</p></b>
+		{#each Object.entries(answerResponse.funFacts.currencies) as [c, {name, symbol}]}
+		<p>{name} ({symbol})</p>
+		{/each}
+		<hr style="color: white;"/>
+		{/if}
+		
+		{#if !answerResponse.correct}
+		<p>The correct answer was {answerResponse.answer}</p>
+		{/if}
+		{/snippet}
+		
+	</ResponseModal>
+</div>
 
 <style>
 	body {
@@ -176,7 +191,7 @@
 	}
 
 	.continent-buttons {
-		margin-bottom: 5vh;
+		margin-bottom: auto;
 		display: flex;
 		align-items: center;
 		flex-direction: column;
@@ -352,6 +367,13 @@
 			font-style: normal;
 			font-size: small;
 		}
+		.title-font {
+			color: black;
+			font-family: "Tomorrow", sans-serif;
+			font-weight: 400;
+			font-style: normal;
+			font-size: 1rem;
+		}
 	}
 	@media (height >= 550px) {
 		.main-font {
@@ -361,7 +383,17 @@
 			font-style: normal;
 			font-size: large;
 		}
+		.title-font {
+			color: black;
+			font-family: "Tomorrow", sans-serif;
+			font-weight: 400;
+			font-style: normal;
+			font-size: 2rem;
+		}
+
 	}
+
+
 
 	.game-over {
 		display: flex;
