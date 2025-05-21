@@ -30,7 +30,8 @@
         min-height: 25vh;
         position: absolute;
 		border-radius: 1rem;
-		border: none;
+        border: solid black 5px;
+        outline: none !important;
 		padding: 0;
         color: white;
 	}
