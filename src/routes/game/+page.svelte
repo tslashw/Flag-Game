@@ -224,7 +224,7 @@
 	.game-analysis {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
-		max-width: 75%;
+		max-width: 95%;
 		padding: 0;
 
 	}
@@ -262,7 +262,7 @@
 		height: 95vh;
 		margin: 1rem auto;
 		box-sizing: border-box;
-		overflow: hidden;
+		/* overflow: hidden; */
 	}
 
 	.flag-wrapper {
@@ -381,6 +381,10 @@
 		border: solid black 5px;
 		border-radius: 1rem;
 		box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
+	}
+	.answer-button:hover {
+		background-color: black;
+		color: white;
 	}
 
     .score-wrapper {
