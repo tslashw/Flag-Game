@@ -50,32 +50,31 @@
 
 <!-- MAIN MENU: -->
 {#if !game.gameRunning && !game.gameOver}
-<div class="main-menu">
+<div class="main-menu main-font">
 	<h1 class="title-font">Untitled Flag Game</h1>
 	<div class="continent-buttons">
-		<button onclick={() => game = new GameRunner("world")} class="answer-button main-font">WHOLE WORLD</button>
-		<button onclick={() => game = new GameRunner("asia")} class="answer-button main-font">ASIA</button>
-		<button onclick={() => game = new GameRunner("europe")} class="answer-button main-font">EUROPE</button>
-		<button onclick={() => game = new GameRunner("north-america")} class="answer-button main-font">NORTH AMERICA</button>
-		<button onclick={() => game = new GameRunner("south-america")} class="answer-button main-font">SOUTH AMERICA</button>
-		<button onclick={() => game = new GameRunner("oceania")} class="answer-button main-font">OCEANIA</button>
-		<button onclick={() => game = new GameRunner("africa")} class="answer-button main-font">AFRICA</button>
-		<button onclick={() => game = new GameRunner("easy")} class="answer-button main-font">EASY MODE</button>
+		<button onclick={() => game = new GameRunner("world")} class="answer-button">WHOLE WORLD</button>
+		<button onclick={() => game = new GameRunner("asia")} class="answer-button">ASIA</button>
+		<button onclick={() => game = new GameRunner("europe")} class="answer-button">EUROPE</button>
+		<button onclick={() => game = new GameRunner("north-america")} class="answer-button">NORTH AMERICA</button>
+		<button onclick={() => game = new GameRunner("south-america")} class="answer-button">SOUTH AMERICA</button>
+		<button onclick={() => game = new GameRunner("oceania")} class="answer-button">OCEANIA</button>
+		<button onclick={() => game = new GameRunner("africa")} class="answer-button">AFRICA</button>
+		<button onclick={() => game = new GameRunner("easy")} class="answer-button">EASY MODE</button>
 	</div>
-	<p class="main-font">Game created by Tommy Wilson</p>
+	<p class="">Game created by Tommy Wilson</p>
 </div>
 {/if}
 
 {#if game.gameRunning}
 <div class="game-background" style="background-image: url({game.round.currentFlagPath})">
 
-	<div class="game">
+	<div class="game main-font">
 
 		<!-- score display -->
 		<div class="score-wrapper">
-			<!-- <p class="main-font">{game.progress} / {game.totalCountries}</p> -->
 			<progress value={game.progress} max={game.totalCountries}></progress>
-			<p class="main-font">SCORE: {game.score}</p>
+			<p class="">SCORE: {game.score}</p>
 		</div>
 		
 		
@@ -129,13 +128,33 @@
 {/if}
 
 {#if game.gameOver}
-<div class="game-over">
-	<h1 class="main-font">GAME OVER!</h1>
-	<p class="main-font">You scored {game.score} / {game.totalCountries}</p>
-	{#if game.score == game.totalCountries}
-	<p class="main-font">You got them all correct! That is amazing!</p>
+<div class="game-over main-font">
+	<h1>GAME OVER!</h1>
+	<p>You scored <b>{game.score} / {game.totalCountries}</b></p>
+	<button onclick={() => resetGame()} class="answer-button">Play again</button>
+	
+	{#if game.lives == 0}
+	<p>You ran out of lives! Keep an eye on the hearts!</p>
 	{/if}
-	<button onclick={() => resetGame()} class="answer-button main-font">Play again</button>
+	{#if game.lives != 0 && game.score != game.totalCountries}
+	<p>You made it to the end but you did not get them all correct...</p>
+	{/if}
+	{#if game.score == game.totalCountries}
+	<p>You got them all correct! That is amazing!</p>
+	{/if}
+
+	
+
+	<p>Study these flags for next time!</p>
+
+	<div class="game-analysis">
+		{#each game.wrongAnswers as wrongAnswer}
+		<img src={wrongAnswer.flagPath} alt="flag" />
+		<p>{wrongAnswer.answer}</p>
+		{/each}
+	</div>
+
+	
 </div>
 {/if}
 
@@ -187,7 +206,27 @@
 		display: flex;
 		align-items: center;
 		flex-direction: column;
+		border: solid black 2px;
+		border-radius: 2rem;
 		
+	}
+
+	.game-over {
+		display: flex;
+		align-items: center;
+		text-align: center;
+		box-sizing: border-box;
+		border: solid black 2px;
+		border-radius: 2rem;
+
+	}
+
+	.game-analysis {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		max-width: 75%;
+		padding: 0;
+
 	}
 
 	.continent-buttons {
@@ -217,7 +256,7 @@
 	.game {
 		-webkit-backdrop-filter: blur(10px);
 		backdrop-filter: blur(10px);
-		border: 2px solid white;
+		border: 2px solid black;
 		border-radius: 2rem;
 		width: 95vw;
 		height: 95vh;

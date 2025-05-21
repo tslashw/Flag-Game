@@ -18,6 +18,8 @@ export class GameRunner {
     countries:Object = "";
     questionQueue = [];
 
+    wrongAnswers:Array = []
+
     totalCountries:number = countries.length;
     progress:number = $state(1);
     score:number = $state(0);
@@ -159,7 +161,15 @@ export class GameRunner {
             this.score ++;
         }
         else {
+            
+            this.wrongAnswers.push({
+                "flagPath" : this.round.currentFlagPath,
+                "answer" : this.questionQueue[0]["name"]
+            });
+            console.log(this.wrongAnswers);
+            
             this.lives = this.lives - 1;
+
         }
 
         let response = {
