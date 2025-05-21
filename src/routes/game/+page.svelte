@@ -71,8 +71,8 @@
 
 		<!-- score display -->
 		<div class="score-wrapper">
-			<p class="main-font">{game.progress} / {game.totalCountries}</p>
-			<!-- <progress value={game.progress} max={game.totalCountries}></progress> -->
+			<!-- <p class="main-font">{game.progress} / {game.totalCountries}</p> -->
+			<progress value={game.progress} max={game.totalCountries}></progress>
 			<p class="main-font">SCORE: {game.score}</p>
 		</div>
 		
