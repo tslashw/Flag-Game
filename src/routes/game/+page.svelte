@@ -129,12 +129,10 @@
 
 {#if game.gameOver}
 <div class="game-over main-font">
-	<h1>GAME OVER!</h1>
-	<p>You scored <b>{game.score} / {game.totalCountries}</b></p>
-	<button onclick={() => resetGame()} class="answer-button">Play again</button>
-	
+	<h1 style="margin-bottom: 0;">GAME OVER!</h1>
+
 	{#if game.lives == 0}
-	<p>You ran out of lives! Keep an eye on the hearts!</p>
+	<p>You ran out of lives!</p>
 	{/if}
 	{#if game.lives != 0 && game.score != game.totalCountries}
 	<p>You made it to the end but you did not get them all correct...</p>
@@ -143,8 +141,10 @@
 	<p>You got them all correct! That is amazing!</p>
 	{/if}
 
+	<p>You scored <b>{game.score} / {game.totalCountries}</b></p>
 	
-
+	<button onclick={() => resetGame()} class="answer-button">Play again</button>
+	
 	<p>Study these flags for next time!</p>
 
 	<div class="game-analysis">
