@@ -8,13 +8,13 @@
 	let showModal = $state(false);
 	let modalColor = $state("");
 	let answerResponse = $state({
-            "correct": false,
-            "funFacts": {
-                "capital" : "",
-				"languages" : [],
-				"currencies" : []
-            }
-		});
+		"correct": false,
+		"funFacts": {
+			"capital" : "",
+			"languages" : [],
+			"currencies" : []
+		}
+	});
 
 	onMount(() => {
 		let game;
@@ -151,8 +151,12 @@
 
 	<div class="game-analysis">
 	{#each game.wrongAnswers as wrongAnswer}
-	<img src={wrongAnswer.flagPath} alt="flag" />
-	<p>{wrongAnswer.answer}</p>
+	<div>
+		<img src={wrongAnswer.flagPath} alt="flag" />
+	</div>
+	<div>
+		<p>{wrongAnswer.answer}</p>
+	</div>
 	{/each}
 	</div>
 	{/if}
@@ -196,9 +200,11 @@
 			{#each Object.entries(answerResponse.funFacts.currencies) as [c, {name, symbol}]}
 			<p>{name} ({symbol})</p>
 			{/each}
-			{/if}
 			
 			<hr style="color: white;"/>
+			
+			{/if}
+			
 			
 			{#if !answerResponse.correct}
 			<p>The correct answer was {answerResponse.answer}</p>
@@ -237,6 +243,7 @@
 		display: grid;
 		grid-template-columns: 1fr 1fr;
 		max-width: 95%;
+		min-width: 0;
 		padding: 0;
 
 	}
