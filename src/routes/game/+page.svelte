@@ -401,10 +401,12 @@
 		border-radius: 1rem;
 		box-shadow: 0 0 50px rgba(0, 0, 0, 0.905);
 	}
+	/*
 	.answer-button:hover {
 		background-color: black;
 		color: white; 
 	}
+	*/
 
     .score-wrapper {
         text-align: center;
