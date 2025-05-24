@@ -13,7 +13,7 @@
 <dialog
 	bind:this={dialog}
 	onclose={() => (showModal = false)}
-	onclick={(e) => { if (e.target === dialog) dialog.close(); }}
+	onclick={() => dialog.close()}
     style="background-color: {bgColor}"
 >
 	<div>
